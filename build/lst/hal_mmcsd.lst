@@ -1,0 +1,418 @@
+ARM GAS  C:\Users\denes\AppData\Local\Temp\cccZM3uQ.s 			page 1
+
+
+   1              		.cpu cortex-m3
+   2              		.arch armv7-m
+   3              		.fpu softvfp
+   4              		.eabi_attribute 20, 1
+   5              		.eabi_attribute 21, 1
+   6              		.eabi_attribute 23, 3
+   7              		.eabi_attribute 24, 1
+   8              		.eabi_attribute 25, 1
+   9              		.eabi_attribute 26, 1
+  10              		.eabi_attribute 30, 2
+  11              		.eabi_attribute 34, 1
+  12              		.eabi_attribute 18, 4
+  13              		.file	"hal_mmcsd.c"
+  14              		.section	.gnu.debuglto_.debug_info,"e",%progbits
+  15              	.Ldebug_info0:
+  16              		.hidden	hal_mmcsd.c.51cff6ca
+  17              		.weak	hal_mmcsd.c.51cff6ca
+  18              	hal_mmcsd.c.51cff6ca:
+  19 0000 76000000 		.4byte	0x76
+  20 0004 0500     		.2byte	0x5
+  21 0006 01       		.byte	0x1
+  22 0007 04       		.byte	0x4
+  23 0008 00000000 		.4byte	.Ldebug_abbrev0
+  24 000c 02       		.uleb128 0x2
+  25 000d 1B000000 		.4byte	.LASF12
+  26 0011 1D       		.byte	0x1d
+  27 0012 33010000 		.4byte	.LASF13
+  28 0016 73010000 		.4byte	.LASF14
+  29 001a 00000000 		.4byte	.Ldebug_line0
+  30 001e 03       		.uleb128 0x3
+  31 001f 04       		.byte	0x4
+  32 0020 05       		.byte	0x5
+  33 0021 696E7400 		.ascii	"int\000"
+  34 0025 01       		.uleb128 0x1
+  35 0026 04       		.byte	0x4
+  36 0027 07       		.byte	0x7
+  37 0028 0E000000 		.4byte	.LASF0
+  38 002c 01       		.uleb128 0x1
+  39 002d 08       		.byte	0x8
+  40 002e 05       		.byte	0x5
+  41 002f 00000000 		.4byte	.LASF1
+  42 0033 01       		.uleb128 0x1
+  43 0034 08       		.byte	0x8
+  44 0035 04       		.byte	0x4
+  45 0036 9C010000 		.4byte	.LASF2
+  46 003a 01       		.uleb128 0x1
+  47 003b 01       		.byte	0x1
+  48 003c 06       		.byte	0x6
+  49 003d 67010000 		.4byte	.LASF3
+  50 0041 01       		.uleb128 0x1
+  51 0042 01       		.byte	0x1
+  52 0043 08       		.byte	0x8
+  53 0044 17010000 		.4byte	.LASF4
+  54 0048 01       		.uleb128 0x1
+  55 0049 02       		.byte	0x2
+  56 004a 05       		.byte	0x5
+  57 004b A8010000 		.4byte	.LASF5
+ARM GAS  C:\Users\denes\AppData\Local\Temp\cccZM3uQ.s 			page 2
+
+
+  58 004f 01       		.uleb128 0x1
+  59 0050 02       		.byte	0x2
+  60 0051 07       		.byte	0x7
+  61 0052 54010000 		.4byte	.LASF6
+  62 0056 01       		.uleb128 0x1
+  63 0057 04       		.byte	0x4
+  64 0058 05       		.byte	0x5
+  65 0059 2A010000 		.4byte	.LASF7
+  66 005d 01       		.uleb128 0x1
+  67 005e 04       		.byte	0x4
+  68 005f 07       		.byte	0x7
+  69 0060 E8000000 		.4byte	.LASF8
+  70 0064 01       		.uleb128 0x1
+  71 0065 08       		.byte	0x8
+  72 0066 07       		.byte	0x7
+  73 0067 00010000 		.4byte	.LASF9
+  74 006b 01       		.uleb128 0x1
+  75 006c 01       		.byte	0x1
+  76 006d 08       		.byte	0x8
+  77 006e 25010000 		.4byte	.LASF10
+  78 0072 01       		.uleb128 0x1
+  79 0073 01       		.byte	0x1
+  80 0074 02       		.byte	0x2
+  81 0075 FA000000 		.4byte	.LASF11
+  82 0079 00       		.byte	0
+  83              		.section	.gnu.debuglto_.debug_abbrev,"e",%progbits
+  84              	.Ldebug_abbrev0:
+  85 0000 01       		.uleb128 0x1
+  86 0001 24       		.uleb128 0x24
+  87 0002 00       		.byte	0
+  88 0003 0B       		.uleb128 0xb
+  89 0004 0B       		.uleb128 0xb
+  90 0005 3E       		.uleb128 0x3e
+  91 0006 0B       		.uleb128 0xb
+  92 0007 03       		.uleb128 0x3
+  93 0008 0E       		.uleb128 0xe
+  94 0009 00       		.byte	0
+  95 000a 00       		.byte	0
+  96 000b 02       		.uleb128 0x2
+  97 000c 11       		.uleb128 0x11
+  98 000d 01       		.byte	0x1
+  99 000e 25       		.uleb128 0x25
+ 100 000f 0E       		.uleb128 0xe
+ 101 0010 13       		.uleb128 0x13
+ 102 0011 0B       		.uleb128 0xb
+ 103 0012 03       		.uleb128 0x3
+ 104 0013 0E       		.uleb128 0xe
+ 105 0014 1B       		.uleb128 0x1b
+ 106 0015 0E       		.uleb128 0xe
+ 107 0016 10       		.uleb128 0x10
+ 108 0017 17       		.uleb128 0x17
+ 109 0018 00       		.byte	0
+ 110 0019 00       		.byte	0
+ 111 001a 03       		.uleb128 0x3
+ 112 001b 24       		.uleb128 0x24
+ 113 001c 00       		.byte	0
+ 114 001d 0B       		.uleb128 0xb
+ARM GAS  C:\Users\denes\AppData\Local\Temp\cccZM3uQ.s 			page 3
+
+
+ 115 001e 0B       		.uleb128 0xb
+ 116 001f 3E       		.uleb128 0x3e
+ 117 0020 0B       		.uleb128 0xb
+ 118 0021 03       		.uleb128 0x3
+ 119 0022 08       		.uleb128 0x8
+ 120 0023 00       		.byte	0
+ 121 0024 00       		.byte	0
+ 122 0025 00       		.byte	0
+ 123              		.section	.gnu.debuglto_.debug_line,"e",%progbits
+ 124              	.Ldebug_line0:
+ 125 0000 2D000000 		.4byte	.LELT0-.LSLT0
+ 126              	.LSLT0:
+ 127 0004 0500     		.2byte	0x5
+ 128 0006 04       		.byte	0x4
+ 129 0007 00       		.byte	0
+ 130 0008 25000000 		.4byte	.LELTP0-.LASLTP0
+ 131              	.LASLTP0:
+ 132 000c 01       		.byte	0x1
+ 133 000d 01       		.byte	0x1
+ 134 000e 01       		.byte	0x1
+ 135 000f F6       		.byte	0xf6
+ 136 0010 F2       		.byte	0xf2
+ 137 0011 0D       		.byte	0xd
+ 138 0012 00       		.byte	0
+ 139 0013 01       		.byte	0x1
+ 140 0014 01       		.byte	0x1
+ 141 0015 01       		.byte	0x1
+ 142 0016 01       		.byte	0x1
+ 143 0017 00       		.byte	0
+ 144 0018 00       		.byte	0
+ 145 0019 00       		.byte	0
+ 146 001a 01       		.byte	0x1
+ 147 001b 00       		.byte	0
+ 148 001c 00       		.byte	0
+ 149 001d 01       		.byte	0x1
+ 150 001e 01       		.byte	0x1
+ 151 001f 01       		.uleb128 0x1
+ 152 0020 1F       		.uleb128 0x1f
+ 153 0021 01       		.uleb128 0x1
+ 154 0022 00000000 		.4byte	.LASF15
+ 155 0026 02       		.byte	0x2
+ 156 0027 01       		.uleb128 0x1
+ 157 0028 1F       		.uleb128 0x1f
+ 158 0029 02       		.uleb128 0x2
+ 159 002a 0B       		.uleb128 0xb
+ 160 002b 01       		.uleb128 0x1
+ 161 002c 29000000 		.4byte	.LASF16
+ 162 0030 00       		.byte	0
+ 163              	.LELTP0:
+ 164              	.LELT0:
+ 165              		.section	.gnu.debuglto_.debug_str,"eMS",%progbits,1
+ 166              	.LASF1:
+ 167 0000 6C6F6E67 		.ascii	"long long int\000"
+ 167      206C6F6E 
+ 167      6720696E 
+ 167      7400
+ 168              	.LASF0:
+ARM GAS  C:\Users\denes\AppData\Local\Temp\cccZM3uQ.s 			page 4
+
+
+ 169 000e 756E7369 		.ascii	"unsigned int\000"
+ 169      676E6564 
+ 169      20696E74 
+ 169      00
+ 170              	.LASF12:
+ 171 001b 474E5520 		.ascii	"GNU C17 13.3.0 -mcpu=cortex-m3 -mthumb -mfloat-abi="
+ 171      43313720 
+ 171      31332E33 
+ 171      2E30202D 
+ 171      6D637075 
+ 172 004e 736F6674 		.ascii	"soft -march=armv7-m -ggdb -O2 -fomit-frame-pointer "
+ 172      202D6D61 
+ 172      7263683D 
+ 172      61726D76 
+ 172      372D6D20 
+ 173 0081 2D66616C 		.ascii	"-falign-functions=16 -fsingle-precision-constant -f"
+ 173      69676E2D 
+ 173      66756E63 
+ 173      74696F6E 
+ 173      733D3136 
+ 174 00b4 66756E63 		.ascii	"function-sections -fdata-sections -fno-common -flto"
+ 174      74696F6E 
+ 174      2D736563 
+ 174      74696F6E 
+ 174      73202D66 
+ 175 00e7 00       		.ascii	"\000"
+ 176              	.LASF8:
+ 177 00e8 6C6F6E67 		.ascii	"long unsigned int\000"
+ 177      20756E73 
+ 177      69676E65 
+ 177      6420696E 
+ 177      7400
+ 178              	.LASF11:
+ 179 00fa 5F426F6F 		.ascii	"_Bool\000"
+ 179      6C00
+ 180              	.LASF9:
+ 181 0100 6C6F6E67 		.ascii	"long long unsigned int\000"
+ 181      206C6F6E 
+ 181      6720756E 
+ 181      7369676E 
+ 181      65642069 
+ 182              	.LASF4:
+ 183 0117 756E7369 		.ascii	"unsigned char\000"
+ 183      676E6564 
+ 183      20636861 
+ 183      7200
+ 184              	.LASF10:
+ 185 0125 63686172 		.ascii	"char\000"
+ 185      00
+ 186              	.LASF7:
+ 187 012a 6C6F6E67 		.ascii	"long int\000"
+ 187      20696E74 
+ 187      00
+ 188              	.LASF13:
+ 189 0133 2E2F4368 		.ascii	"./ChibiOS/os/hal/src/hal_mmcsd.c\000"
+ 189      6962694F 
+ 189      532F6F73 
+ARM GAS  C:\Users\denes\AppData\Local\Temp\cccZM3uQ.s 			page 5
+
+
+ 189      2F68616C 
+ 189      2F737263 
+ 190              	.LASF6:
+ 191 0154 73686F72 		.ascii	"short unsigned int\000"
+ 191      7420756E 
+ 191      7369676E 
+ 191      65642069 
+ 191      6E7400
+ 192              	.LASF3:
+ 193 0167 7369676E 		.ascii	"signed char\000"
+ 193      65642063 
+ 193      68617200 
+ 194              	.LASF14:
+ 195 0173 433A5C55 		.ascii	"C:\\Users\\denes\\Desktop\\canboard\\firmware\000"
+ 195      73657273 
+ 195      5C64656E 
+ 195      65735C44 
+ 195      65736B74 
+ 196              	.LASF2:
+ 197 019c 6C6F6E67 		.ascii	"long double\000"
+ 197      20646F75 
+ 197      626C6500 
+ 198              	.LASF5:
+ 199 01a8 73686F72 		.ascii	"short int\000"
+ 199      7420696E 
+ 199      7400
+ 200              		.section	.gnu.debuglto_.debug_line_str,"eMS",%progbits,1
+ 201              	.LASF15:
+ 202 0000 433A5C55 		.ascii	"C:\\Users\\denes\\Desktop\\canboard\\firmware\000"
+ 202      73657273 
+ 202      5C64656E 
+ 202      65735C44 
+ 202      65736B74 
+ 203              	.LASF16:
+ 204 0029 2E2F4368 		.ascii	"./ChibiOS/os/hal/src/hal_mmcsd.c\000"
+ 204      6962694F 
+ 204      532F6F73 
+ 204      2F68616C 
+ 204      2F737263 
+ 205              		.text
+ 206              		.section	.gnu.lto_.profile.62042e3e,"e",%progbits
+ 207 0000 28B52FFD 		.ascii	"(\265/\375 \0061\000\000\002\000\000\000\000\000"
+ 207      20063100 
+ 207      00020000 
+ 207      000000
+ 208              		.text
+ 209              		.section	.gnu.lto_.icf.62042e3e,"e",%progbits
+ 210 0000 28B52FFD 		.ascii	"(\265/\375 \016E\000\000\020\002\000\001\000\034\300"
+ 210      200E4500 
+ 210      00100200 
+ 210      01001CC0 
+ 211 0010 02       		.ascii	"\002"
+ 212              		.text
+ 213              		.section	.gnu.lto_.ipa_sra.62042e3e,"e",%progbits
+ 214 0000 28B52FFD 		.ascii	"(\265/\375 \016E\000\000\020\002\000\001\000\034\300"
+ 214      200E4500 
+ 214      00100200 
+ARM GAS  C:\Users\denes\AppData\Local\Temp\cccZM3uQ.s 			page 6
+
+
+ 214      01001CC0 
+ 215 0010 02       		.ascii	"\002"
+ 216              		.text
+ 217              		.section	.gnu.lto_.inline.62042e3e,"e",%progbits
+ 218 0000 28B52FFD 		.ascii	"(\265/\375 \016E\000\000\020\002\000\001\000\034\300"
+ 218      200E4500 
+ 218      00100200 
+ 218      01001CC0 
+ 219 0010 02       		.ascii	"\002"
+ 220              		.text
+ 221              		.section	.gnu.lto_.jmpfuncs.62042e3e,"e",%progbits
+ 222 0000 28B52FFD 		.ascii	"(\265/\375 \016E\000\000\020\002\000\001\000\034\300"
+ 222      200E4500 
+ 222      00100200 
+ 222      01001CC0 
+ 223 0010 02       		.ascii	"\002"
+ 224              		.text
+ 225              		.section	.gnu.lto_.pureconst.62042e3e,"e",%progbits
+ 226 0000 28B52FFD 		.ascii	"(\265/\375 \005)\000\000\001\000\000\000\000"
+ 226      20052900 
+ 226      00010000 
+ 226      0000
+ 227              		.text
+ 228              		.section	.gnu.lto_.ipa_modref.62042e3e,"e",%progbits
+ 229 0000 28B52FFD 		.ascii	"(\265/\375 \016E\000\000\020\002\000\001\000\034\300"
+ 229      200E4500 
+ 229      00100200 
+ 229      01001CC0 
+ 230 0010 02       		.ascii	"\002"
+ 231              		.text
+ 232              		.section	.gnu.lto_.lto.62042e3e,"e",%progbits
+ 233 0000 0D000100 		.ascii	"\015\000\001\000\001\000\001\000"
+ 233      01000100 
+ 234              		.text
+ 235              		.section	.gnu.lto_.symbol_nodes.62042e3e,"e",%progbits
+ 236 0000 28B52FFD 		.ascii	"(\265/\375 \0061\000\000\002\000\000\000\000\000"
+ 236      20063100 
+ 236      00020000 
+ 236      000000
+ 237              		.text
+ 238              		.section	.gnu.lto_.refs.62042e3e,"e",%progbits
+ 239 0000 28B52FFD 		.ascii	"(\265/\375 \005)\000\000\001\000\000\000\000"
+ 239      20052900 
+ 239      00010000 
+ 239      0000
+ 240              		.text
+ 241              		.section	.gnu.lto_.decls.62042e3e,"e",%progbits
+ 242 0000 28B52FFD 		.ascii	"(\265/\375 \035\351\000\000\000\000\000\000\001\000"
+ 242      201DE900 
+ 242      00000000 
+ 242      000100
+ 243 000f 00000C00 		.ascii	"\000\000\014\000\000\000\377\377\377\377\001\000\000"
+ 243      0000FFFF 
+ 243      FFFF0100 
+ 243      00
+ 244 001c 00D70000 		.ascii	"\000\327\000\000\000\000\000\000\000\000"
+ 244      00000000 
+ARM GAS  C:\Users\denes\AppData\Local\Temp\cccZM3uQ.s 			page 7
+
+
+ 244      0000
+ 245              		.text
+ 246              		.section	.gnu.lto_.symtab.62042e3e,"e",%progbits
+ 247              		.text
+ 248              		.section	.gnu.lto_.ext_symtab.62042e3e,"e",%progbits
+ 249 0000 01       		.ascii	"\001"
+ 250              		.text
+ 251              		.section	.gnu.lto_.opts,"e",%progbits
+ 252 0000 272D666E 		.ascii	"'-fno-openmp' '-fno-openacc' '-fno-pie' '-fcf-prote"
+ 252      6F2D6F70 
+ 252      656E6D70 
+ 252      2720272D 
+ 252      666E6F2D 
+ 253 0033 6374696F 		.ascii	"ction=none' '-g' '-mcpu=cortex-m3' '-mthumb' '-mflo"
+ 253      6E3D6E6F 
+ 253      6E652720 
+ 253      272D6727 
+ 253      20272D6D 
+ 254 0066 61742D61 		.ascii	"at-abi=soft' '-mlibarch=armv7-m' '-march=armv7-m' '"
+ 254      62693D73 
+ 254      6F667427 
+ 254      20272D6D 
+ 254      6C696261 
+ 255 0099 2D4F3227 		.ascii	"-O2' '-fomit-frame-pointer' '-falign-functions=16' "
+ 255      20272D66 
+ 255      6F6D6974 
+ 255      2D667261 
+ 255      6D652D70 
+ 256 00cc 272D6673 		.ascii	"'-fsingle-precision-constant' '-ffunction-sections'"
+ 256      696E676C 
+ 256      652D7072 
+ 256      65636973 
+ 256      696F6E2D 
+ 257 00ff 20272D66 		.ascii	" '-fdata-sections' '-fno-common' '-flto=auto' '-Xas"
+ 257      64617461 
+ 257      2D736563 
+ 257      74696F6E 
+ 257      73272027 
+ 258 0132 73656D62 		.ascii	"sembler' '-alms=./build/lst/hal_mmcsd.lst'\000"
+ 258      6C657227 
+ 258      20272D61 
+ 258      6C6D733D 
+ 258      2E2F6275 
+ 259              		.text
+ 260              		.comm	__gnu_lto_slim,1,1
+ 261              		.ident	"GCC: (GNU) 13.3.0"
+ARM GAS  C:\Users\denes\AppData\Local\Temp\cccZM3uQ.s 			page 8
+
+
+DEFINED SYMBOLS
+                            *ABS*:00000000 hal_mmcsd.c
+C:\Users\denes\AppData\Local\Temp\cccZM3uQ.s:18     .gnu.debuglto_.debug_info:00000000 hal_mmcsd.c.51cff6ca
+                            *COM*:00000001 __gnu_lto_slim
+
+NO UNDEFINED SYMBOLS

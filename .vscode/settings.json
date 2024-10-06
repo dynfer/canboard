@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "random": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "mutex": "cpp",
+        "cstring": "cpp",
+        "hal_gpt_lld.c": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "string_view": "cpp",
+        "memory": "cpp",
+        "initializer_list": "cpp",
+        "portab.h": "c",
+        "*.inc": "cpp"
+    },
+    "cmake.sourceDirectory": "C:/Users/denes/Desktop/mpxstm/firmware"
+}

@@ -1,0 +1,31 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+    {
+        "name": "Debug F103 (firmware)",
+        "type": "cortex-debug",
+        "request": "launch",
+        "cwd": "${workspaceFolder}/firmware/",
+        "executable": "${workspaceRoot}/firmware/build/canboard.elf",
+        "device": "STM32F103C8",
+        "v1": false,
+        "svdFile": "${workspaceRoot}/firmware/STM32F103.svd",
+        "servertype": "openocd",
+        "configFiles": ["interface/stlink.cfg", "target/stm32f1x.cfg"],
+        "rtos": "auto"
+    },
+    {
+        "name": "Attach Debug F103 (firmware)",
+        "type": "cortex-debug",
+        "request": "attach",
+        "cwd": "${workspaceFolder}/firmware/",
+        "executable": "${workspaceRoot}/firmware/build/canboard.elf",
+        "device": "STM32F103C8",
+        "v1": false,
+        "svdFile": "${workspaceRoot}/firmware/STM32F103.svd",
+        "servertype": "openocd",
+        "configFiles": ["interface/stlink.cfg", "target/stm32f1x.cfg"],
+        "rtos": "auto"
+    }
+    ]
+}

@@ -1,0 +1,3037 @@
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 1
+
+
+   1              		.cpu cortex-m3
+   2              		.arch armv7-m
+   3              		.fpu softvfp
+   4              		.eabi_attribute 20, 1
+   5              		.eabi_attribute 21, 1
+   6              		.eabi_attribute 23, 3
+   7              		.eabi_attribute 24, 1
+   8              		.eabi_attribute 25, 1
+   9              		.eabi_attribute 26, 1
+  10              		.eabi_attribute 30, 2
+  11              		.eabi_attribute 34, 1
+  12              		.eabi_attribute 18, 4
+  13              		.file	"crt1.c"
+  14              		.file 1 "C:/msys64/mingw64/arm-none-eabi/include/machine/_default_types.h"
+  15              		.file 2 "C:/msys64/mingw64/arm-none-eabi/include/sys/_stdint.h"
+  16              		.file 3 "./ChibiOS/os/common/startup/ARMCMx/compilers/GCC/crt1.c"
+  17              		.section	.gnu.debuglto_.debug_info,"e",%progbits
+  18              	.Ldebug_info0:
+  19              		.hidden	crt1.c.c9773146
+  20              		.weak	crt1.c.c9773146
+  21              	crt1.c.c9773146:
+  22 0000 92020000 		.4byte	0x292
+  23 0004 0500     		.2byte	0x5
+  24 0006 01       		.byte	0x1
+  25 0007 04       		.byte	0x4
+  26 0008 00000000 		.4byte	.Ldebug_abbrev0
+  27 000c 09       		.uleb128 0x9
+  28 000d 64000000 		.4byte	.LASF52
+  29 0011 1D       		.byte	0x1d
+  30 0012 00000000 		.4byte	.LASF53
+  31 0016 4B020000 		.4byte	.LASF54
+  32 001a 00000000 		.4byte	.Ldebug_line0
+  33 001e 02       		.uleb128 0x2
+  34 001f 01       		.byte	0x1
+  35 0020 06       		.byte	0x6
+  36 0021 3B040000 		.4byte	.LASF0
+  37 0025 02       		.uleb128 0x2
+  38 0026 01       		.byte	0x1
+  39 0027 08       		.byte	0x8
+  40 0028 92020000 		.4byte	.LASF1
+  41 002c 02       		.uleb128 0x2
+  42 002d 02       		.byte	0x2
+  43 002e 05       		.byte	0x5
+  44 002f F1030000 		.4byte	.LASF2
+  45 0033 02       		.uleb128 0x2
+  46 0034 02       		.byte	0x2
+  47 0035 07       		.byte	0x7
+  48 0036 74010000 		.4byte	.LASF3
+  49 003a 02       		.uleb128 0x2
+  50 003b 04       		.byte	0x4
+  51 003c 05       		.byte	0x5
+  52 003d 22040000 		.4byte	.LASF4
+  53 0041 04       		.uleb128 0x4
+  54 0042 D3020000 		.4byte	.LASF9
+  55 0046 01       		.byte	0x1
+  56 0047 4F       		.byte	0x4f
+  57 0048 19       		.byte	0x19
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 2
+
+
+  58 0049 4D000000 		.4byte	0x4d
+  59 004d 02       		.uleb128 0x2
+  60 004e 04       		.byte	0x4
+  61 004f 07       		.byte	0x7
+  62 0050 0E020000 		.4byte	.LASF5
+  63 0054 02       		.uleb128 0x2
+  64 0055 08       		.byte	0x8
+  65 0056 05       		.byte	0x5
+  66 0057 9E030000 		.4byte	.LASF6
+  67 005b 02       		.uleb128 0x2
+  68 005c 08       		.byte	0x8
+  69 005d 07       		.byte	0x7
+  70 005e 4A030000 		.4byte	.LASF7
+  71 0062 0A       		.uleb128 0xa
+  72 0063 04       		.byte	0x4
+  73 0064 05       		.byte	0x5
+  74 0065 696E7400 		.ascii	"int\000"
+  75 0069 02       		.uleb128 0x2
+  76 006a 04       		.byte	0x4
+  77 006b 07       		.byte	0x7
+  78 006c 3D030000 		.4byte	.LASF8
+  79 0070 04       		.uleb128 0x4
+  80 0071 19040000 		.4byte	.LASF10
+  81 0075 02       		.byte	0x2
+  82 0076 30       		.byte	0x30
+  83 0077 14       		.byte	0x14
+  84 0078 41000000 		.4byte	0x41
+  85 007c 0B       		.uleb128 0xb
+  86 007d 10       		.byte	0x10
+  87 007e 03       		.byte	0x3
+  88 007f 35       		.byte	0x35
+  89 0080 09       		.byte	0x9
+  90 0081 B2000000 		.4byte	0xb2
+  91 0085 03       		.uleb128 0x3
+  92 0086 FB030000 		.4byte	.LASF11
+  93 008a 36       		.byte	0x36
+  94 008b B2000000 		.4byte	0xb2
+  95 008f 00       		.byte	0
+  96 0090 03       		.uleb128 0x3
+  97 0091 4D010000 		.4byte	.LASF12
+  98 0095 37       		.byte	0x37
+  99 0096 B2000000 		.4byte	0xb2
+ 100 009a 04       		.byte	0x4
+ 101 009b 03       		.uleb128 0x3
+ 102 009c E8010000 		.4byte	.LASF13
+ 103 00a0 38       		.byte	0x38
+ 104 00a1 B2000000 		.4byte	0xb2
+ 105 00a5 08       		.byte	0x8
+ 106 00a6 03       		.uleb128 0x3
+ 107 00a7 81030000 		.4byte	.LASF14
+ 108 00ab 39       		.byte	0x39
+ 109 00ac B2000000 		.4byte	0xb2
+ 110 00b0 0C       		.byte	0xc
+ 111 00b1 00       		.byte	0
+ 112 00b2 07       		.uleb128 0x7
+ 113 00b3 70000000 		.4byte	0x70
+ 114 00b7 04       		.uleb128 0x4
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 3
+
+
+ 115 00b8 DE020000 		.4byte	.LASF15
+ 116 00bc 03       		.byte	0x3
+ 117 00bd 3A       		.byte	0x3a
+ 118 00be 03       		.byte	0x3
+ 119 00bf 7C000000 		.4byte	0x7c
+ 120 00c3 08       		.uleb128 0x8
+ 121 00c4 B7000000 		.4byte	0xb7
+ 122 00c8 01       		.uleb128 0x1
+ 123 00c9 61010000 		.4byte	.LASF16
+ 124 00cd 41       		.byte	0x41
+ 125 00ce 11       		.byte	0x11
+ 126 00cf 70000000 		.4byte	0x70
+ 127 00d3 01       		.uleb128 0x1
+ 128 00d4 20020000 		.4byte	.LASF17
+ 129 00d8 41       		.byte	0x41
+ 130 00d9 25       		.byte	0x25
+ 131 00da 70000000 		.4byte	0x70
+ 132 00de 01       		.uleb128 0x1
+ 133 00df 0A040000 		.4byte	.LASF18
+ 134 00e3 41       		.byte	0x41
+ 135 00e4 34       		.byte	0x34
+ 136 00e5 70000000 		.4byte	0x70
+ 137 00e9 01       		.uleb128 0x1
+ 138 00ea 54000000 		.4byte	.LASF19
+ 139 00ee 41       		.byte	0x41
+ 140 00ef 44       		.byte	0x44
+ 141 00f0 70000000 		.4byte	0x70
+ 142 00f4 01       		.uleb128 0x1
+ 143 00f5 BC030000 		.4byte	.LASF20
+ 144 00f9 44       		.byte	0x44
+ 145 00fa 11       		.byte	0x11
+ 146 00fb 70000000 		.4byte	0x70
+ 147 00ff 01       		.uleb128 0x1
+ 148 0100 96010000 		.4byte	.LASF21
+ 149 0104 44       		.byte	0x44
+ 150 0105 25       		.byte	0x25
+ 151 0106 70000000 		.4byte	0x70
+ 152 010a 01       		.uleb128 0x1
+ 153 010b 3C020000 		.4byte	.LASF22
+ 154 010f 44       		.byte	0x44
+ 155 0110 34       		.byte	0x34
+ 156 0111 70000000 		.4byte	0x70
+ 157 0115 01       		.uleb128 0x1
+ 158 0116 2B040000 		.4byte	.LASF23
+ 159 011a 44       		.byte	0x44
+ 160 011b 44       		.byte	0x44
+ 161 011c 70000000 		.4byte	0x70
+ 162 0120 01       		.uleb128 0x1
+ 163 0121 C0020000 		.4byte	.LASF24
+ 164 0125 47       		.byte	0x47
+ 165 0126 11       		.byte	0x11
+ 166 0127 70000000 		.4byte	0x70
+ 167 012b 01       		.uleb128 0x1
+ 168 012c 38000000 		.4byte	.LASF25
+ 169 0130 47       		.byte	0x47
+ 170 0131 25       		.byte	0x25
+ 171 0132 70000000 		.4byte	0x70
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 4
+
+
+ 172 0136 01       		.uleb128 0x1
+ 173 0137 CF030000 		.4byte	.LASF26
+ 174 013b 47       		.byte	0x47
+ 175 013c 34       		.byte	0x34
+ 176 013d 70000000 		.4byte	0x70
+ 177 0141 01       		.uleb128 0x1
+ 178 0142 AC030000 		.4byte	.LASF27
+ 179 0146 47       		.byte	0x47
+ 180 0147 44       		.byte	0x44
+ 181 0148 70000000 		.4byte	0x70
+ 182 014c 01       		.uleb128 0x1
+ 183 014d D5010000 		.4byte	.LASF28
+ 184 0151 4A       		.byte	0x4a
+ 185 0152 11       		.byte	0x11
+ 186 0153 70000000 		.4byte	0x70
+ 187 0157 01       		.uleb128 0x1
+ 188 0158 84020000 		.4byte	.LASF29
+ 189 015c 4A       		.byte	0x4a
+ 190 015d 25       		.byte	0x25
+ 191 015e 70000000 		.4byte	0x70
+ 192 0162 01       		.uleb128 0x1
+ 193 0163 87010000 		.4byte	.LASF30
+ 194 0167 4A       		.byte	0x4a
+ 195 0168 34       		.byte	0x34
+ 196 0169 70000000 		.4byte	0x70
+ 197 016d 01       		.uleb128 0x1
+ 198 016e 8E030000 		.4byte	.LASF31
+ 199 0172 4A       		.byte	0x4a
+ 200 0173 44       		.byte	0x44
+ 201 0174 70000000 		.4byte	0x70
+ 202 0178 01       		.uleb128 0x1
+ 203 0179 DE030000 		.4byte	.LASF32
+ 204 017d 4D       		.byte	0x4d
+ 205 017e 11       		.byte	0x11
+ 206 017f 70000000 		.4byte	0x70
+ 207 0183 01       		.uleb128 0x1
+ 208 0184 10030000 		.4byte	.LASF33
+ 209 0188 4D       		.byte	0x4d
+ 210 0189 25       		.byte	0x25
+ 211 018a 70000000 		.4byte	0x70
+ 212 018e 01       		.uleb128 0x1
+ 213 018f 1E030000 		.4byte	.LASF34
+ 214 0193 4D       		.byte	0x4d
+ 215 0194 34       		.byte	0x34
+ 216 0195 70000000 		.4byte	0x70
+ 217 0199 01       		.uleb128 0x1
+ 218 019a 2D030000 		.4byte	.LASF35
+ 219 019e 4D       		.byte	0x4d
+ 220 019f 44       		.byte	0x44
+ 221 01a0 70000000 		.4byte	0x70
+ 222 01a4 01       		.uleb128 0x1
+ 223 01a5 EE020000 		.4byte	.LASF36
+ 224 01a9 50       		.byte	0x50
+ 225 01aa 11       		.byte	0x11
+ 226 01ab 70000000 		.4byte	0x70
+ 227 01af 01       		.uleb128 0x1
+ 228 01b0 2E020000 		.4byte	.LASF37
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 5
+
+
+ 229 01b4 50       		.byte	0x50
+ 230 01b5 25       		.byte	0x25
+ 231 01b6 70000000 		.4byte	0x70
+ 232 01ba 01       		.uleb128 0x1
+ 233 01bb 47040000 		.4byte	.LASF38
+ 234 01bf 50       		.byte	0x50
+ 235 01c0 34       		.byte	0x34
+ 236 01c1 70000000 		.4byte	0x70
+ 237 01c5 01       		.uleb128 0x1
+ 238 01c6 74020000 		.4byte	.LASF39
+ 239 01ca 50       		.byte	0x50
+ 240 01cb 44       		.byte	0x44
+ 241 01cc 70000000 		.4byte	0x70
+ 242 01d0 01       		.uleb128 0x1
+ 243 01d1 B2010000 		.4byte	.LASF40
+ 244 01d5 53       		.byte	0x53
+ 245 01d6 11       		.byte	0x11
+ 246 01d7 70000000 		.4byte	0x70
+ 247 01db 01       		.uleb128 0x1
+ 248 01dc A4010000 		.4byte	.LASF41
+ 249 01e0 53       		.byte	0x53
+ 250 01e1 25       		.byte	0x25
+ 251 01e2 70000000 		.4byte	0x70
+ 252 01e6 01       		.uleb128 0x1
+ 253 01e7 FF010000 		.4byte	.LASF42
+ 254 01eb 53       		.byte	0x53
+ 255 01ec 34       		.byte	0x34
+ 256 01ed 70000000 		.4byte	0x70
+ 257 01f1 01       		.uleb128 0x1
+ 258 01f2 C5010000 		.4byte	.LASF43
+ 259 01f6 53       		.byte	0x53
+ 260 01f7 44       		.byte	0x44
+ 261 01f8 70000000 		.4byte	0x70
+ 262 01fc 01       		.uleb128 0x1
+ 263 01fd 61030000 		.4byte	.LASF44
+ 264 0201 56       		.byte	0x56
+ 265 0202 11       		.byte	0x11
+ 266 0203 70000000 		.4byte	0x70
+ 267 0207 01       		.uleb128 0x1
+ 268 0208 46000000 		.4byte	.LASF45
+ 269 020c 56       		.byte	0x56
+ 270 020d 25       		.byte	0x25
+ 271 020e 70000000 		.4byte	0x70
+ 272 0212 01       		.uleb128 0x1
+ 273 0213 01030000 		.4byte	.LASF46
+ 274 0217 56       		.byte	0x56
+ 275 0218 34       		.byte	0x34
+ 276 0219 70000000 		.4byte	0x70
+ 277 021d 01       		.uleb128 0x1
+ 278 021e 3D010000 		.4byte	.LASF47
+ 279 0222 56       		.byte	0x56
+ 280 0223 44       		.byte	0x44
+ 281 0224 70000000 		.4byte	0x70
+ 282 0228 0C       		.uleb128 0xc
+ 283 0229 C3000000 		.4byte	0xc3
+ 284 022d 38020000 		.4byte	0x238
+ 285 0231 0D       		.uleb128 0xd
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 6
+
+
+ 286 0232 69000000 		.4byte	0x69
+ 287 0236 07       		.byte	0x7
+ 288 0237 00       		.byte	0
+ 289 0238 08       		.uleb128 0x8
+ 290 0239 28020000 		.4byte	0x228
+ 291 023d 0E       		.uleb128 0xe
+ 292 023e 57010000 		.4byte	.LASF48
+ 293 0242 03       		.byte	0x3
+ 294 0243 5D       		.byte	0x5d
+ 295 0244 1E       		.byte	0x1e
+ 296 0245 38020000 		.4byte	0x238
+ 297 0249 0F       		.uleb128 0xf
+ 298 024a AF020000 		.4byte	.LASF55
+ 299 024e 03       		.byte	0x3
+ 300 024f C1       		.byte	0xc1
+ 301 0250 06       		.byte	0x6
+ 302 0251 76020000 		.4byte	0x276
+ 303 0255 05       		.uleb128 0x5
+ 304 0256 72617000 		.ascii	"rap\000"
+ 305 025a C3       		.byte	0xc3
+ 306 025b 1A       		.byte	0x1a
+ 307 025c 76020000 		.4byte	0x276
+ 308 0260 10       		.uleb128 0x10
+ 309 0261 05       		.uleb128 0x5
+ 310 0262 747000   		.ascii	"tp\000"
+ 311 0265 C6       		.byte	0xc6
+ 312 0266 0F       		.byte	0xf
+ 313 0267 B2000000 		.4byte	0xb2
+ 314 026b 05       		.uleb128 0x5
+ 315 026c 7000     		.ascii	"p\000"
+ 316 026e C7       		.byte	0xc7
+ 317 026f 0F       		.byte	0xf
+ 318 0270 B2000000 		.4byte	0xb2
+ 319 0274 00       		.byte	0
+ 320 0275 00       		.byte	0
+ 321 0276 07       		.uleb128 0x7
+ 322 0277 C3000000 		.4byte	0xc3
+ 323 027b 11       		.uleb128 0x11
+ 324 027c A0020000 		.4byte	.LASF56
+ 325 0280 03       		.byte	0x3
+ 326 0281 B7       		.byte	0xb7
+ 327 0282 06       		.byte	0x6
+ 328 0283 06       		.uleb128 0x6
+ 329 0284 F3010000 		.4byte	.LASF49
+ 330 0288 AA       		.byte	0xaa
+ 331 0289 06       		.uleb128 0x6
+ 332 028a 74030000 		.4byte	.LASF50
+ 333 028e 9C       		.byte	0x9c
+ 334 028f 06       		.uleb128 0x6
+ 335 0290 31010000 		.4byte	.LASF51
+ 336 0294 89       		.byte	0x89
+ 337 0295 00       		.byte	0
+ 338              		.section	.gnu.debuglto_.debug_abbrev,"e",%progbits
+ 339              	.Ldebug_abbrev0:
+ 340 0000 01       		.uleb128 0x1
+ 341 0001 34       		.uleb128 0x34
+ 342 0002 00       		.byte	0
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 7
+
+
+ 343 0003 03       		.uleb128 0x3
+ 344 0004 0E       		.uleb128 0xe
+ 345 0005 3A       		.uleb128 0x3a
+ 346 0006 21       		.uleb128 0x21
+ 347 0007 03       		.sleb128 3
+ 348 0008 3B       		.uleb128 0x3b
+ 349 0009 0B       		.uleb128 0xb
+ 350 000a 39       		.uleb128 0x39
+ 351 000b 0B       		.uleb128 0xb
+ 352 000c 49       		.uleb128 0x49
+ 353 000d 13       		.uleb128 0x13
+ 354 000e 3F       		.uleb128 0x3f
+ 355 000f 19       		.uleb128 0x19
+ 356 0010 3C       		.uleb128 0x3c
+ 357 0011 19       		.uleb128 0x19
+ 358 0012 00       		.byte	0
+ 359 0013 00       		.byte	0
+ 360 0014 02       		.uleb128 0x2
+ 361 0015 24       		.uleb128 0x24
+ 362 0016 00       		.byte	0
+ 363 0017 0B       		.uleb128 0xb
+ 364 0018 0B       		.uleb128 0xb
+ 365 0019 3E       		.uleb128 0x3e
+ 366 001a 0B       		.uleb128 0xb
+ 367 001b 03       		.uleb128 0x3
+ 368 001c 0E       		.uleb128 0xe
+ 369 001d 00       		.byte	0
+ 370 001e 00       		.byte	0
+ 371 001f 03       		.uleb128 0x3
+ 372 0020 0D       		.uleb128 0xd
+ 373 0021 00       		.byte	0
+ 374 0022 03       		.uleb128 0x3
+ 375 0023 0E       		.uleb128 0xe
+ 376 0024 3A       		.uleb128 0x3a
+ 377 0025 21       		.uleb128 0x21
+ 378 0026 03       		.sleb128 3
+ 379 0027 3B       		.uleb128 0x3b
+ 380 0028 0B       		.uleb128 0xb
+ 381 0029 39       		.uleb128 0x39
+ 382 002a 21       		.uleb128 0x21
+ 383 002b 1A       		.sleb128 26
+ 384 002c 49       		.uleb128 0x49
+ 385 002d 13       		.uleb128 0x13
+ 386 002e 38       		.uleb128 0x38
+ 387 002f 0B       		.uleb128 0xb
+ 388 0030 00       		.byte	0
+ 389 0031 00       		.byte	0
+ 390 0032 04       		.uleb128 0x4
+ 391 0033 16       		.uleb128 0x16
+ 392 0034 00       		.byte	0
+ 393 0035 03       		.uleb128 0x3
+ 394 0036 0E       		.uleb128 0xe
+ 395 0037 3A       		.uleb128 0x3a
+ 396 0038 0B       		.uleb128 0xb
+ 397 0039 3B       		.uleb128 0x3b
+ 398 003a 0B       		.uleb128 0xb
+ 399 003b 39       		.uleb128 0x39
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 8
+
+
+ 400 003c 0B       		.uleb128 0xb
+ 401 003d 49       		.uleb128 0x49
+ 402 003e 13       		.uleb128 0x13
+ 403 003f 00       		.byte	0
+ 404 0040 00       		.byte	0
+ 405 0041 05       		.uleb128 0x5
+ 406 0042 34       		.uleb128 0x34
+ 407 0043 00       		.byte	0
+ 408 0044 03       		.uleb128 0x3
+ 409 0045 08       		.uleb128 0x8
+ 410 0046 3A       		.uleb128 0x3a
+ 411 0047 21       		.uleb128 0x21
+ 412 0048 03       		.sleb128 3
+ 413 0049 3B       		.uleb128 0x3b
+ 414 004a 0B       		.uleb128 0xb
+ 415 004b 39       		.uleb128 0x39
+ 416 004c 0B       		.uleb128 0xb
+ 417 004d 49       		.uleb128 0x49
+ 418 004e 13       		.uleb128 0x13
+ 419 004f 00       		.byte	0
+ 420 0050 00       		.byte	0
+ 421 0051 06       		.uleb128 0x6
+ 422 0052 2E       		.uleb128 0x2e
+ 423 0053 00       		.byte	0
+ 424 0054 3F       		.uleb128 0x3f
+ 425 0055 19       		.uleb128 0x19
+ 426 0056 03       		.uleb128 0x3
+ 427 0057 0E       		.uleb128 0xe
+ 428 0058 3A       		.uleb128 0x3a
+ 429 0059 21       		.uleb128 0x21
+ 430 005a 03       		.sleb128 3
+ 431 005b 3B       		.uleb128 0x3b
+ 432 005c 0B       		.uleb128 0xb
+ 433 005d 39       		.uleb128 0x39
+ 434 005e 21       		.uleb128 0x21
+ 435 005f 06       		.sleb128 6
+ 436 0060 27       		.uleb128 0x27
+ 437 0061 19       		.uleb128 0x19
+ 438 0062 00       		.byte	0
+ 439 0063 00       		.byte	0
+ 440 0064 07       		.uleb128 0x7
+ 441 0065 0F       		.uleb128 0xf
+ 442 0066 00       		.byte	0
+ 443 0067 0B       		.uleb128 0xb
+ 444 0068 21       		.uleb128 0x21
+ 445 0069 04       		.sleb128 4
+ 446 006a 49       		.uleb128 0x49
+ 447 006b 13       		.uleb128 0x13
+ 448 006c 00       		.byte	0
+ 449 006d 00       		.byte	0
+ 450 006e 08       		.uleb128 0x8
+ 451 006f 26       		.uleb128 0x26
+ 452 0070 00       		.byte	0
+ 453 0071 49       		.uleb128 0x49
+ 454 0072 13       		.uleb128 0x13
+ 455 0073 00       		.byte	0
+ 456 0074 00       		.byte	0
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 9
+
+
+ 457 0075 09       		.uleb128 0x9
+ 458 0076 11       		.uleb128 0x11
+ 459 0077 01       		.byte	0x1
+ 460 0078 25       		.uleb128 0x25
+ 461 0079 0E       		.uleb128 0xe
+ 462 007a 13       		.uleb128 0x13
+ 463 007b 0B       		.uleb128 0xb
+ 464 007c 03       		.uleb128 0x3
+ 465 007d 0E       		.uleb128 0xe
+ 466 007e 1B       		.uleb128 0x1b
+ 467 007f 0E       		.uleb128 0xe
+ 468 0080 10       		.uleb128 0x10
+ 469 0081 17       		.uleb128 0x17
+ 470 0082 00       		.byte	0
+ 471 0083 00       		.byte	0
+ 472 0084 0A       		.uleb128 0xa
+ 473 0085 24       		.uleb128 0x24
+ 474 0086 00       		.byte	0
+ 475 0087 0B       		.uleb128 0xb
+ 476 0088 0B       		.uleb128 0xb
+ 477 0089 3E       		.uleb128 0x3e
+ 478 008a 0B       		.uleb128 0xb
+ 479 008b 03       		.uleb128 0x3
+ 480 008c 08       		.uleb128 0x8
+ 481 008d 00       		.byte	0
+ 482 008e 00       		.byte	0
+ 483 008f 0B       		.uleb128 0xb
+ 484 0090 13       		.uleb128 0x13
+ 485 0091 01       		.byte	0x1
+ 486 0092 0B       		.uleb128 0xb
+ 487 0093 0B       		.uleb128 0xb
+ 488 0094 3A       		.uleb128 0x3a
+ 489 0095 0B       		.uleb128 0xb
+ 490 0096 3B       		.uleb128 0x3b
+ 491 0097 0B       		.uleb128 0xb
+ 492 0098 39       		.uleb128 0x39
+ 493 0099 0B       		.uleb128 0xb
+ 494 009a 01       		.uleb128 0x1
+ 495 009b 13       		.uleb128 0x13
+ 496 009c 00       		.byte	0
+ 497 009d 00       		.byte	0
+ 498 009e 0C       		.uleb128 0xc
+ 499 009f 01       		.uleb128 0x1
+ 500 00a0 01       		.byte	0x1
+ 501 00a1 49       		.uleb128 0x49
+ 502 00a2 13       		.uleb128 0x13
+ 503 00a3 01       		.uleb128 0x1
+ 504 00a4 13       		.uleb128 0x13
+ 505 00a5 00       		.byte	0
+ 506 00a6 00       		.byte	0
+ 507 00a7 0D       		.uleb128 0xd
+ 508 00a8 21       		.uleb128 0x21
+ 509 00a9 00       		.byte	0
+ 510 00aa 49       		.uleb128 0x49
+ 511 00ab 13       		.uleb128 0x13
+ 512 00ac 2F       		.uleb128 0x2f
+ 513 00ad 0B       		.uleb128 0xb
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 10
+
+
+ 514 00ae 00       		.byte	0
+ 515 00af 00       		.byte	0
+ 516 00b0 0E       		.uleb128 0xe
+ 517 00b1 34       		.uleb128 0x34
+ 518 00b2 00       		.byte	0
+ 519 00b3 03       		.uleb128 0x3
+ 520 00b4 0E       		.uleb128 0xe
+ 521 00b5 3A       		.uleb128 0x3a
+ 522 00b6 0B       		.uleb128 0xb
+ 523 00b7 3B       		.uleb128 0x3b
+ 524 00b8 0B       		.uleb128 0xb
+ 525 00b9 39       		.uleb128 0x39
+ 526 00ba 0B       		.uleb128 0xb
+ 527 00bb 49       		.uleb128 0x49
+ 528 00bc 13       		.uleb128 0x13
+ 529 00bd 00       		.byte	0
+ 530 00be 00       		.byte	0
+ 531 00bf 0F       		.uleb128 0xf
+ 532 00c0 2E       		.uleb128 0x2e
+ 533 00c1 01       		.byte	0x1
+ 534 00c2 3F       		.uleb128 0x3f
+ 535 00c3 19       		.uleb128 0x19
+ 536 00c4 03       		.uleb128 0x3
+ 537 00c5 0E       		.uleb128 0xe
+ 538 00c6 3A       		.uleb128 0x3a
+ 539 00c7 0B       		.uleb128 0xb
+ 540 00c8 3B       		.uleb128 0x3b
+ 541 00c9 0B       		.uleb128 0xb
+ 542 00ca 39       		.uleb128 0x39
+ 543 00cb 0B       		.uleb128 0xb
+ 544 00cc 27       		.uleb128 0x27
+ 545 00cd 19       		.uleb128 0x19
+ 546 00ce 01       		.uleb128 0x1
+ 547 00cf 13       		.uleb128 0x13
+ 548 00d0 00       		.byte	0
+ 549 00d1 00       		.byte	0
+ 550 00d2 10       		.uleb128 0x10
+ 551 00d3 0B       		.uleb128 0xb
+ 552 00d4 01       		.byte	0x1
+ 553 00d5 00       		.byte	0
+ 554 00d6 00       		.byte	0
+ 555 00d7 11       		.uleb128 0x11
+ 556 00d8 2E       		.uleb128 0x2e
+ 557 00d9 00       		.byte	0
+ 558 00da 3F       		.uleb128 0x3f
+ 559 00db 19       		.uleb128 0x19
+ 560 00dc 03       		.uleb128 0x3
+ 561 00dd 0E       		.uleb128 0xe
+ 562 00de 3A       		.uleb128 0x3a
+ 563 00df 0B       		.uleb128 0xb
+ 564 00e0 3B       		.uleb128 0x3b
+ 565 00e1 0B       		.uleb128 0xb
+ 566 00e2 39       		.uleb128 0x39
+ 567 00e3 0B       		.uleb128 0xb
+ 568 00e4 27       		.uleb128 0x27
+ 569 00e5 19       		.uleb128 0x19
+ 570 00e6 8701     		.uleb128 0x87
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 11
+
+
+ 571 00e8 19       		.uleb128 0x19
+ 572 00e9 00       		.byte	0
+ 573 00ea 00       		.byte	0
+ 574 00eb 00       		.byte	0
+ 575              		.section	.gnu.debuglto_.debug_line,"e",%progbits
+ 576              	.Ldebug_line0:
+ 577 0000 48000000 		.4byte	.LELT0-.LSLT0
+ 578              	.LSLT0:
+ 579 0004 0500     		.2byte	0x5
+ 580 0006 04       		.byte	0x4
+ 581 0007 00       		.byte	0
+ 582 0008 40000000 		.4byte	.LELTP0-.LASLTP0
+ 583              	.LASLTP0:
+ 584 000c 01       		.byte	0x1
+ 585 000d 01       		.byte	0x1
+ 586 000e 01       		.byte	0x1
+ 587 000f F6       		.byte	0xf6
+ 588 0010 F2       		.byte	0xf2
+ 589 0011 0D       		.byte	0xd
+ 590 0012 00       		.byte	0
+ 591 0013 01       		.byte	0x1
+ 592 0014 01       		.byte	0x1
+ 593 0015 01       		.byte	0x1
+ 594 0016 01       		.byte	0x1
+ 595 0017 00       		.byte	0
+ 596 0018 00       		.byte	0
+ 597 0019 00       		.byte	0
+ 598 001a 01       		.byte	0x1
+ 599 001b 00       		.byte	0
+ 600 001c 00       		.byte	0
+ 601 001d 01       		.byte	0x1
+ 602 001e 01       		.byte	0x1
+ 603 001f 01       		.uleb128 0x1
+ 604 0020 1F       		.uleb128 0x1f
+ 605 0021 04       		.uleb128 0x4
+ 606 0022 00000000 		.4byte	.LASF57
+ 607 0026 61000000 		.4byte	.LASF58
+ 608 002a E2000000 		.4byte	.LASF59
+ 609 002e 98000000 		.4byte	.LASF60
+ 610 0032 02       		.byte	0x2
+ 611 0033 01       		.uleb128 0x1
+ 612 0034 1F       		.uleb128 0x1f
+ 613 0035 02       		.uleb128 0x2
+ 614 0036 0B       		.uleb128 0xb
+ 615 0037 04       		.uleb128 0x4
+ 616 0038 29000000 		.4byte	.LASF61
+ 617 003c 00       		.byte	0
+ 618 003d D1000000 		.4byte	.LASF62
+ 619 0041 01       		.byte	0x1
+ 620 0042 C7000000 		.4byte	.LASF63
+ 621 0046 02       		.byte	0x2
+ 622 0047 91000000 		.4byte	.LASF64
+ 623 004b 03       		.byte	0x3
+ 624              	.LELTP0:
+ 625              	.LELT0:
+ 626              		.section	.gnu.debuglto_.debug_str,"eMS",%progbits,1
+ 627              	.LASF53:
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 12
+
+
+ 628 0000 2E2F4368 		.ascii	"./ChibiOS/os/common/startup/ARMCMx/compilers/GCC/cr"
+ 628      6962694F 
+ 628      532F6F73 
+ 628      2F636F6D 
+ 628      6D6F6E2F 
+ 629 0033 74312E63 		.ascii	"t1.c\000"
+ 629      00
+ 630              	.LASF25:
+ 631 0038 5F5F7261 		.ascii	"__ram2_init__\000"
+ 631      6D325F69 
+ 631      6E69745F 
+ 631      5F00
+ 632              	.LASF45:
+ 633 0046 5F5F7261 		.ascii	"__ram7_init__\000"
+ 633      6D375F69 
+ 633      6E69745F 
+ 633      5F00
+ 634              	.LASF19:
+ 635 0054 5F5F7261 		.ascii	"__ram0_noinit__\000"
+ 635      6D305F6E 
+ 635      6F696E69 
+ 635      745F5F00 
+ 636              	.LASF52:
+ 637 0064 474E5520 		.ascii	"GNU C17 13.3.0 -mcpu=cortex-m3 -mthumb -mfloat-abi="
+ 637      43313720 
+ 637      31332E33 
+ 637      2E30202D 
+ 637      6D637075 
+ 638 0097 736F6674 		.ascii	"soft -march=armv7-m -ggdb -O2 -fomit-frame-pointer "
+ 638      202D6D61 
+ 638      7263683D 
+ 638      61726D76 
+ 638      372D6D20 
+ 639 00ca 2D66616C 		.ascii	"-falign-functions=16 -fsingle-precision-constant -f"
+ 639      69676E2D 
+ 639      66756E63 
+ 639      74696F6E 
+ 639      733D3136 
+ 640 00fd 66756E63 		.ascii	"function-sections -fdata-sections -fno-common -flto"
+ 640      74696F6E 
+ 640      2D736563 
+ 640      74696F6E 
+ 640      73202D66 
+ 641 0130 00       		.ascii	"\000"
+ 642              	.LASF51:
+ 643 0131 5F5F636F 		.ascii	"__core_init\000"
+ 643      72655F69 
+ 643      6E697400 
+ 644              	.LASF47:
+ 645 013d 5F5F7261 		.ascii	"__ram7_noinit__\000"
+ 645      6D375F6E 
+ 645      6F696E69 
+ 645      745F5F00 
+ 646              	.LASF12:
+ 647 014d 696E6974 		.ascii	"init_area\000"
+ 647      5F617265 
+ 647      6100
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 13
+
+
+ 648              	.LASF48:
+ 649 0157 72616D5F 		.ascii	"ram_areas\000"
+ 649      61726561 
+ 649      7300
+ 650              	.LASF16:
+ 651 0161 5F5F7261 		.ascii	"__ram0_init_text__\000"
+ 651      6D305F69 
+ 651      6E69745F 
+ 651      74657874 
+ 651      5F5F00
+ 652              	.LASF3:
+ 653 0174 73686F72 		.ascii	"short unsigned int\000"
+ 653      7420756E 
+ 653      7369676E 
+ 653      65642069 
+ 653      6E7400
+ 654              	.LASF30:
+ 655 0187 5F5F7261 		.ascii	"__ram3_clear__\000"
+ 655      6D335F63 
+ 655      6C656172 
+ 655      5F5F00
+ 656              	.LASF21:
+ 657 0196 5F5F7261 		.ascii	"__ram1_init__\000"
+ 657      6D315F69 
+ 657      6E69745F 
+ 657      5F00
+ 658              	.LASF41:
+ 659 01a4 5F5F7261 		.ascii	"__ram6_init__\000"
+ 659      6D365F69 
+ 659      6E69745F 
+ 659      5F00
+ 660              	.LASF40:
+ 661 01b2 5F5F7261 		.ascii	"__ram6_init_text__\000"
+ 661      6D365F69 
+ 661      6E69745F 
+ 661      74657874 
+ 661      5F5F00
+ 662              	.LASF43:
+ 663 01c5 5F5F7261 		.ascii	"__ram6_noinit__\000"
+ 663      6D365F6E 
+ 663      6F696E69 
+ 663      745F5F00 
+ 664              	.LASF28:
+ 665 01d5 5F5F7261 		.ascii	"__ram3_init_text__\000"
+ 665      6D335F69 
+ 665      6E69745F 
+ 665      74657874 
+ 665      5F5F00
+ 666              	.LASF13:
+ 667 01e8 636C6561 		.ascii	"clear_area\000"
+ 667      725F6172 
+ 667      656100
+ 668              	.LASF49:
+ 669 01f3 5F5F6C61 		.ascii	"__late_init\000"
+ 669      74655F69 
+ 669      6E697400 
+ 670              	.LASF42:
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 14
+
+
+ 671 01ff 5F5F7261 		.ascii	"__ram6_clear__\000"
+ 671      6D365F63 
+ 671      6C656172 
+ 671      5F5F00
+ 672              	.LASF5:
+ 673 020e 6C6F6E67 		.ascii	"long unsigned int\000"
+ 673      20756E73 
+ 673      69676E65 
+ 673      6420696E 
+ 673      7400
+ 674              	.LASF17:
+ 675 0220 5F5F7261 		.ascii	"__ram0_init__\000"
+ 675      6D305F69 
+ 675      6E69745F 
+ 675      5F00
+ 676              	.LASF37:
+ 677 022e 5F5F7261 		.ascii	"__ram5_init__\000"
+ 677      6D355F69 
+ 677      6E69745F 
+ 677      5F00
+ 678              	.LASF22:
+ 679 023c 5F5F7261 		.ascii	"__ram1_clear__\000"
+ 679      6D315F63 
+ 679      6C656172 
+ 679      5F5F00
+ 680              	.LASF54:
+ 681 024b 433A5C55 		.ascii	"C:\\Users\\denes\\Desktop\\canboard\\firmware\000"
+ 681      73657273 
+ 681      5C64656E 
+ 681      65735C44 
+ 681      65736B74 
+ 682              	.LASF39:
+ 683 0274 5F5F7261 		.ascii	"__ram5_noinit__\000"
+ 683      6D355F6E 
+ 683      6F696E69 
+ 683      745F5F00 
+ 684              	.LASF29:
+ 685 0284 5F5F7261 		.ascii	"__ram3_init__\000"
+ 685      6D335F69 
+ 685      6E69745F 
+ 685      5F00
+ 686              	.LASF1:
+ 687 0292 756E7369 		.ascii	"unsigned char\000"
+ 687      676E6564 
+ 687      20636861 
+ 687      7200
+ 688              	.LASF56:
+ 689 02a0 5F5F6465 		.ascii	"__default_exit\000"
+ 689      6661756C 
+ 689      745F6578 
+ 689      697400
+ 690              	.LASF55:
+ 691 02af 5F5F696E 		.ascii	"__init_ram_areas\000"
+ 691      69745F72 
+ 691      616D5F61 
+ 691      72656173 
+ 691      00
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 15
+
+
+ 692              	.LASF24:
+ 693 02c0 5F5F7261 		.ascii	"__ram2_init_text__\000"
+ 693      6D325F69 
+ 693      6E69745F 
+ 693      74657874 
+ 693      5F5F00
+ 694              	.LASF9:
+ 695 02d3 5F5F7569 		.ascii	"__uint32_t\000"
+ 695      6E743332 
+ 695      5F7400
+ 696              	.LASF15:
+ 697 02de 72616D5F 		.ascii	"ram_init_area_t\000"
+ 697      696E6974 
+ 697      5F617265 
+ 697      615F7400 
+ 698              	.LASF36:
+ 699 02ee 5F5F7261 		.ascii	"__ram5_init_text__\000"
+ 699      6D355F69 
+ 699      6E69745F 
+ 699      74657874 
+ 699      5F5F00
+ 700              	.LASF46:
+ 701 0301 5F5F7261 		.ascii	"__ram7_clear__\000"
+ 701      6D375F63 
+ 701      6C656172 
+ 701      5F5F00
+ 702              	.LASF33:
+ 703 0310 5F5F7261 		.ascii	"__ram4_init__\000"
+ 703      6D345F69 
+ 703      6E69745F 
+ 703      5F00
+ 704              	.LASF34:
+ 705 031e 5F5F7261 		.ascii	"__ram4_clear__\000"
+ 705      6D345F63 
+ 705      6C656172 
+ 705      5F5F00
+ 706              	.LASF35:
+ 707 032d 5F5F7261 		.ascii	"__ram4_noinit__\000"
+ 707      6D345F6E 
+ 707      6F696E69 
+ 707      745F5F00 
+ 708              	.LASF8:
+ 709 033d 756E7369 		.ascii	"unsigned int\000"
+ 709      676E6564 
+ 709      20696E74 
+ 709      00
+ 710              	.LASF7:
+ 711 034a 6C6F6E67 		.ascii	"long long unsigned int\000"
+ 711      206C6F6E 
+ 711      6720756E 
+ 711      7369676E 
+ 711      65642069 
+ 712              	.LASF44:
+ 713 0361 5F5F7261 		.ascii	"__ram7_init_text__\000"
+ 713      6D375F69 
+ 713      6E69745F 
+ 713      74657874 
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 16
+
+
+ 713      5F5F00
+ 714              	.LASF50:
+ 715 0374 5F5F6561 		.ascii	"__early_init\000"
+ 715      726C795F 
+ 715      696E6974 
+ 715      00
+ 716              	.LASF14:
+ 717 0381 6E6F5F69 		.ascii	"no_init_area\000"
+ 717      6E69745F 
+ 717      61726561 
+ 717      00
+ 718              	.LASF31:
+ 719 038e 5F5F7261 		.ascii	"__ram3_noinit__\000"
+ 719      6D335F6E 
+ 719      6F696E69 
+ 719      745F5F00 
+ 720              	.LASF6:
+ 721 039e 6C6F6E67 		.ascii	"long long int\000"
+ 721      206C6F6E 
+ 721      6720696E 
+ 721      7400
+ 722              	.LASF27:
+ 723 03ac 5F5F7261 		.ascii	"__ram2_noinit__\000"
+ 723      6D325F6E 
+ 723      6F696E69 
+ 723      745F5F00 
+ 724              	.LASF20:
+ 725 03bc 5F5F7261 		.ascii	"__ram1_init_text__\000"
+ 725      6D315F69 
+ 725      6E69745F 
+ 725      74657874 
+ 725      5F5F00
+ 726              	.LASF26:
+ 727 03cf 5F5F7261 		.ascii	"__ram2_clear__\000"
+ 727      6D325F63 
+ 727      6C656172 
+ 727      5F5F00
+ 728              	.LASF32:
+ 729 03de 5F5F7261 		.ascii	"__ram4_init_text__\000"
+ 729      6D345F69 
+ 729      6E69745F 
+ 729      74657874 
+ 729      5F5F00
+ 730              	.LASF2:
+ 731 03f1 73686F72 		.ascii	"short int\000"
+ 731      7420696E 
+ 731      7400
+ 732              	.LASF11:
+ 733 03fb 696E6974 		.ascii	"init_text_area\000"
+ 733      5F746578 
+ 733      745F6172 
+ 733      656100
+ 734              	.LASF18:
+ 735 040a 5F5F7261 		.ascii	"__ram0_clear__\000"
+ 735      6D305F63 
+ 735      6C656172 
+ 735      5F5F00
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 17
+
+
+ 736              	.LASF10:
+ 737 0419 75696E74 		.ascii	"uint32_t\000"
+ 737      33325F74 
+ 737      00
+ 738              	.LASF4:
+ 739 0422 6C6F6E67 		.ascii	"long int\000"
+ 739      20696E74 
+ 739      00
+ 740              	.LASF23:
+ 741 042b 5F5F7261 		.ascii	"__ram1_noinit__\000"
+ 741      6D315F6E 
+ 741      6F696E69 
+ 741      745F5F00 
+ 742              	.LASF0:
+ 743 043b 7369676E 		.ascii	"signed char\000"
+ 743      65642063 
+ 743      68617200 
+ 744              	.LASF38:
+ 745 0447 5F5F7261 		.ascii	"__ram5_clear__\000"
+ 745      6D355F63 
+ 745      6C656172 
+ 745      5F5F00
+ 746              		.section	.gnu.debuglto_.debug_line_str,"eMS",%progbits,1
+ 747              	.LASF57:
+ 748 0000 433A5C55 		.ascii	"C:\\Users\\denes\\Desktop\\canboard\\firmware\000"
+ 748      73657273 
+ 748      5C64656E 
+ 748      65735C44 
+ 748      65736B74 
+ 749              	.LASF61:
+ 750 0029 2E2F4368 		.ascii	"./ChibiOS/os/common/startup/ARMCMx/compilers/GCC/cr"
+ 750      6962694F 
+ 750      532F6F73 
+ 750      2F636F6D 
+ 750      6D6F6E2F 
+ 751 005c 74312E63 		.ascii	"t1.c\000"
+ 751      00
+ 752              	.LASF58:
+ 753 0061 433A2F6D 		.ascii	"C:/msys64/mingw64/arm-none-eabi/include/machine\000"
+ 753      73797336 
+ 753      342F6D69 
+ 753      6E677736 
+ 753      342F6172 
+ 754              	.LASF64:
+ 755 0091 63727431 		.ascii	"crt1.c\000"
+ 755      2E6300
+ 756              	.LASF60:
+ 757 0098 43686962 		.ascii	"ChibiOS/os/common/startup/ARMCMx/compilers/GCC\000"
+ 757      694F532F 
+ 757      6F732F63 
+ 757      6F6D6D6F 
+ 757      6E2F7374 
+ 758              	.LASF63:
+ 759 00c7 5F737464 		.ascii	"_stdint.h\000"
+ 759      696E742E 
+ 759      6800
+ 760              	.LASF62:
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 18
+
+
+ 761 00d1 5F646566 		.ascii	"_default_types.h\000"
+ 761      61756C74 
+ 761      5F747970 
+ 761      65732E68 
+ 761      00
+ 762              	.LASF59:
+ 763 00e2 433A2F6D 		.ascii	"C:/msys64/mingw64/arm-none-eabi/include/sys\000"
+ 763      73797336 
+ 763      342F6D69 
+ 763      6E677736 
+ 763      342F6172 
+ 764              		.text
+ 765              		.section	.gnu.lto_.profile.61b1bee7,"e",%progbits
+ 766 0000 28B52FFD 		.ascii	"(\265/\375 \0061\000\000\002\000\000\000\000\000"
+ 766      20063100 
+ 766      00020000 
+ 766      000000
+ 767              		.text
+ 768              		.section	.gnu.lto_.icf.61b1bee7,"e",%progbits
+ 769 0000 28B52FFD 		.ascii	"(\265/\375 S\315\001\000\204\002G\000\006\000\264\373"
+ 769      2053CD01 
+ 769      00840247 
+ 769      000600B4 
+ 769      FB
+ 770 0011 82FB0F00 		.ascii	"\202\373\017\000\001\002\003\270\205\351\327\011\000"
+ 770      010203B8 
+ 770      85E9D709 
+ 770      00
+ 771 001e 04CAE98E 		.ascii	"\004\312\351\216\333\005\016\002\000\002\001\000\002"
+ 771      DB050E02 
+ 771      00020100 
+ 771      02
+ 772 002b 0105DFDC 		.ascii	"\001\005\337\334\271\373\006\000\006\000/\004p\004\354"
+ 772      B9FB0600 
+ 772      06002F04 
+ 772      7004EC
+ 773 003a 6E0043A8 		.ascii	"n\000C\250\214\263\001,"
+ 773      8CB3012C 
+ 774              		.text
+ 775              		.section	.gnu.lto_.ipa_sra.61b1bee7,"e",%progbits
+ 776 0000 28B52FFD 		.ascii	"(\265/\375 \035\315\000\000\230\021\000\005\000\000"
+ 776      201DCD00 
+ 776      00981100 
+ 776      050000
+ 777 000f 01010001 		.ascii	"\001\001\000\001\002\000\001\003\000\001\004\000\001"
+ 777      02000103 
+ 777      00010400 
+ 777      01
+ 778 001c 0001001B 		.ascii	"\000\001\000\033\300\002"
+ 778      C002
+ 779              		.text
+ 780              		.section	.gnu.lto_.inline.61b1bee7,"e",%progbits
+ 781 0000 28B52FFD 		.ascii	"(\265/\375 \302\215\002\000D\003\266\000\005\000\000"
+ 781      20C28D02 
+ 781      004403B6 
+ 781      00050000 
+ 782 0010 03808080 		.ascii	"\003\200\200\200\200\002d\001\000\000\002\000\000\201"
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 19
+
+
+ 782      80026401 
+ 782      00000200 
+ 782      0081
+ 783 001e 8080807E 		.ascii	"\200\200\200~\000\000\006\002\000\000\001\002\003\000"
+ 783      00000602 
+ 783      00000102 
+ 783      0300
+ 784 002c 02040400 		.ascii	"\002\004\004\000\024\356\305\256\261\003l\"\356\305"
+ 784      14EEC5AE 
+ 784      B1036C22 
+ 784      EEC5
+ 785 003a AEB0036C 		.ascii	"\256\260\003l\000\013\000\023\203\006\204\003\031n\016"
+ 785      000B0013 
+ 785      83068403 
+ 785      196E0E
+ 786 0049 07279061 		.ascii	"\007'\220a\030\200\274\216\242\261\271.7\361\330@\033"
+ 786      1880BC8E 
+ 786      A2B1B92E 
+ 786      37F1D840 
+ 786      1B
+ 787              		.text
+ 788              		.section	.gnu.lto_.jmpfuncs.61b1bee7,"e",%progbits
+ 789 0000 28B52FFD 		.ascii	"(\265/\375 \035\315\000\000\230\021\000\005\000\000"
+ 789      201DCD00 
+ 789      00981100 
+ 789      050000
+ 790 000f 00010000 		.ascii	"\000\001\000\000\002\000\000\003\000\000\004\000\000"
+ 790      02000003 
+ 790      00000400 
+ 790      00
+ 791 001c 0001001B 		.ascii	"\000\001\000\033\300\002"
+ 791      C002
+ 792              		.text
+ 793              		.section	.gnu.lto_.pureconst.61b1bee7,"e",%progbits
+ 794 0000 28B52FFD 		.ascii	"(\265/\375 \024\241\000\000\020\000\000\000\005\000"
+ 794      2014A100 
+ 794      00100000 
+ 794      000500
+ 795 000f 98040198 		.ascii	"\230\004\001\230\004\002\230\004\003\264\004\004\232"
+ 795      04029804 
+ 795      03B40404 
+ 795      9A
+ 796 001c 04       		.ascii	"\004"
+ 797              		.text
+ 798              		.section	.gnu.lto_.ipa_modref.61b1bee7,"e",%progbits
+ 799 0000 28B52FFD 		.ascii	"(\265/\375 X\275\001\000$\002L\000\005\000\001\000\002"
+ 799      2058BD01 
+ 799      0024024C 
+ 799      00050001 
+ 799      0002
+ 800 0012 00030002 		.ascii	"\000\003\000\002\004\002\002\003\000\001\002\004\001"
+ 800      04020203 
+ 800      00010204 
+ 800      01
+ 801 001f 00020500 		.ascii	"\000\002\005\000\001\002\005\001\000\001\000\000\002"
+ 801      01020501 
+ 801      00010000 
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 20
+
+
+ 801      02
+ 802 002c 000800BB 		.ascii	"\000\010\000\273\000Sb\255\004\0142\006\004\003\202"
+ 802      005362AD 
+ 802      040C3206 
+ 802      040382
+ 803 003b 41C11BC0 		.ascii	"A\301\033\300\002"
+ 803      02
+ 804              		.text
+ 805              		.section	.gnu.lto_.lto.61b1bee7,"e",%progbits
+ 806 0000 0D000100 		.ascii	"\015\000\001\000\001\000\001\000"
+ 806      01000100 
+ 807              		.text
+ 808              		.section	.gnu.lto_ram_areas.65.61b1bee7,"e",%progbits
+ 809 0000 28B52FFD 		.ascii	"(\265/\375`\363\001U\015\000\024\025\203\002\000\000"
+ 809      60F30155 
+ 809      0D001415 
+ 809      83020000 
+ 810 0010 64000501 		.ascii	"d\000\005\001\212\001\202\200\200\374\205\227\352\303"
+ 810      8A018280 
+ 810      80FC8597 
+ 810      EAC3
+ 811 001e 1E007F7D 		.ascii	"\036\000\177}\250Y\177{9\177y\004\177w\000\005\001?"
+ 811      A8597F7B 
+ 811      397F7904 
+ 811      7F770005 
+ 811      013F
+ 812 0030 82888020 		.ascii	"\202\210\200 us\274\001q\273\001o\272\001m\271\001\005"
+ 812      7573BC01 
+ 812      71BB016F 
+ 812      BA016DB9 
+ 812      0105
+ 813 0042 01061501 		.ascii	"\001\006\025\001\007\270\337\303\036\177kY\177i9\177"
+ 813      07B8DFC3 
+ 813      1E7F6B59 
+ 813      7F69397F 
+ 814 0052 67047F65 		.ascii	"g\004\177e\302\001q\301\001o\300\001m\277\006\334\303"
+ 814      C20171C1 
+ 814      016FC001 
+ 814      6DBF06DC 
+ 814      C3
+ 815 0063 1E7F6361 		.ascii	"\036\177ca_]\310\001q\307\001o\306\001m\305\005\331"
+ 815      5F5DC801 
+ 815      71C7016F 
+ 815      C6016DC5 
+ 815      05D9
+ 816 0075 C31E7F5B 		.ascii	"\303\036\177[YWU\316\001q\315\001o\314\001m\313\004"
+ 816      595755CE 
+ 816      0171CD01 
+ 816      6FCC016D 
+ 816      CB04
+ 817 0087 CEC31E7F 		.ascii	"\316\303\036\177SQOM\324\001q\323\001o\322\001m\321"
+ 817      53514F4D 
+ 817      D40171D3 
+ 817      016FD201 
+ 817      6DD1
+ 818 0099 03CBC31E 		.ascii	"\003\313\303\036\177KIGE\332\001q\331\001o\330\001m"
+ 818      7F4B4947 
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 21
+
+
+ 818      45DA0171 
+ 818      D9016FD8 
+ 818      016D
+ 819 00ab D702C8C3 		.ascii	"\327\002\310\303\036\177CA\277\177\275\177\340\001q"
+ 819      1E7F4341 
+ 819      BF7FBD7F 
+ 819      E00171
+ 820 00ba DF016FDE 		.ascii	"\337\001o\336\001m\335\001\276\303\036\177\273Y\177"
+ 820      016DDD01 
+ 820      BEC31E7F 
+ 820      BB597F
+ 821 00c9 B9A8397F 		.ascii	"\271\2509\177\267\004\177\265\345\001q\344\001o\343"
+ 821      B7047FB5 
+ 821      E50171E4 
+ 821      016FE3
+ 822 00d8 016DE2C0 		.ascii	"\001m\342\300\001\263\1773\346\0014\341\001\334\001"
+ 822      01B37F33 
+ 822      E60134E1 
+ 822      01DC01
+ 823 00e7 DB01D601 		.ascii	"\333\001\326\001\325\001\320\001\317\001\312\001\311"
+ 823      D501D001 
+ 823      CF01CA01 
+ 823      C9
+ 824 00f4 01C401C3 		.ascii	"\001\304\001\303\001\276\001\275\001\000)C:\\Users\\"
+ 824      01BE01BD 
+ 824      01002943 
+ 824      3A5C5573 
+ 824      6572735C 
+ 825 0108 64656E65 		.ascii	"denes\\Desktop\\canboard\\firmware\0008./ChibiOS/os"
+ 825      735C4465 
+ 825      736B746F 
+ 825      705C6361 
+ 825      6E626F61 
+ 826 0135 2F636F6D 		.ascii	"/common/startup/ARMCMxpilers/GCC/crt1.c\0000 \200\223"
+ 826      6D6F6E2F 
+ 826      73746172 
+ 826      7475702F 
+ 826      41524D43 
+ 827 0161 28C50670 		.ascii	"(\305\006p\"b\375\213\027\022\244\035\215\245\337`\255"
+ 827      2262FD8B 
+ 827      1712A41D 
+ 827      8DA5DF60 
+ 827      AD
+ 828 0172 311BEA63 		.ascii	"1\033\352cy>p!\006\0341\262\361=\001\343>\206\031\301"
+ 828      793E7021 
+ 828      061C31B2 
+ 828      F13D01E3 
+ 828      3E8619C1 
+ 829 0186 2861A36F 		.ascii	"(a\243of\204\271F\0236\332fF\230k\024a\2437k\304\\F"
+ 829      6684B946 
+ 829      1336DA66 
+ 829      46986B14 
+ 829      61A3376B 
+ 830 019d 09BBA33F 		.ascii	"\011\273\243?\334c\225Q\312\030H)\246\354|\031\217B"
+ 830      DC639551 
+ 830      CA184829 
+ 830      A6EC7C19 
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 22
+
+
+ 830      8F42
+ 831 01af 1059032E 		.ascii	"\020Y\003.\002"
+ 831      02
+ 832              		.text
+ 833              		.section	.gnu.lto___core_init.66.61b1bee7,"e",%progbits
+ 834 0000 28B52FFD 		.ascii	"(\265/\375 \375\025\007\000\202\31525`M\323\001P\320"
+ 834      20FD1507 
+ 834      0082CD32 
+ 834      35604DD3 
+ 834      0150D0
+ 835 0013 8821A149 		.ascii	"\210!\241I\326\000\266\037\301@ \207(\271\347\233\317"
+ 835      D600B61F 
+ 835      C1402087 
+ 835      28B9E79B 
+ 835      CF
+ 836 0024 576C97F5 		.ascii	"Wl\227\365\322OpgI\023H\357\375\210\314\326\371\300"
+ 836      D24F7067 
+ 836      491348EF 
+ 836      FD88CCD6 
+ 836      F9C0
+ 837 0036 68908031 		.ascii	"h\220\2001\230\356\206X\262\267L\001\217.\007\027\215"
+ 837      98EE8658 
+ 837      B2B74C01 
+ 837      8F2E0717 
+ 837      8D
+ 838 0047 18C206AE 		.ascii	"\030\302\006\256T^L\226\006\006b \026\330\302\270(t"
+ 838      545E4C96 
+ 838      06066220 
+ 838      16D8C2B8 
+ 838      2874
+ 839 0059 55AE2645 		.ascii	"U\256&E\315\210\353\344\210\207)3Q@\276 \\R(\203\242"
+ 839      CD88EBE4 
+ 839      88872933 
+ 839      5140BE20 
+ 839      5C522883 
+ 840 006e D3449428 		.ascii	"\323D\224(43\025\024Ek^\026U2\304*+)\305Je\225\210\011"
+ 840      34331514 
+ 840      456B5E16 
+ 840      5532C42A 
+ 840      2B29C54A 
+ 841 0086 D0E0FFD6 		.ascii	"\320\340\377\326\373\364\323\0066\036\307\011\332u\276"
+ 841      FBF4D306 
+ 841      361EC709 
+ 841      DA75BE
+ 842 0095 69DC13F9 		.ascii	"i\334\023\371>\335\335\177\332\357\234\266\262\036Y"
+ 842      3EDDDD7F 
+ 842      DAEF9CB6 
+ 842      B21E59
+ 843 00a4 374887D3 		.ascii	"7H\207\323)\026\224\222\377\033p\354W\331-\244\035L"
+ 843      29169492 
+ 843      FF1B70EC 
+ 843      57D92DA4 
+ 843      1D4C
+ 844 00b6 483A38DD 		.ascii	"H:8\335\315od\261u\330wOV \333h\326\001(t\367]\266\371"
+ 844      CD6F64B1 
+ 844      75D8774F 
+ 844      5620DB68 
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 23
+
+
+ 844      D6012874 
+ 845 00ce D8BFFD5F 		.ascii	"\330\277\375_\360_\372_\021\007\000UN\304\027\003\027"
+ 845      F05FFA5F 
+ 845      11070055 
+ 845      4EC41703 
+ 845      17
+ 846 00df F826B68C 		.ascii	"\370&\266\214\177\031w\\\216E;\311"
+ 846      7F19775C 
+ 846      8E453BC9 
+ 847              		.text
+ 848              		.section	.gnu.lto___early_init.67.61b1bee7,"e",%progbits
+ 849 0000 28B52FFD 		.ascii	"(\265/\375 \374\375\006\000r\01524pM\322\001\204\336"
+ 849      20FCFD06 
+ 849      00720D32 
+ 849      34704DD2 
+ 849      0184DE
+ 850 0013 5517B8FF 		.ascii	"U\027\270\377\372\275gA\347\302g:\017]\335xEEr+\262"
+ 850      FABD6741 
+ 850      E7C2673A 
+ 850      0F5DDD78 
+ 850      4545722B 
+ 851 0028 E16728B4 		.ascii	"\341g(\264\011\311\275q\352md\223\177\373\2573**\306"
+ 851      09C9BD71 
+ 851      EA6D6493 
+ 851      7FFBAF33 
+ 851      2A2AC6
+ 852 003b 96B1646F 		.ascii	"\226\261do\231\002\217(\010\026\215\370=\007\2564^\310"
+ 852      99028F28 
+ 852      08168DF8 
+ 852      3D07AE34 
+ 852      5EC8
+ 853 004d 4AA3F22A 		.ascii	"J\243\362*\021\014\\aX\024\262*Ss\232f\304u\262\004"
+ 853      110C5C61 
+ 853      5814B22A 
+ 853      53739A66 
+ 853      C475B204 
+ 854 0061 84B4C88A 		.ascii	"\204\264\310\212\307\224\204G\012eLTR@\211B\323BA\021"
+ 854      C7948447 
+ 854      0A654C54 
+ 854      52408942 
+ 854      D3424111 
+ 855 0075 ACA66551 		.ascii	"\254\246eQc\003\254\221\212\022\2544\326\011\250\360"
+ 855      6303AC91 
+ 855      8A12AC34 
+ 855      D609A8F0 
+ 856 0085 0EFE63BD 		.ascii	"\016\376c\275O;\015\301\206\343xA\267\316\261Ks\233"
+ 856      4F3B0DC1 
+ 856      86E37841 
+ 856      B7CEB14B 
+ 856      739B
+ 857 0097 EFD3DD7D 		.ascii	"\357\323\335}\247\371\233\343\254\307\246\033\244\223"
+ 857      A7F99BE3 
+ 857      ACC7A61B 
+ 857      A493
+ 858 00a5 B5090087 		.ascii	"\265\011\000\207\344\377\012\374\372O\026\013\351\207"
+ 858      E4FF0AFC 
+ 858      FA4F160B 
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 24
+
+
+ 858      E987
+ 859 00b3 6CA423EB 		.ascii	"l\244#\353nv\"{m\273\276[\262\003\230\314e[\300Bw\277"
+ 859      6E76227B 
+ 859      6DBBBE5B 
+ 859      B20398CC 
+ 859      655BC042 
+ 860 00c9 61321F7B 		.ascii	"a2\037{\267\377\015\376K\377e\007\000UND\027\003\023"
+ 860      B7FF0DFE 
+ 860      4BFF6507 
+ 860      00554E44 
+ 860      170313
+ 861 00dc F8A6B58C 		.ascii	"\370\246\265\214\177\031w\\\216E;\311"
+ 861      7F19775C 
+ 861      8E453BC9 
+ 862              		.text
+ 863              		.section	.gnu.lto___late_init.68.61b1bee7,"e",%progbits
+ 864 0000 28B52FFD 		.ascii	"(\265/\375 \374\365\006\000R\31514pM\322\001\204=\227"
+ 864      20FCF506 
+ 864      0052CD31 
+ 864      34704DD2 
+ 864      01843D97 
+ 865 0014 D7EB7BFA 		.ascii	"\327\353{\372m\214\200\314\005\234e\025zc\343\025\025"
+ 865      6D8C80CC 
+ 865      059C6515 
+ 865      7A63E315 
+ 865      15
+ 866 0025 C9ADC886 		.ascii	"\311\255\310\206\237\241\320&$\367\306\251w\334\234"
+ 866      9FA1D026 
+ 866      24F7C6A9 
+ 866      77DC9C
+ 867 0034 ACCF0FD9 		.ascii	"\254\317\017\331\350\004\020\224\204m{\313\024\217\036"
+ 867      E8041094 
+ 867      846D7BCB 
+ 867      148F1E
+ 868 0043 048B46FC 		.ascii	"\004\213F\374\236\003W\032/d\245qy\227\010\006\2560"
+ 868      9E03571A 
+ 868      2F64A571 
+ 868      79970806 
+ 868      AE30
+ 869 0055 2C0A5995 		.ascii	",\012Y\225\2519M3\342:Y\002Bbd\305\343'\341\221B\031"
+ 869      A9394D33 
+ 869      E23A5902 
+ 869      426264C5 
+ 869      E327E191 
+ 870 006b 13951450 		.ascii	"\023\225\024P\242\320\304PP\004\253iY\324\330\000k\244"
+ 870      A2D0C450 
+ 870      5004AB69 
+ 870      59D4D800 
+ 870      6BA4
+ 871 007d A2042B8D 		.ascii	"\242\004+\215u\002*\274\203\377Y\257\333\020l8\216\027"
+ 871      75022ABC 
+ 871      83FF59AF 
+ 871      DB106C38 
+ 871      8E17
+ 872 008f 74EB3CCB 		.ascii	"t\353<\3134'\362\265tw\337m\376\346P\326\003\353\006"
+ 872      3427F2B5 
+ 872      7477DF6D 
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 25
+
+
+ 872      FEE650D6 
+ 872      03EB06
+ 873 00a2 E9705A05 		.ascii	"\351pZ\005 \245\344\377\012\374\372W6\013\351\007\023"
+ 873      20A5E4FF 
+ 873      0AFCFA57 
+ 873      360BE907 
+ 873      13
+ 874 00b3 920E4E77 		.ascii	"\222\016Nw\263\033\331k\333\365\335\223\035\3004\231"
+ 874      B31BD96B 
+ 874      DBF5DD93 
+ 874      1DC03499 
+ 875 00c3 6D010BDD 		.ascii	"m\001\013\335\375\206i>\366n\377\033\374\227\376\313"
+ 875      FD86693E 
+ 875      F66EFF1B 
+ 875      FC97FECB 
+ 876 00d3 070052CE 		.ascii	"\007\000R\316\020{f\020\370\246\265\214\177\031w\\\216"
+ 876      107B6610 
+ 876      F8A6B58C 
+ 876      7F19775C 
+ 876      8E
+ 877 00e4 453BC9   		.ascii	"E;\311"
+ 878              		.text
+ 879              		.section	.gnu.lto___default_exit.69.61b1bee7,"e",%progbits
+ 880 0000 28B52FFD 		.ascii	"(\265/\375`4\000\035\010\000\362N88Pm\323\001(\233\341"
+ 880      6034001D 
+ 880      0800F24E 
+ 880      3838506D 
+ 880      D301289B 
+ 881 0015 B6E50155 		.ascii	"\266\345\001UT\341\311\204+\357E\335\260\260h%\204A"
+ 881      54E1C984 
+ 881      2BEF45DD 
+ 881      B0B06825 
+ 881      8441
+ 882 0027 59048CDC 		.ascii	"Y\004\214\334o\002\372\213\330n\007\003\000\230a\231"
+ 882      6F02FA8B 
+ 882      D86E0703 
+ 882      00986199 
+ 883 0037 A15F1A6D 		.ascii	"\241_\032mt&\003\202-\340\217F\366\226)\2670\231\316"
+ 883      74260382 
+ 883      2DE08F46 
+ 883      F69629B7 
+ 883      3099CE
+ 884 004a 5A72CE04 		.ascii	"Zr\316\004ym\225\300\270\212\315\3340\034Hn\242\263"
+ 884      796D95C0 
+ 884      B88ACDDC 
+ 884      301C486E 
+ 884      A2B3
+ 885 005c 5577A5B6 		.ascii	"Uw\245\266e\331f\311\273\311\206\005\214\203AL\211)"
+ 885      65D966C9 
+ 885      BBC98605 
+ 885      8C83414C 
+ 885      8929
+ 886 006e 78B51545 		.ascii	"x\265\025Ef\261\007z\331j\343h\225E\271\255\213\270"
+ 886      66B1077A 
+ 886      D96AE368 
+ 886      9545B9AD 
+ 886      8BB8
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 26
+
+
+ 887 0080 1581DEAA 		.ascii	"\025\201\336\252\325\213^[\257\0035\230\004\377-\347"
+ 887      D58B5E5B 
+ 887      AF033598 
+ 887      04FF2DE7 
+ 888 0090 F8F1F481 		.ascii	"\370\361\364\201\217H`\304#\034\360\021\2414,=d\301"
+ 888      8F4860C4 
+ 888      231CF011 
+ 888      A1342C3D 
+ 888      64C1
+ 889 00a2 5377778C 		.ascii	"Sww\214 \014\343w\2460VH\036\277\237!(\2057T\272=J\244"
+ 889      200CE377 
+ 889      A6305648 
+ 889      1EBF9F21 
+ 889      28853754 
+ 890 00ba 3EA14A40 		.ascii	">\241J@\377\031\340\336?\342\320G+\230\210h\220\272"
+ 890      FF19E0DE 
+ 890      3FE2D047 
+ 890      2B988868 
+ 890      90BA
+ 891 00cc 5BC69047 		.ascii	"[\306\220G\350\361\024\241w\316xx\352\340x\351x\030"
+ 891      E8F114A1 
+ 891      77CE7878 
+ 891      EAE078E9 
+ 891      7818
+ 892 00de 5A34DD7D 		.ascii	"Z4\335}\230\321\341\340S\374_\363\377\372\177\021\014"
+ 892      98D1E1E0 
+ 892      53FC5FF3 
+ 892      FFFA7F11 
+ 892      0C
+ 893 00ef 0056CE10 		.ascii	"\000V\316\020K\015\353*\262\312\341.\255\215E\374\313"
+ 893      4B0DEB2A 
+ 893      B2CAE12E 
+ 893      AD8D45FC 
+ 893      CB
+ 894 0100 B84066B8 		.ascii	"\270@f\270\3656\033\001n\\\2418\001"
+ 894      F5361B01 
+ 894      6E5CA138 
+ 894      01
+ 895              		.text
+ 896              		.section	.gnu.lto___init_ram_areas.70.61b1bee7,"e",%progbits
+ 897 0000 28B52FFD 		.ascii	"(\265/\375`\347\004\335\036\0006\366\277H\240\032\231"
+ 897      60E704DD 
+ 897      1E0036F6 
+ 897      BF48A01A 
+ 897      99
+ 898 0011 0EB03D9F 		.ascii	"\016\260=\237\014\331\034 \007 \201$h\263\342p\367("
+ 898      0CD91C20 
+ 898      07208124 
+ 898      68B3E270 
+ 898      F728
+ 899 0023 E95F99E3 		.ascii	"\351_\231\343\341\001\276\207\257\252\200\314\020\221"
+ 899      E101BE87 
+ 899      AFAA80CC 
+ 899      1091
+ 900 0031 61539914 		.ascii	"aS\231\024}\364\317\360v\006\3069\023O\035--\0223\361"
+ 900      7DF4CFF0 
+ 900      7606C639 
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 27
+
+
+ 900      134F1D2D 
+ 900      2D1233F1 
+ 901 0045 3EDE804F 		.ascii	">\336\200O3\306\275\0059\232\336[J\231dJ\001\252\000"
+ 901      33C6BD05 
+ 901      399ADE5B 
+ 901      4A99644A 
+ 901      01AA00
+ 902 0058 A500A900 		.ascii	"\245\000\251\000]\220>@&\215\023\250_\367c\247l\024"
+ 902      5D903E40 
+ 902      268D13A8 
+ 902      5FF763A7 
+ 902      6C14
+ 903 006a 9B0BF121 		.ascii	"\233\013\361!@\276\364\303\352\33100,r\341\224s\222"
+ 903      40BEF4C3 
+ 903      EAD93030 
+ 903      2C72E194 
+ 903      7392
+ 904 007c 81DFAEA1 		.ascii	"\201\337\256\241~_.\000\373\265\356\302~\201\272\275"
+ 904      7E5F2E00 
+ 904      FBB5EEC2 
+ 904      7E81BABD 
+ 905 008c 78929831 		.ascii	"x\222\2301\2600\022\231\3119\247\237\324}\366\355\323"
+ 905      B0301299 
+ 905      C939A79F 
+ 905      D47DF6ED 
+ 905      D3
+ 906 009d 6DD2FB2D 		.ascii	"m\322\373-\220\333\244\320\023\243\256\375\012\324~"
+ 906      90DBA4D0 
+ 906      13A3AEFD 
+ 906      0AD47E
+ 907 00ac EA502853 		.ascii	"\352P(S\346\027T\3416,\245\026\236\262h\323(\206\205"
+ 907      E61754E1 
+ 907      362CA516 
+ 907      9EB268D3 
+ 907      288685
+ 908 00bf 1D1D410F 		.ascii	"\035\035A\017\243\031\025\2051TO\245\027\216\321\027"
+ 908      A3191585 
+ 908      31544FA5 
+ 908      178ED117 
+ 909 00cf 8EB2A710 		.ascii	"\216\262\247\020\320\350M#\031\026\206\306\351\211/"
+ 909      D0E84D23 
+ 909      191686C6 
+ 909      E9892F
+ 910 00de BD12057D 		.ascii	"\275\022\005}\365*\035\271\365\245\243^\304\344\370"
+ 910      F52A1DB9 
+ 910      F5A5A35E 
+ 910      C4E4F8
+ 911 00ed 058FFC51 		.ascii	"\005\217\374Q\301\026^O\235\234s\327_\220\205\267\312"
+ 911      C1165E4F 
+ 911      9D9C73D7 
+ 911      5F9085B7 
+ 911      CA
+ 912 00fe BBBBA9BB 		.ascii	"\273\273\251\273St\333]\275\343Knh\316\276\007\355J"
+ 912      5374DB5D 
+ 912      BDE34B6E 
+ 912      68CEBE07 
+ 912      ED4A
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 28
+
+
+ 913 0110 4A904889 		.ascii	"J\220H\2119gO\372\301~U\177\240H\244\367A\355K\027 "
+ 913      39674FFA 
+ 913      C17E557F 
+ 913      A048A4F7 
+ 913      41ED4B17 
+ 914 0125 0CE24777 		.ascii	"\014\342Gw\011\177\330\327\351\301\210h\234\376\221"
+ 914      097FD8D7 
+ 914      E9C18868 
+ 914      9CFE91
+ 915 0134 90F02C10 		.ascii	"\220\360,\020s\036\362_\273\021?\242\263\236\344\267"
+ 915      731EF25F 
+ 915      BB113FA2 
+ 915      B39EE4B7 
+ 916 0144 7B78D87F 		.ascii	"{x\330\177~\333y\330\275\311F\257>\365\013u4s}\352\244"
+ 916      7EDB79D8 
+ 916      BDC946AF 
+ 916      3EF50B75 
+ 916      34737DEA 
+ 917 0159 8AFA48ED 		.ascii	"\212\372H\355\247\020\320\330_\354v\265X\253\033\325"
+ 917      A710D0D8 
+ 917      5FEC76B5 
+ 917      58AB1BD5 
+ 918 0169 E9486FEC 		.ascii	"\351Ho\354J\357\353K\336\266\326\376Z\273~m\017P\207"
+ 918      4AEFEB4B 
+ 918      DEB6D6FE 
+ 918      5ABB7E6D 
+ 918      0F5087
+ 919 017c A4490225 		.ascii	"\244I\002%\2011\347\032Of2\323}\262\303\221\356J\367"
+ 919      8131E71A 
+ 919      4F6632D3 
+ 919      7DB2C391 
+ 919      EE4AF7
+ 920 018f 25FF6EB7 		.ascii	"%\377n\267L\266v\"\355I_v\312fQ\372\274|\257\014,\022"
+ 920      4CB67622 
+ 920      ED495F76 
+ 920      CA6651FA 
+ 920      BC7CAF0C 
+ 921 01a5 F24081FA 		.ascii	"\362@\201\372\265\001\005\222\232\331m\270\235\211\033"
+ 921      B5010592 
+ 921      9AD96DB8 
+ 921      9D891B
+ 922 01b4 401C332C 		.ascii	"@\0343,\342Gr\324\027\333\225[\212l\013\314\337<~\240"
+ 922      E24772D4 
+ 922      17DB955B 
+ 922      8A6C0BCC 
+ 922      DF3C7EA0 
+ 923 01c8 2FD962B4 		.ascii	"/\331b\264\256\3673Z\230\257\372\373@\374\365=L\021"
+ 923      AEF7335A 
+ 923      98AFFAFB 
+ 923      40FCF53D 
+ 923      4C11
+ 924 01da 2CBEBAA6 		.ascii	",\276\272\246\273A\270\023\264>\203JC\330tk}j\374\216"
+ 924      BB41B813 
+ 924      B43E834A 
+ 924      43D8746B 
+ 924      7D6AFC8E 
+ 925 01ee B439E77C 		.ascii	"\2649\347|]\357\312\373\256\377\243!\037AdZ\357H\177"
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 29
+
+
+ 925      5DEFCAFB 
+ 925      AEFFA321 
+ 925      1F41645A 
+ 925      EF487F
+ 926 0201 F58238FE 		.ascii	"\365\2028\376\326\277\320\220\217\240\017j\002N\337"
+ 926      D6BFD090 
+ 926      8FA00F6A 
+ 926      024EDF
+ 927 0210 CECCD94E 		.ascii	"\316\314\331N\342\343\370\205ig\356lh\273\317\377\021"
+ 927      E2E3F885 
+ 927      6967EE6C 
+ 927      68BBCFFF 
+ 927      11
+ 928 0221 2219A7F0 		.ascii	"\"\031\247\360K3\177\022)BA\373H\000\224]\214\251\325"
+ 928      4B337F12 
+ 928      294241FB 
+ 928      4800945D 
+ 928      8CA9D5
+ 929 0234 FBD13130 		.ascii	"\373\32110\251\335\303k\255 \002b\037\330}\205M7\357"
+ 929      A9DDC36B 
+ 929      AD200262 
+ 929      1FD87D85 
+ 929      4D37EF
+ 930 0247 4811DE04 		.ascii	"H\021\336\004\347\346\012\217\252w\245\377t\270]\305"
+ 930      E7E60A8F 
+ 930      AA77A5FF 
+ 930      74B85DC5 
+ 931 0257 793F7090 		.ascii	"y?p\220\323\000\002\204\0104\034\026n\226\373\246\341"
+ 931      D3000284 
+ 931      08341C16 
+ 931      6E96FBA6 
+ 931      E1
+ 932 0268 E4EC72B4 		.ascii	"\344\354r\2644\026\253\220\352r\265\0216\234\211\013"
+ 932      3416AB90 
+ 932      EA72B511 
+ 932      369C890B 
+ 933 0278 B10B1A26 		.ascii	"\261\013\032&\244\270\236]n\266\323\245<\267\235\235"
+ 933      A4B89E5D 
+ 933      6EB6D3A5 
+ 933      3CB79D9D 
+ 934 0288 1B2DD5DD 		.ascii	"\033-\325\335\322\015\031l\035l!b)\016\254k\271\031"
+ 934      D20D196C 
+ 934      1D6C2162 
+ 934      290EAC6B 
+ 934      B919
+ 935 029a 6F2767FB 		.ascii	"o'g\373 \363\220\233\335:\360\314h2\334m'BW\243 \323"
+ 935      20F3909B 
+ 935      DD3AF0CC 
+ 935      6832DC6D 
+ 935      274257A3 
+ 936 02b0 D5786A1E 		.ascii	"\325xj\036d\272\\M\307A&!\266\240\273\223\331\2778T"
+ 936      64BA5C4D 
+ 936      C7412621 
+ 936      B6A0BB93 
+ 936      D9BF3854 
+ 937 02c4 C3D4FB15 		.ascii	"\303\324\373\025697\272,S_\354n+?\012\210S\274\012\011"
+ 937      363937BA 
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 30
+
+
+ 937      2C535FEC 
+ 937      6E2B3F0A 
+ 937      8853BC0A 
+ 938 02d9 09C49C7D 		.ascii	"\011\304\234}0\277TPo,\330\357\352cW\374x\\\275/\371"
+ 938      30BF5450 
+ 938      6F2CD8EF 
+ 938      EA6357FC 
+ 938      785CBD2F 
+ 939 02ee 8BE52E6C 		.ascii	"\213\345.l\177u\207?\232\031\345\002\006\263\276-\012"
+ 939      7F75873F 
+ 939      9A19E502 
+ 939      06B3BE2D 
+ 939      0A
+ 940 02ff FF79FED7 		.ascii	"\377y\376\327<\312\017q\234'\353|Vc\250!<\346\034b\252"
+ 940      3CCA0F71 
+ 940      9C27EB7C 
+ 940      5663A821 
+ 940      3CE61C62 
+ 941 0314 644482C2 		.ascii	"dD\202\302$MkP\002A\310\254\272\001\021P\301#WT\222"
+ 941      244D6B50 
+ 941      0241C8AC 
+ 941      BA011150 
+ 941      C1235754 
+ 942 0329 E91FFE94 		.ascii	"\351\037\376\224\217\202(U\"5\251b9v\301P\232\010\200"
+ 942      8F822855 
+ 942      2235A962 
+ 942      3976C150 
+ 942      9A0880
+ 943 033c BBC11384 		.ascii	"\273\301\023\204u;Tn\227?\023)r|\011\363\240\3112~\346"
+ 943      753B546E 
+ 943      973F1329 
+ 943      727C09F3 
+ 943      A0C9327E 
+ 944 0351 2D9E6865 		.ascii	"-\236he\240\347: \330\315D2?K\216\315\373\000\344\230"
+ 944      A0E73A20 
+ 944      D8CD4432 
+ 944      3F4B8ECD 
+ 944      FB00E498 
+ 945 0365 20EA9819 		.ascii	" \352\230\031\350\247\254\264\015r\257\006\017\221l"
+ 945      E8A7ACB4 
+ 945      0D72AF06 
+ 945      0F916C
+ 946 0374 0D1A45F7 		.ascii	"\015\032E\367$\362\2208\205\0248\200\306xH\257\311K"
+ 946      24F29038 
+ 946      85143880 
+ 946      C67848AF 
+ 946      C94B
+ 947 0386 EDC8C1C9 		.ascii	"\355\310\301\311\210\004\026\264\364\006\361\203\002"
+ 947      880416B4 
+ 947      F406F183 
+ 947      02
+ 948 0393 2606A91F 		.ascii	"&\006\251\037D\3408v\317\036P\361\001\371\275\203\226"
+ 948      44E03876 
+ 948      CF1E50F1 
+ 948      01F9BD83 
+ 948      96
+ 949 03a4 8D3E666F 		.ascii	"\215>fo\0154f\301\250\027\3519g\033\344\207\007\276"
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 31
+
+
+ 949      0D3466C1 
+ 949      A817E939 
+ 949      671BE487 
+ 949      07BE
+ 950 03b6 2DF8AB20 		.ascii	"-\370\253 V\231\254d\372\302B\247\360\023~H\251\301"
+ 950      5699AC64 
+ 950      FAC242A7 
+ 950      F0137E48 
+ 950      A9C1
+ 951 03c8 E8CEA053 		.ascii	"\350\316\240S\360%!\321\311\221\0011c\277~\347\235."
+ 951      F02521D1 
+ 951      C9910131 
+ 951      63BF7EE7 
+ 951      9D2E
+ 952 03da 4BAB2613 		.ascii	"K\253&\023*I\323\347\2572\377"
+ 952      2A49D3E7 
+ 952      AF32FF
+ 953              		.text
+ 954              		.section	.gnu.lto_.symbol_nodes.61b1bee7,"e",%progbits
+ 955 0000 28B52FFD 		.ascii	"(\265/\375`\213\000-\007\000\224\012\207\001\000\000"
+ 955      608B002D 
+ 955      0700940A 
+ 955      87010000 
+ 956 0010 0002C200 		.ascii	"\000\002\302\000\177\006\200\200\200\200\004\001\220"
+ 956      7F068080 
+ 956      80800401 
+ 956      90
+ 957 001d CE00007F 		.ascii	"\316\000\000\177\000\000\272\220\202\002\303\000\177"
+ 957      0000BA90 
+ 957      8202C300 
+ 957      7F
+ 958 002a 07C4007F 		.ascii	"\007\304\000\177\010\305\000\177\011\304\357\210\005"
+ 958      08C5007F 
+ 958      09C4EF88 
+ 958      05
+ 959 0037 01C6007F 		.ascii	"\001\306\000\177\012\256\217\205\007\005\301\000\013"
+ 959      0AAE8F85 
+ 959      0705C100 
+ 959      0B
+ 960 0044 C0840100 		.ascii	"\300\204\001\000\000\003\005\307\000\014`\000\000\000"
+ 960      000305C7 
+ 960      000C6000 
+ 960      0000
+ 961 0052 05C8000D 		.ascii	"\005\310\000\015\311\000\016\312\000\017\313\000\020"
+ 961      C9000ECA 
+ 961      000FCB00 
+ 961      10
+ 962 005f CC0011CD 		.ascii	"\314\000\021\315\000\022\316\000\023\317\000\024\320"
+ 962      0012CE00 
+ 962      13CF0014 
+ 962      D0
+ 963 006c 0015D100 		.ascii	"\000\025\321\000\026\322\000\027\323\000\030\324\000"
+ 963      16D20017 
+ 963      D30018D4 
+ 963      00
+ 964 0079 19D5001A 		.ascii	"\031\325\000\032\326\000\033\327\000\034\330\000\035"
+ 964      D6001BD7 
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 32
+
+
+ 964      001CD800 
+ 964      1D
+ 965 0086 D9001EDA 		.ascii	"\331\000\036\332\000\037\333\000 \334\000!\335\000\""
+ 965      001FDB00 
+ 965      20DC0021 
+ 965      DD0022
+ 966 0095 DE0023DF 		.ascii	"\336\000#\337\000$\340\000%\341\000&\342\000'\343\000"
+ 966      0024E000 
+ 966      25E10026 
+ 966      E20027E3 
+ 966      00
+ 967 00a6 28E40029 		.ascii	"(\344\000)\345\000*\346\000+`\000\000\000\000% \300"
+ 967      E5002AE6 
+ 967      002B6000 
+ 967      00000025 
+ 967      20C0
+ 968 00b8 93160332 		.ascii	"\223\026\0032n\264Q\306\2156d\274\321\206\214\033\333"
+ 968      6EB451C6 
+ 968      8D3664BC 
+ 968      D1868C1B 
+ 968      DB
+ 969 00c9 9071A38D 		.ascii	"\220q\243\2152n\264!\343\2156d\334\330\206\214\033m"
+ 969      326EB421 
+ 969      E38D3664 
+ 969      DCD8868C 
+ 969      1B6D
+ 970 00db 94016E58 		.ascii	"\224\001nXw\227\271\300\006/cM\034\277\254Ofk\217\001"
+ 970      7797B9C0 
+ 970      062F634D 
+ 970      1CBFAC4F 
+ 970      666B8F01 
+ 971              		.text
+ 972              		.section	.gnu.lto_.refs.61b1bee7,"e",%progbits
+ 973 0000 28B52FFD 		.ascii	"(\265/\375 Q%\002\000\022\005\020\027\020\323\264\006"
+ 973      20512502 
+ 973      00120510 
+ 973      1710D3B4 
+ 973      06
+ 974 0011 00000000 		.ascii	"\000\000\000\000\024\374\343www\32758=\355k\323\222"
+ 974      14FCE377 
+ 974      7777D735 
+ 974      383DED6B 
+ 974      D392
+ 975 0023 01372919 		.ascii	"\0017)\031\011\371\330:62.*&\"\036\032\026\022\016\012"
+ 975      09F9D83A 
+ 975      36322E2A 
+ 975      26221E1A 
+ 975      16120E0A 
+ 976 0037 06025EAD 		.ascii	"\006\002^\255U\352T\032\205>\235M\326\216\302\336\302"
+ 976      55EA541A 
+ 976      853E9D4D 
+ 976      D68EC2DE 
+ 976      C2
+ 977 0048 32EFAE12 		.ascii	"2\357\256\022\000"
+ 977      00
+ 978              		.text
+ 979              		.section	.gnu.lto_.decls.61b1bee7,"e",%progbits
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 33
+
+
+ 980 0000 28B52FFD 		.ascii	"(\265/\375`\221\016\215A\000\232s\004\031EP\036R:\345"
+ 980      60910E8D 
+ 980      41009A73 
+ 980      04194550 
+ 980      1E523AE5 
+ 981 0014 317E03DF 		.ascii	"1~\003\337q\370x/\360h\316\271e!Z\030\012\377\032\247"
+ 981      71F8782F 
+ 981      F068CEB9 
+ 981      65215A18 
+ 981      0AFF1AA7 
+ 982 0028 CDCCFF10 		.ascii	"\315\314\377\020\243,\372\034\001\340x\275shPN\013r"
+ 982      A32CFA1C 
+ 982      01E078BD 
+ 982      7368504E 
+ 982      0B72
+ 983 003a 01C036A1 		.ascii	"\001\3006\241FH1r\201\302\253\006j\013\035\021\320\202"
+ 983      46483172 
+ 983      81C2AB06 
+ 983      6A0B1D11 
+ 983      D082
+ 984 004c D62FF46A 		.ascii	"\326/\364j'\177\313\024E\001\200\001\211\001knD\240"
+ 984      277FCB14 
+ 984      45018001 
+ 984      89016B6E 
+ 984      44A0
+ 985 005e 18C71798 		.ascii	"\030\307\027\230\2676)\221\217\2604O\256\332lP\245\000"
+ 985      B7362991 
+ 985      8FB0344F 
+ 985      AEDA6C50 
+ 985      A500
+ 986 0070 5D38CE84 		.ascii	"]8\316\204]\365\235\007\207\3511\275\326b\332\254\311"
+ 986      5DF59D07 
+ 986      87E931BD 
+ 986      D662DAAC 
+ 986      C9
+ 987 0081 FCFDA5C1 		.ascii	"\374\375\245\301\\(\347\234\3149\337):\355\322\306\351"
+ 987      5C28E79C 
+ 987      CC39DF29 
+ 987      3AEDD2C6 
+ 987      E9
+ 988 0092 177A6934 		.ascii	"\027zi4\314L\312\271O\334X\316\320w\331\337\\\310\264"
+ 988      CC4CCAB9 
+ 988      4FDC58CE 
+ 988      D077D9DF 
+ 988      5CC8B4
+ 989 00a5 5AA3B555 		.ascii	"Z\243\265U\273\3149\240e\034\272\354\365\370\243\004"
+ 989      BBCC39A0 
+ 989      651CBAEC 
+ 989      F5F8A304 
+ 990 00b5 01020408 		.ascii	"\001\002\004\010\030\016\016\270\275!\365\335\342\316"
+ 990      180E0EB8 
+ 990      BD21F5DD 
+ 990      E2CE
+ 991 00c3 4D007864 		.ascii	"M\000xd\304w\201\237\002\343\026\220\206\366S\343\362"
+ 991      C477819F 
+ 991      02E31690 
+ 991      86F653E3 
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 34
+
+
+ 991      F2
+ 992 00d4 5676D586 		.ascii	"Vv\325\206\012%\241HA:\253 Q\256\332YZK\2331\365\331"
+ 992      0A25A148 
+ 992      413AAB20 
+ 992      51AEDA59 
+ 992      5A4B9B31 
+ 993 00ea 1B4B973D 		.ascii	"\033K\227=\011+\347\275\234\241A\"\276\2653u\256z\023"
+ 993      092BE7BD 
+ 993      9CA14122 
+ 993      BEB53375 
+ 993      AE7A13
+ 994 00fd B868FDB7 		.ascii	"\270h\375\267<AZ\306\360\213\337L\300`3\001\227\232"
+ 994      3C415AC6 
+ 994      F08BDF4C 
+ 994      C0603301 
+ 994      979A
+ 995 010f 00506D01 		.ascii	"\000Pm\001\3003<-d\023\203\226\245\251\374\307s\265"
+ 995      C0333C2D 
+ 995      64138396 
+ 995      A5A9FCC7 
+ 995      73B5
+ 996 0121 FF6BFFC5 		.ascii	"\377k\377\305\374\017\343\340\3577\177W\370\233\302"
+ 996      FC0FE3E0 
+ 996      EF377F57 
+ 996      F89BC2
+ 997 0130 DF12FE86 		.ascii	"\337\022\376\206\3607\323\337\015\376f\360\367\202\277"
+ 997      F037D3DF 
+ 997      0DFE66F0 
+ 997      F782BF
+ 998 013f 97FE4EF0 		.ascii	"\227\376N\3607\202\277\017\374\255\364w\201\277\007"
+ 998      3782BF0F 
+ 998      FCADF477 
+ 998      81BF07
+ 999 014e FC9DF4F7 		.ascii	"\374\235\364\367\321\337F\177\027\375=\3647\376\033"
+ 999      D1DF467F 
+ 999      17FD3DF4 
+ 999      37FE1B
+ 1000 015d F8B7FAF7 		.ascii	"\370\267\372\367\375\373\377\003\375\347\373\357\347"
+ 1000      FDFBFF03 
+ 1000      FDE7FBEF 
+ 1000      E7
+ 1001 016a FFDE7FBD 		.ascii	"\377\336\177\275\377y\377\365\374\237\376\267\373\037"
+ 1001      FF79FFF5 
+ 1001      FC9FFEB7 
+ 1001      FB1F
+ 1002 0178 E7BFDC7F 		.ascii	"\347\277\334\1776\377\327\374?\373\337\366\237\355?"
+ 1002      36FFD7FC 
+ 1002      3FFBDFF6 
+ 1002      9FED3F
+ 1003 0187 F4BFF43F 		.ascii	"\364\277\364?\332\177\011\377\335\376\007\365\365\365"
+ 1003      DA7F09FF 
+ 1003      DDFE07F5 
+ 1003      F5F5
+ 1004 0195 F5FD2DFD 		.ascii	"\365\375-\375\1772\376!\016\001Em^\\\260\256\332p\204"
+ 1004      7F32FE21 
+ 1004      0E01456D 
+ 1004      5E5CB0AE 
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 35
+
+
+ 1004      DA7084
+ 1005 01a8 B4B461D1 		.ascii	"\264\264a\321\321\375BA\2703r\356\312\340_.\030\200"
+ 1005      D1FD4241 
+ 1005      B83372EE 
+ 1005      CAE05F2E 
+ 1005      1880
+ 1006 01ba 959BB79C 		.ascii	"\225\233\267\234\033-\262`\2340lxX\301\000\260\342\336"
+ 1006      1B2DB260 
+ 1006      9C306C78 
+ 1006      58C100B0 
+ 1006      E2DE
+ 1007 01cc 6CE27A0D 		.ascii	"l\342z\015\316\271E.\345\256\254\275\261\"=`Zk\256\272"
+ 1007      CEB9452E 
+ 1007      E5AEACBD 
+ 1007      B1223D60 
+ 1007      5A6BAEBA 
+ 1008 01e0 0403E85A 		.ascii	"\004\003\350Z\333L\237y\243y\273\375m\326hzM'i\274,"
+ 1008      DB4C9F79 
+ 1008      A379BBFD 
+ 1008      6DD6687A 
+ 1008      4D2769BC 
+ 1009 01f5 29D3BC64 		.ascii	")\323\274d2\005\331M\361\344\256\372\037\357\275\346"
+ 1009      3205D94D 
+ 1009      F1E4AEFA 
+ 1009      1FEFBDE6 
+ 1010 0205 EFB756F3 		.ascii	"\357\267V\363:L9\347\345\234\021\364\2244?\336\256z"
+ 1010      3A4C39E7 
+ 1010      E59C11F4 
+ 1010      94343FDE 
+ 1010      AE7A
+ 1011 0217 D4048037 		.ascii	"\324\004\2007\315/\204\333\370\300\306\256\372{\004"
+ 1011      CD2F84DB 
+ 1011      F8C0C6AE 
+ 1011      FA7B04
+ 1012 0226 FF02C147 		.ascii	"\377\002\301G\003r\277\303\222\300\373<\344\214\220"
+ 1012      0372BFC3 
+ 1012      92C0FB3C 
+ 1012      E48C90
+ 1013 0235 E561E41A 		.ascii	"\345a\344\032\022\274\253.\345|3\3169\037\015@\266\035"
+ 1013      12BCAB2E 
+ 1013      E57C33CE 
+ 1013      391F0D40 
+ 1013      B61D
+ 1014 0247 9E5E4739 		.ascii	"\236^G9\372\364BRF\237m\233|\266H\313\374ls\322\271"
+ 1014      FAF44252 
+ 1014      469F6D9B 
+ 1014      7CB648CB 
+ 1014      FC6C73D2 
+ 1015 025c 8C3ADB0F 		.ascii	"\214:\333\017\310\214\224\2439g\034r^\035\236He~f\244"
+ 1015      C88C94A3 
+ 1015      39671C72 
+ 1015      5E1D9E48 
+ 1015      657E66A4 
+ 1016 0270 65F2D926 		.ascii	"e\362\331&e\350\323K\031uz!)\223O/e\362\271\354\234"
+ 1016      65E8D34B 
+ 1016      19757A21 
+ 1016      29934F2F 
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 36
+
+
+ 1016      65F2B9EC 
+ 1017 0285 9D6D06E3 		.ascii	"\235m\006\343\314\255L>\277\224Ig\213\224\243\317V\011"
+ 1017      CCAD4C3E 
+ 1017      BF944967 
+ 1017      8B94A3CF 
+ 1017      5609
+ 1018 0297 CDCB2325 		.ascii	"\315\313#%\016//\245\022\254\031#G\221[\2552\311T\312"
+ 1018      0E2F2FA5 
+ 1018      12AC1923 
+ 1018      47915BAD 
+ 1018      32C954CA 
+ 1019 02ab 57D09CAF 		.ascii	"W\320\234\257\234\314\316W\331ji)\007\371\225\345\264"
+ 1019      9CCCCE57 
+ 1019      D96A6929 
+ 1019      07F995E5 
+ 1019      B4
+ 1020 02bc D30039DA 		.ascii	"\323\0009\332\272v\231sV\221s\276*\342liN\346\026:\226"
+ 1020      BA769973 
+ 1020      569173BE 
+ 1020      2AE26C69 
+ 1020      4EE6163A 
+ 1021 02d1 6C2EE54C 		.ascii	"l.\345Lf\2253Y\016\320\316\255\253\234s\006\313J[9\267"
+ 1021      66953359 
+ 1021      0ED0CEAD 
+ 1021      AB9C7306 
+ 1021      CB4A5B39 
+ 1022 02e6 39E726B0 		.ascii	"9\347&\260\205\346\234\221\335\316\254$\222\266\225"
+ 1022      85E69C91 
+ 1022      DDCEAC24 
+ 1022      92B695
+ 1023 02f5 9B4D1563 		.ascii	"\233M\025c\315|\305\352\251\224sn\225\321g\363\247c"
+ 1023      CD7CC5EA 
+ 1023      A994736E 
+ 1023      95D167F3 
+ 1023      A763
+ 1024 0307 8BCC99AF 		.ascii	"\213\314\231\257df\267\321|\225u$\237\031G[hV\346\234"
+ 1024      6466B7D1 
+ 1024      7C957524 
+ 1024      9F19475B 
+ 1024      6856E69C 
+ 1025 031b 1B8FC82E 		.ascii	"\033\217\310.b\354T\301? \353/\2239\224\203Nm\210\030"
+ 1025      62EC54C1 
+ 1025      3F20EB2F 
+ 1025      93399483 
+ 1025      4E6D8818 
+ 1026 032f FE71ADBF 		.ascii	"\376q\255\277?~$\265gx\276\360\317j\375\355\321#J\037"
+ 1026      3F7E24B5 
+ 1026      6778BEF0 
+ 1026      CF6AFDED 
+ 1026      D1234A1F 
+ 1027 0343 32D1AB1E 		.ascii	"2\321\253\036\000\026\276{\353\357\216\035e\323+\355"
+ 1027      0016BE7B 
+ 1027      EBEF8E1D 
+ 1027      65D32BED 
+ 1028 0353 E24CA387 		.ascii	"\342L\243\207\257\235\365w\271\004\236\331\015\271\253"
+ 1028      AF9DF577 
+ 1028      B9049ED9 
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 37
+
+
+ 1028      0DB9AB
+ 1029 0362 C3776EFD 		.ascii	"\303wn\375\345\272\\?\362\002A\335\360u[\177\267\356"
+ 1029      E5BA5C3F 
+ 1029      F20241DD 
+ 1029      F0755B7F 
+ 1029      B7EE
+ 1030 0374 56104CC9 		.ascii	"V\020L\311\220-j\370\256\255\277Y7\213lz\317\360\324"
+ 1030      902D6AF8 
+ 1030      AEADBF59 
+ 1030      378B6C7A 
+ 1030      CFF0D4
+ 1031 0387 D0A9822F 		.ascii	"\320\251\202/\332\372\253T\252q\214t\201\211\341[e\375"
+ 1031      DAFAAB54 
+ 1031      AA718C74 
+ 1031      8189E15B 
+ 1031      65FD
+ 1032 0399 BDBA5737 		.ascii	"\275\272W7mKZ\337\027\276L\326\337\344M\0065\261l\001"
+ 1032      6D4B5ADF 
+ 1032      17BE4CD6 
+ 1032      DFE44D06 
+ 1032      35B16C01 
+ 1033 03ad B9EA552C 		.ascii	"\271\352U,|\235\353/\362\"\303\200Z~\350\360\351\341"
+ 1033      7C9DEB2F 
+ 1033      F222C380 
+ 1033      5A7EE8F0 
+ 1033      E9E1
+ 1034 03bf EB63FDCD 		.ascii	"\353c\375\3157\007\341-\345\246u\370f\255\357@\201\202"
+ 1034      3707E12D 
+ 1034      E5A675F8 
+ 1034      66ADEF40 
+ 1034      8182
+ 1035 03d1 BEE0B558 		.ascii	"\276\340\265Xn\270\373\3267\037\237\2237f\264\324p\347"
+ 1035      6EB8FBD6 
+ 1035      371F9F93 
+ 1035      3766B4D4 
+ 1035      70E7
+ 1036 03e3 AD6F3F7E 		.ascii	"\255o?~\230\323\213\205K\255Y\005\367\335\372\336\333"
+ 1036      98D38B85 
+ 1036      4BAD5905 
+ 1036      F7DDFADE 
+ 1036      DB
+ 1037 03f4 6BA8AA20 		.ascii	"k\250\252 w]1\205\276\320\3055\021\303\335f}\353\351"
+ 1037      775D3185 
+ 1037      BED0C535 
+ 1037      11C3DD66 
+ 1037      7DEBE9
+ 1038 0407 BD5D2902 		.ascii	"\275])\002d\356\013\267\231\365\235\227\327\320')s\237"
+ 1038      64EE0BB7 
+ 1038      99F59D97 
+ 1038      D7D02729 
+ 1038      739F
+ 1039 0419 A6B4B398 		.ascii	"\246\264\263\230D\301s\325\377\260p\203Y\337z\314ZO"
+ 1039      44C173D5 
+ 1039      FFB07083 
+ 1039      59DF7ACC 
+ 1039      5A4F
+ 1040 042b 432F9104 		.ascii	"C/\221\004=\274\354\230\346\374\026\341\006 7lzX\335"
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 38
+
+
+ 1040      3DBCEC98 
+ 1040      E6FC16E1 
+ 1040      0620376C 
+ 1040      7A58DD
+ 1041 043e B2B695EE 		.ascii	"\262\266\225\356;\263\276\353\351u\366\220+?\323\274"
+ 1041      3BB3BEEB 
+ 1041      E975F690 
+ 1041      2B3FD3BC 
+ 1042 044e EC11413A 		.ascii	"\354\021A:\324V'I\345\252o<\177\317i:}G\205\032 \372"
+ 1042      D4562749 
+ 1042      E5AA6F3C 
+ 1042      7FCF693A 
+ 1042      7D47851A 
+ 1043 0464 D2478712 		.ascii	"\322G\207\022%#\276\244]\362\252]G\370\266# \011+\347"
+ 1043      2523BEA4 
+ 1043      5DF2AA5D 
+ 1043      47F8B623 
+ 1043      20092BE7 
+ 1044 0478 E045A2C5 		.ascii	"\340E\242\305\326^5\250\005\000qn\002\300\316\267\016"
+ 1044      D65E35A8 
+ 1044      0500716E 
+ 1044      02C0CEB7 
+ 1044      0E
+ 1045 0489 56D5EC7E 		.ascii	"V\325\354~\273\314\265c,3\231LEwl\360\002\301a\365\317"
+ 1045      BBCCB563 
+ 1045      2C33994C 
+ 1045      45776CF0 
+ 1045      02C161F5 
+ 1046 049e DC3BCE5C 		.ascii	"\334;\316\\\233\261\274\274\302\024PPPPOOOO\0300`\300"
+ 1046      9BB1BCBC 
+ 1046      C2145050 
+ 1046      50504F4F 
+ 1046      4F4F1830 
+ 1047 04b4 70E1C285 		.ascii	"p\341\302\205\013NNNN\026,X\260 \024\012\205,[\244\012"
+ 1047      0B4E4E4E 
+ 1047      4E162C58 
+ 1047      B020140A 
+ 1047      852C5BA4 
+ 1048 04c9 B2466C00 		.ascii	"\262Fl\000\266\002\233$T\305\262GTF\031G\242\261H\205"
+ 1048      B6029B24 
+ 1048      54C5B247 
+ 1048      54461947 
+ 1048      A2B14885 
+ 1049 04dd 8F523588 		.ascii	"\217R5\210\354\021\206\214a\013\"\013\2265:\016a\260"
+ 1049      EC11868C 
+ 1049      610B220B 
+ 1049      96353A0E 
+ 1049      61B0
+ 1050 04ef 2C910D18 		.ascii	",\221\015\030\306!\221e\213^\014\2114T\242\261\030\305"
+ 1050      C6219165 
+ 1050      8B5E0C89 
+ 1050      3454A2B1 
+ 1050      18C5
+ 1051 0501 B244779A 		.ascii	"\262Dw\232\232P\203x4\026\243\206>5\001j\306\224q\210"
+ 1051      9A508378 
+ 1051      3416A386 
+ 1051      3E35016A 
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 39
+
+
+ 1051      C6947188 
+ 1052 0515 FF24FC1D 		.ascii	"\377$\374\035\331\251\2411\370\014'\032\2074\246\214"
+ 1052      D9A9A131 
+ 1052      F80C271A 
+ 1052      8734A68C 
+ 1053 0525 522D50B0 		.ascii	"R-P\2600\016\213+\250\206Q(b\024\217/\252\210\037PT"
+ 1053      300E8B2B 
+ 1053      A8865128 
+ 1053      62148F2F 
+ 1053      AA881F50 
+ 1054 053a 11A9882C 		.ascii	"\021\251\210,PT\031\211U'PlX\037\260E\252\242\032\304"
+ 1054      50541989 
+ 1054      5527506C 
+ 1054      581FB045 
+ 1054      AAA21AC4 
+ 1055 054e A3D1518A 		.ascii	"\243\321Q\212JJhH4\016Y\343\220\010#j\350\310Zp:RI\311"
+ 1055      4A4A6848 
+ 1055      340E59E3 
+ 1055      9008236A 
+ 1055      E8C85A70 
+ 1056 0566 C07FBA20 		.ascii	"\300\177\272 t\202\202\322\020E\341\350P\302u\351\204"
+ 1056      748282D2 
+ 1056      1045E1E8 
+ 1056      50C275E9 
+ 1056      84
+ 1057 0577 0810388A 		.ascii	"\010\0208\212\202\360h\214jZW\020MUF\"\014\251\0305"
+ 1057      82F0688C 
+ 1057      6A5A5710 
+ 1057      4D554622 
+ 1057      0CA91835 
+ 1058 058b 42AC2148 		.ascii	"B\254!Hxh\212!\343h\034\036\253\232\250\212SS\305\250"
+ 1058      78688A21 
+ 1058      E3681C1E 
+ 1058      AB9AA88A 
+ 1058      5353C5A8 
+ 1059 059f A6AA6253 		.ascii	"\246\252bS\211\021R+\244\\\254M\024\240\376_)\323k\347"
+ 1059      8911522B 
+ 1059      A45CAC4D 
+ 1059      14A0FE5F 
+ 1059      29D36BE7 
+ 1060 05b3 481F94AB 		.ascii	"H\037\224\253\252B\326\337\2611\"/R/z\352\260\272c\375"
+ 1060      AA42D6DF 
+ 1060      B131222F 
+ 1060      522F7AEA 
+ 1060      B0BA63FD 
+ 1061 05c7 7DF2C468 		.ascii	"}\362\304hO\264\316\312\015\2539\326\337&M\202e\356"
+ 1061      4FB4CECA 
+ 1061      0DAB39D6 
+ 1061      DF264D82 
+ 1061      65EE
+ 1062 05d9 E8C1A9E1 		.ascii	"\350\301\251\341\037\337\372\273dI\334\024\207\301\241"
+ 1062      1FDFFABB 
+ 1062      6449DC14 
+ 1062      87C1A1
+ 1063 05e8 CD55C1BF 		.ascii	"\315U\301\277<\353o\222$\315\264 rb\370W\267\376\212"
+ 1063      3CEB6F92 
+ 1063      24CDB420 
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 40
+
+
+ 1063      7262F857 
+ 1063      B7FE8A
+ 1064 05fb 8905784B 		.ascii	"\211\005xK\233s\373\302?\270\365\327\210\221 \251\226"
+ 1064      9B73FBC2 
+ 1064      3FB8F5D7 
+ 1064      889120A9 
+ 1064      96
+ 1065 060c 99F3AA07 		.ascii	"\231\363\252\007b\341\237t\375}>\323L\371\260\231\305"
+ 1065      62E19F74 
+ 1065      FD7D3ED3 
+ 1065      4CF9B099 
+ 1065      C5
+ 1066 061d E9E15F97 		.ascii	"\351\341_\227\365\327\351$\262\003\207\216\257\016\377"
+ 1066      F5D7E924 
+ 1066      B203878E 
+ 1066      AF0EFF
+ 1067 062c CAD6DFB0 		.ascii	"\312\326\337\260\033\306\025\010\314\0277\374\203\262"
+ 1067      1BC61508 
+ 1067      CC1737FC 
+ 1067      83B2
+ 1068 063a FE828101 		.ascii	"\376\202\201\001\355\232t\345\251\341\237\221\365\267"
+ 1068      ED9A74E5 
+ 1068      A9E19F91 
+ 1068      F5B7
+ 1069 0648 D9944E85 		.ascii	"\331\224N\205\3720\011\201\036\250\321,F\224#rDDDD\222"
+ 1069      FA300981 
+ 1069      1EA8D12C 
+ 1069      46942372 
+ 1069      44444444 
+ 1070 065d 244907E1 		.ascii	"$I\007\341\005\204 \310\362\346\022 \346 \014\202\""
+ 1070      058420C8 
+ 1070      F2E61220 
+ 1070      E6200C82 
+ 1070      22
+ 1071 066e 828EA4DA 		.ascii	"\202\216\244\332\377;\202y\367\364\337\347\343\335\213"
+ 1071      FF3B8279 
+ 1071      F7F4DFE7 
+ 1071      E3DD8B
+ 1072 067d F3ABBB17 		.ascii	"\363\253\273\027\347Ww/\316\257\356^\234_\335\2758\277"
+ 1072      E757772F 
+ 1072      CEAFEE5E 
+ 1072      9C5FDDBD 
+ 1072      38BF
+ 1073 068f BAFE0369 		.ascii	"\272\376\003i\372\037\002<\"\221\242~\305V:$=\260\347"
+ 1073      FA1F023C 
+ 1073      2291A27E 
+ 1073      C5563A24 
+ 1073      3DB0E7
+ 1074 06a2 72A9B61D 		.ascii	"r\251\266\035L\033\207.{\012wb\355f\\T\223\376o\031"
+ 1074      4C1B872E 
+ 1074      7B0A7762 
+ 1074      ED665C54 
+ 1074      93FE6F19 
+ 1075 06b6 7351FA5A 		.ascii	"sQ\372Z\237|\010\301\253B\372\200\0232\022\021a\213"
+ 1075      9F7C08C1 
+ 1075      AB42FA80 
+ 1075      13321211 
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 41
+
+
+ 1075      618B
+ 1076 06c8 7672C10D 		.ascii	"vr\301\0151\233\265\203\263\026#l\267\370C\204HV\213"
+ 1076      319BB583 
+ 1076      B316236C 
+ 1076      B7F84384 
+ 1076      48568B
+ 1077 06db 87694D58 		.ascii	"\207iMXf\035\317\033\036\011\271Z0'\232\260'\2634\202"
+ 1077      661DCF1B 
+ 1077      1E09B95A 
+ 1077      30279AB0 
+ 1077      27B33482 
+ 1078 06ef 5E3216F1 		.ascii	"^2\026\361X\263\0109.O\206E\032\224\232\016Q\256%\203"
+ 1078      58B30839 
+ 1078      2E4F8645 
+ 1078      1A949A0E 
+ 1078      51AE2583 
+ 1079 0703 58FBE2D1 		.ascii	"X\373\342\321Jp=\233\363n\253\376l\022\327Z4\325m+\240"
+ 1079      4A703D9B 
+ 1079      F36EABFE 
+ 1079      6C12D75A 
+ 1079      34D56D2B 
+ 1080 0718 BC87868F 		.ascii	"\274\207\206\217\205\335\231bX\325gS\016\253\372\314"
+ 1080      85DD9962 
+ 1080      58D56753 
+ 1080      0EABFACC 
+ 1081 0728 DF815201 		.ascii	"\337\201R\001\316z\240\3234`2A\321\226\030\351\237="
+ 1081      CE7AA0D3 
+ 1081      34603241 
+ 1081      D19618E9 
+ 1081      9F3D
+ 1082 073a AE6571FC 		.ascii	"\256eq\374?\372\247\313\313\206S\030\332\223\365J\300"
+ 1082      3FFAA7CB 
+ 1082      CB865318 
+ 1082      DA93F54A 
+ 1082      C0
+ 1083 074b 3DCD028F 		.ascii	"=\315\002\217\313xW\027\250\255_\003\205?\207\305\377"
+ 1083      CB785717 
+ 1083      A8AD5F03 
+ 1083      853F87C5 
+ 1083      FF
+ 1084 075c 73F169A8 		.ascii	"s\361i\250\231\331\277\002\251\375\366}\272|C\240M\023"
+ 1084      99D9BF02 
+ 1084      A9FDF67D 
+ 1084      BA7C43A0 
+ 1084      4D13
+ 1085 076e 960FE335 		.ascii	"\226\017\3435 \376[\000\356\343F]\335\"\200\"\015\346"
+ 1085      20FE5B00 
+ 1085      EEE3465D 
+ 1085      DD228022 
+ 1085      0DE6
+ 1086 0780 99081BFD 		.ascii	"\231\010\033\375\267\024\273qS?\005\030\010\2217\201"
+ 1086      B714BB71 
+ 1086      533F0518 
+ 1086      08913781 
+ 1087 0790 B7DE4BB6 		.ascii	"\267\336K\266pBB\374\304\001\364r\322\223X\352\331Q"
+ 1087      704242FC 
+ 1087      C401F472 
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 42
+
+
+ 1087      D29358EA 
+ 1087      D951
+ 1088 07a2 3816A336 		.ascii	"8\026\2436\025\320\035\003\022\243\362\"@\254\243\013"
+ 1088      15D01D03 
+ 1088      12A3F222 
+ 1088      40ACA30B 
+ 1089 07b2 ADD59D8F 		.ascii	"\255\325\235\217l-G\024\304\225]a\376\017\320\303U\317"
+ 1089      6C2D4714 
+ 1089      C4955D61 
+ 1089      FE0FD0C3 
+ 1089      55CF
+ 1090 07c4 9C92ECA3 		.ascii	"\234\222\354\243\000a\236\300{\277\351\267"
+ 1090      00619EC0 
+ 1090      7BBFE9B7 
+ 1091 07d0 C9A06F8B 		.ascii	"\311\240o\213L\221\323\037\267\024\267\002g\012c\356"
+ 1091      4C91D31F 
+ 1091      B714B702 
+ 1091      670A63EE 
+ 1092 07e0 FC73C2BB 		.ascii	"\374s\302\273\326\231\261\217\273g\035G\366\257\336"
+ 1092      D699B18F 
+ 1092      BB671D47 
+ 1092      F6AFDE
+ 1093 07ef 7FE52A9D 		.ascii	"\177\345*\235_yJ\347W9J.\205\352c\270\350>\014\036t"
+ 1093      5F794AE7 
+ 1093      57394A2E 
+ 1093      85EA63B8 
+ 1093      E83E0C1E 
+ 1094 0804 7FE29DF9 		.ascii	"\177\342\235\371\346\235\311/\363Jz\262G\302\037w\343"
+ 1094      E69DC92F 
+ 1094      F34A7AB2 
+ 1094      47C21F77 
+ 1094      E3
+ 1095 0815 BE8827EE 		.ascii	"\276\210'\356C\2740\037\244\003\367\237y_o\366\034\370"
+ 1095      43BC301F 
+ 1095      A403F79F 
+ 1095      795F6FF6 
+ 1095      1CF8
+ 1096 0827 7D57E233 		.ascii	"}W\3423\313\036\3370lI\343\342.\0168\210\316\030g\025"
+ 1096      CB1EDF30 
+ 1096      6C49E3E2 
+ 1096      2E0E3888 
+ 1096      CE186715 
+ 1097              		.text
+ 1098              		.section	.gnu.lto_.symtab.61b1bee7,"e",%progbits
+ 1099 0000 5F5F636F 		.ascii	"__core_init\000"
+ 1099      72655F69 
+ 1099      6E697400 
+ 1100 000c 00       		.ascii	"\000"
+ 1101 000d 01       		.ascii	"\001"
+ 1102 000e 00       		.ascii	"\000"
+ 1103 000f 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1103      00000000 
+ 1104 0017 DA000000 		.ascii	"\332\000\000\000"
+ 1105 001b 5F5F6561 		.ascii	"__early_init\000"
+ 1105      726C795F 
+ 1105      696E6974 
+ 1105      00
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 43
+
+
+ 1106 0028 00       		.ascii	"\000"
+ 1107 0029 01       		.ascii	"\001"
+ 1108 002a 00       		.ascii	"\000"
+ 1109 002b 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1109      00000000 
+ 1110 0033 DD000000 		.ascii	"\335\000\000\000"
+ 1111 0037 5F5F6C61 		.ascii	"__late_init\000"
+ 1111      74655F69 
+ 1111      6E697400 
+ 1112 0043 00       		.ascii	"\000"
+ 1113 0044 01       		.ascii	"\001"
+ 1114 0045 00       		.ascii	"\000"
+ 1115 0046 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1115      00000000 
+ 1116 004e E0000000 		.ascii	"\340\000\000\000"
+ 1117 0052 5F5F6465 		.ascii	"__default_exit\000"
+ 1117      6661756C 
+ 1117      745F6578 
+ 1117      697400
+ 1118 0061 00       		.ascii	"\000"
+ 1119 0062 01       		.ascii	"\001"
+ 1120 0063 00       		.ascii	"\000"
+ 1121 0064 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1121      00000000 
+ 1122 006c E5000000 		.ascii	"\345\000\000\000"
+ 1123 0070 5F5F696E 		.ascii	"__init_ram_areas\000"
+ 1123      69745F72 
+ 1123      616D5F61 
+ 1123      72656173 
+ 1123      00
+ 1124 0081 00       		.ascii	"\000"
+ 1125 0082 00       		.ascii	"\000"
+ 1126 0083 00       		.ascii	"\000"
+ 1127 0084 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1127      00000000 
+ 1128 008c E7000000 		.ascii	"\347\000\000\000"
+ 1129 0090 5F5F7261 		.ascii	"__ram0_init_text__\000"
+ 1129      6D305F69 
+ 1129      6E69745F 
+ 1129      74657874 
+ 1129      5F5F00
+ 1130 00a3 00       		.ascii	"\000"
+ 1131 00a4 02       		.ascii	"\002"
+ 1132 00a5 00       		.ascii	"\000"
+ 1133 00a6 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1133      00000000 
+ 1134 00ae F2000000 		.ascii	"\362\000\000\000"
+ 1135 00b2 5F5F7261 		.ascii	"__ram0_init__\000"
+ 1135      6D305F69 
+ 1135      6E69745F 
+ 1135      5F00
+ 1136 00c0 00       		.ascii	"\000"
+ 1137 00c1 02       		.ascii	"\002"
+ 1138 00c2 00       		.ascii	"\000"
+ 1139 00c3 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1139      00000000 
+ 1140 00cb F4000000 		.ascii	"\364\000\000\000"
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 44
+
+
+ 1141 00cf 5F5F7261 		.ascii	"__ram0_clear__\000"
+ 1141      6D305F63 
+ 1141      6C656172 
+ 1141      5F5F00
+ 1142 00de 00       		.ascii	"\000"
+ 1143 00df 02       		.ascii	"\002"
+ 1144 00e0 00       		.ascii	"\000"
+ 1145 00e1 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1145      00000000 
+ 1146 00e9 F6000000 		.ascii	"\366\000\000\000"
+ 1147 00ed 5F5F7261 		.ascii	"__ram0_noinit__\000"
+ 1147      6D305F6E 
+ 1147      6F696E69 
+ 1147      745F5F00 
+ 1148 00fd 00       		.ascii	"\000"
+ 1149 00fe 02       		.ascii	"\002"
+ 1150 00ff 00       		.ascii	"\000"
+ 1151 0100 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1151      00000000 
+ 1152 0108 F8000000 		.ascii	"\370\000\000\000"
+ 1153 010c 5F5F7261 		.ascii	"__ram1_init_text__\000"
+ 1153      6D315F69 
+ 1153      6E69745F 
+ 1153      74657874 
+ 1153      5F5F00
+ 1154 011f 00       		.ascii	"\000"
+ 1155 0120 02       		.ascii	"\002"
+ 1156 0121 00       		.ascii	"\000"
+ 1157 0122 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1157      00000000 
+ 1158 012a FA000000 		.ascii	"\372\000\000\000"
+ 1159 012e 5F5F7261 		.ascii	"__ram1_init__\000"
+ 1159      6D315F69 
+ 1159      6E69745F 
+ 1159      5F00
+ 1160 013c 00       		.ascii	"\000"
+ 1161 013d 02       		.ascii	"\002"
+ 1162 013e 00       		.ascii	"\000"
+ 1163 013f 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1163      00000000 
+ 1164 0147 FC000000 		.ascii	"\374\000\000\000"
+ 1165 014b 5F5F7261 		.ascii	"__ram1_clear__\000"
+ 1165      6D315F63 
+ 1165      6C656172 
+ 1165      5F5F00
+ 1166 015a 00       		.ascii	"\000"
+ 1167 015b 02       		.ascii	"\002"
+ 1168 015c 00       		.ascii	"\000"
+ 1169 015d 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1169      00000000 
+ 1170 0165 FE000000 		.ascii	"\376\000\000\000"
+ 1171 0169 5F5F7261 		.ascii	"__ram1_noinit__\000"
+ 1171      6D315F6E 
+ 1171      6F696E69 
+ 1171      745F5F00 
+ 1172 0179 00       		.ascii	"\000"
+ 1173 017a 02       		.ascii	"\002"
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 45
+
+
+ 1174 017b 00       		.ascii	"\000"
+ 1175 017c 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1175      00000000 
+ 1176 0184 00010000 		.ascii	"\000\001\000\000"
+ 1177 0188 5F5F7261 		.ascii	"__ram2_init_text__\000"
+ 1177      6D325F69 
+ 1177      6E69745F 
+ 1177      74657874 
+ 1177      5F5F00
+ 1178 019b 00       		.ascii	"\000"
+ 1179 019c 02       		.ascii	"\002"
+ 1180 019d 00       		.ascii	"\000"
+ 1181 019e 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1181      00000000 
+ 1182 01a6 02010000 		.ascii	"\002\001\000\000"
+ 1183 01aa 5F5F7261 		.ascii	"__ram2_init__\000"
+ 1183      6D325F69 
+ 1183      6E69745F 
+ 1183      5F00
+ 1184 01b8 00       		.ascii	"\000"
+ 1185 01b9 02       		.ascii	"\002"
+ 1186 01ba 00       		.ascii	"\000"
+ 1187 01bb 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1187      00000000 
+ 1188 01c3 04010000 		.ascii	"\004\001\000\000"
+ 1189 01c7 5F5F7261 		.ascii	"__ram2_clear__\000"
+ 1189      6D325F63 
+ 1189      6C656172 
+ 1189      5F5F00
+ 1190 01d6 00       		.ascii	"\000"
+ 1191 01d7 02       		.ascii	"\002"
+ 1192 01d8 00       		.ascii	"\000"
+ 1193 01d9 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1193      00000000 
+ 1194 01e1 06010000 		.ascii	"\006\001\000\000"
+ 1195 01e5 5F5F7261 		.ascii	"__ram2_noinit__\000"
+ 1195      6D325F6E 
+ 1195      6F696E69 
+ 1195      745F5F00 
+ 1196 01f5 00       		.ascii	"\000"
+ 1197 01f6 02       		.ascii	"\002"
+ 1198 01f7 00       		.ascii	"\000"
+ 1199 01f8 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1199      00000000 
+ 1200 0200 08010000 		.ascii	"\010\001\000\000"
+ 1201 0204 5F5F7261 		.ascii	"__ram3_init_text__\000"
+ 1201      6D335F69 
+ 1201      6E69745F 
+ 1201      74657874 
+ 1201      5F5F00
+ 1202 0217 00       		.ascii	"\000"
+ 1203 0218 02       		.ascii	"\002"
+ 1204 0219 00       		.ascii	"\000"
+ 1205 021a 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1205      00000000 
+ 1206 0222 0A010000 		.ascii	"\012\001\000\000"
+ 1207 0226 5F5F7261 		.ascii	"__ram3_init__\000"
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 46
+
+
+ 1207      6D335F69 
+ 1207      6E69745F 
+ 1207      5F00
+ 1208 0234 00       		.ascii	"\000"
+ 1209 0235 02       		.ascii	"\002"
+ 1210 0236 00       		.ascii	"\000"
+ 1211 0237 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1211      00000000 
+ 1212 023f 0C010000 		.ascii	"\014\001\000\000"
+ 1213 0243 5F5F7261 		.ascii	"__ram3_clear__\000"
+ 1213      6D335F63 
+ 1213      6C656172 
+ 1213      5F5F00
+ 1214 0252 00       		.ascii	"\000"
+ 1215 0253 02       		.ascii	"\002"
+ 1216 0254 00       		.ascii	"\000"
+ 1217 0255 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1217      00000000 
+ 1218 025d 0E010000 		.ascii	"\016\001\000\000"
+ 1219 0261 5F5F7261 		.ascii	"__ram3_noinit__\000"
+ 1219      6D335F6E 
+ 1219      6F696E69 
+ 1219      745F5F00 
+ 1220 0271 00       		.ascii	"\000"
+ 1221 0272 02       		.ascii	"\002"
+ 1222 0273 00       		.ascii	"\000"
+ 1223 0274 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1223      00000000 
+ 1224 027c 10010000 		.ascii	"\020\001\000\000"
+ 1225 0280 5F5F7261 		.ascii	"__ram4_init_text__\000"
+ 1225      6D345F69 
+ 1225      6E69745F 
+ 1225      74657874 
+ 1225      5F5F00
+ 1226 0293 00       		.ascii	"\000"
+ 1227 0294 02       		.ascii	"\002"
+ 1228 0295 00       		.ascii	"\000"
+ 1229 0296 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1229      00000000 
+ 1230 029e 12010000 		.ascii	"\022\001\000\000"
+ 1231 02a2 5F5F7261 		.ascii	"__ram4_init__\000"
+ 1231      6D345F69 
+ 1231      6E69745F 
+ 1231      5F00
+ 1232 02b0 00       		.ascii	"\000"
+ 1233 02b1 02       		.ascii	"\002"
+ 1234 02b2 00       		.ascii	"\000"
+ 1235 02b3 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1235      00000000 
+ 1236 02bb 14010000 		.ascii	"\024\001\000\000"
+ 1237 02bf 5F5F7261 		.ascii	"__ram4_clear__\000"
+ 1237      6D345F63 
+ 1237      6C656172 
+ 1237      5F5F00
+ 1238 02ce 00       		.ascii	"\000"
+ 1239 02cf 02       		.ascii	"\002"
+ 1240 02d0 00       		.ascii	"\000"
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 47
+
+
+ 1241 02d1 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1241      00000000 
+ 1242 02d9 16010000 		.ascii	"\026\001\000\000"
+ 1243 02dd 5F5F7261 		.ascii	"__ram4_noinit__\000"
+ 1243      6D345F6E 
+ 1243      6F696E69 
+ 1243      745F5F00 
+ 1244 02ed 00       		.ascii	"\000"
+ 1245 02ee 02       		.ascii	"\002"
+ 1246 02ef 00       		.ascii	"\000"
+ 1247 02f0 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1247      00000000 
+ 1248 02f8 18010000 		.ascii	"\030\001\000\000"
+ 1249 02fc 5F5F7261 		.ascii	"__ram5_init_text__\000"
+ 1249      6D355F69 
+ 1249      6E69745F 
+ 1249      74657874 
+ 1249      5F5F00
+ 1250 030f 00       		.ascii	"\000"
+ 1251 0310 02       		.ascii	"\002"
+ 1252 0311 00       		.ascii	"\000"
+ 1253 0312 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1253      00000000 
+ 1254 031a 1A010000 		.ascii	"\032\001\000\000"
+ 1255 031e 5F5F7261 		.ascii	"__ram5_init__\000"
+ 1255      6D355F69 
+ 1255      6E69745F 
+ 1255      5F00
+ 1256 032c 00       		.ascii	"\000"
+ 1257 032d 02       		.ascii	"\002"
+ 1258 032e 00       		.ascii	"\000"
+ 1259 032f 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1259      00000000 
+ 1260 0337 1C010000 		.ascii	"\034\001\000\000"
+ 1261 033b 5F5F7261 		.ascii	"__ram5_clear__\000"
+ 1261      6D355F63 
+ 1261      6C656172 
+ 1261      5F5F00
+ 1262 034a 00       		.ascii	"\000"
+ 1263 034b 02       		.ascii	"\002"
+ 1264 034c 00       		.ascii	"\000"
+ 1265 034d 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1265      00000000 
+ 1266 0355 1E010000 		.ascii	"\036\001\000\000"
+ 1267 0359 5F5F7261 		.ascii	"__ram5_noinit__\000"
+ 1267      6D355F6E 
+ 1267      6F696E69 
+ 1267      745F5F00 
+ 1268 0369 00       		.ascii	"\000"
+ 1269 036a 02       		.ascii	"\002"
+ 1270 036b 00       		.ascii	"\000"
+ 1271 036c 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1271      00000000 
+ 1272 0374 20010000 		.ascii	" \001\000\000"
+ 1273 0378 5F5F7261 		.ascii	"__ram6_init_text__\000"
+ 1273      6D365F69 
+ 1273      6E69745F 
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 48
+
+
+ 1273      74657874 
+ 1273      5F5F00
+ 1274 038b 00       		.ascii	"\000"
+ 1275 038c 02       		.ascii	"\002"
+ 1276 038d 00       		.ascii	"\000"
+ 1277 038e 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1277      00000000 
+ 1278 0396 22010000 		.ascii	"\"\001\000\000"
+ 1279 039a 5F5F7261 		.ascii	"__ram6_init__\000"
+ 1279      6D365F69 
+ 1279      6E69745F 
+ 1279      5F00
+ 1280 03a8 00       		.ascii	"\000"
+ 1281 03a9 02       		.ascii	"\002"
+ 1282 03aa 00       		.ascii	"\000"
+ 1283 03ab 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1283      00000000 
+ 1284 03b3 24010000 		.ascii	"$\001\000\000"
+ 1285 03b7 5F5F7261 		.ascii	"__ram6_clear__\000"
+ 1285      6D365F63 
+ 1285      6C656172 
+ 1285      5F5F00
+ 1286 03c6 00       		.ascii	"\000"
+ 1287 03c7 02       		.ascii	"\002"
+ 1288 03c8 00       		.ascii	"\000"
+ 1289 03c9 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1289      00000000 
+ 1290 03d1 26010000 		.ascii	"&\001\000\000"
+ 1291 03d5 5F5F7261 		.ascii	"__ram6_noinit__\000"
+ 1291      6D365F6E 
+ 1291      6F696E69 
+ 1291      745F5F00 
+ 1292 03e5 00       		.ascii	"\000"
+ 1293 03e6 02       		.ascii	"\002"
+ 1294 03e7 00       		.ascii	"\000"
+ 1295 03e8 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1295      00000000 
+ 1296 03f0 28010000 		.ascii	"(\001\000\000"
+ 1297 03f4 5F5F7261 		.ascii	"__ram7_init_text__\000"
+ 1297      6D375F69 
+ 1297      6E69745F 
+ 1297      74657874 
+ 1297      5F5F00
+ 1298 0407 00       		.ascii	"\000"
+ 1299 0408 02       		.ascii	"\002"
+ 1300 0409 00       		.ascii	"\000"
+ 1301 040a 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1301      00000000 
+ 1302 0412 2A010000 		.ascii	"*\001\000\000"
+ 1303 0416 5F5F7261 		.ascii	"__ram7_init__\000"
+ 1303      6D375F69 
+ 1303      6E69745F 
+ 1303      5F00
+ 1304 0424 00       		.ascii	"\000"
+ 1305 0425 02       		.ascii	"\002"
+ 1306 0426 00       		.ascii	"\000"
+ 1307 0427 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 49
+
+
+ 1307      00000000 
+ 1308 042f 2C010000 		.ascii	",\001\000\000"
+ 1309 0433 5F5F7261 		.ascii	"__ram7_clear__\000"
+ 1309      6D375F63 
+ 1309      6C656172 
+ 1309      5F5F00
+ 1310 0442 00       		.ascii	"\000"
+ 1311 0443 02       		.ascii	"\002"
+ 1312 0444 00       		.ascii	"\000"
+ 1313 0445 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1313      00000000 
+ 1314 044d 2E010000 		.ascii	".\001\000\000"
+ 1315 0451 5F5F7261 		.ascii	"__ram7_noinit__\000"
+ 1315      6D375F6E 
+ 1315      6F696E69 
+ 1315      745F5F00 
+ 1316 0461 00       		.ascii	"\000"
+ 1317 0462 02       		.ascii	"\002"
+ 1318 0463 00       		.ascii	"\000"
+ 1319 0464 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
+ 1319      00000000 
+ 1320 046c 30010000 		.ascii	"0\001\000\000"
+ 1321              		.text
+ 1322              		.section	.gnu.lto_.ext_symtab.61b1bee7,"e",%progbits
+ 1323 0000 01       		.ascii	"\001"
+ 1324 0001 01       		.ascii	"\001"
+ 1325 0002 00       		.ascii	"\000"
+ 1326 0003 01       		.ascii	"\001"
+ 1327 0004 00       		.ascii	"\000"
+ 1328 0005 01       		.ascii	"\001"
+ 1329 0006 00       		.ascii	"\000"
+ 1330 0007 01       		.ascii	"\001"
+ 1331 0008 00       		.ascii	"\000"
+ 1332 0009 01       		.ascii	"\001"
+ 1333 000a 00       		.ascii	"\000"
+ 1334 000b 02       		.ascii	"\002"
+ 1335 000c 01       		.ascii	"\001"
+ 1336 000d 02       		.ascii	"\002"
+ 1337 000e 01       		.ascii	"\001"
+ 1338 000f 02       		.ascii	"\002"
+ 1339 0010 01       		.ascii	"\001"
+ 1340 0011 02       		.ascii	"\002"
+ 1341 0012 01       		.ascii	"\001"
+ 1342 0013 02       		.ascii	"\002"
+ 1343 0014 01       		.ascii	"\001"
+ 1344 0015 02       		.ascii	"\002"
+ 1345 0016 01       		.ascii	"\001"
+ 1346 0017 02       		.ascii	"\002"
+ 1347 0018 01       		.ascii	"\001"
+ 1348 0019 02       		.ascii	"\002"
+ 1349 001a 01       		.ascii	"\001"
+ 1350 001b 02       		.ascii	"\002"
+ 1351 001c 01       		.ascii	"\001"
+ 1352 001d 02       		.ascii	"\002"
+ 1353 001e 01       		.ascii	"\001"
+ 1354 001f 02       		.ascii	"\002"
+ 1355 0020 01       		.ascii	"\001"
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 50
+
+
+ 1356 0021 02       		.ascii	"\002"
+ 1357 0022 01       		.ascii	"\001"
+ 1358 0023 02       		.ascii	"\002"
+ 1359 0024 01       		.ascii	"\001"
+ 1360 0025 02       		.ascii	"\002"
+ 1361 0026 01       		.ascii	"\001"
+ 1362 0027 02       		.ascii	"\002"
+ 1363 0028 01       		.ascii	"\001"
+ 1364 0029 02       		.ascii	"\002"
+ 1365 002a 01       		.ascii	"\001"
+ 1366 002b 02       		.ascii	"\002"
+ 1367 002c 01       		.ascii	"\001"
+ 1368 002d 02       		.ascii	"\002"
+ 1369 002e 01       		.ascii	"\001"
+ 1370 002f 02       		.ascii	"\002"
+ 1371 0030 01       		.ascii	"\001"
+ 1372 0031 02       		.ascii	"\002"
+ 1373 0032 01       		.ascii	"\001"
+ 1374 0033 02       		.ascii	"\002"
+ 1375 0034 01       		.ascii	"\001"
+ 1376 0035 02       		.ascii	"\002"
+ 1377 0036 01       		.ascii	"\001"
+ 1378 0037 02       		.ascii	"\002"
+ 1379 0038 01       		.ascii	"\001"
+ 1380 0039 02       		.ascii	"\002"
+ 1381 003a 01       		.ascii	"\001"
+ 1382 003b 02       		.ascii	"\002"
+ 1383 003c 01       		.ascii	"\001"
+ 1384 003d 02       		.ascii	"\002"
+ 1385 003e 01       		.ascii	"\001"
+ 1386 003f 02       		.ascii	"\002"
+ 1387 0040 01       		.ascii	"\001"
+ 1388 0041 02       		.ascii	"\002"
+ 1389 0042 01       		.ascii	"\001"
+ 1390 0043 02       		.ascii	"\002"
+ 1391 0044 01       		.ascii	"\001"
+ 1392 0045 02       		.ascii	"\002"
+ 1393 0046 01       		.ascii	"\001"
+ 1394 0047 02       		.ascii	"\002"
+ 1395 0048 01       		.ascii	"\001"
+ 1396 0049 02       		.ascii	"\002"
+ 1397 004a 01       		.ascii	"\001"
+ 1398              		.text
+ 1399              		.section	.gnu.lto_.opts,"e",%progbits
+ 1400 0000 272D666E 		.ascii	"'-fno-openmp' '-fno-openacc' '-fno-pie' '-fcf-prote"
+ 1400      6F2D6F70 
+ 1400      656E6D70 
+ 1400      2720272D 
+ 1400      666E6F2D 
+ 1401 0033 6374696F 		.ascii	"ction=none' '-g' '-mcpu=cortex-m3' '-mthumb' '-mflo"
+ 1401      6E3D6E6F 
+ 1401      6E652720 
+ 1401      272D6727 
+ 1401      20272D6D 
+ 1402 0066 61742D61 		.ascii	"at-abi=soft' '-mlibarch=armv7-m' '-march=armv7-m' '"
+ 1402      62693D73 
+ 1402      6F667427 
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 51
+
+
+ 1402      20272D6D 
+ 1402      6C696261 
+ 1403 0099 2D4F3227 		.ascii	"-O2' '-fomit-frame-pointer' '-falign-functions=16' "
+ 1403      20272D66 
+ 1403      6F6D6974 
+ 1403      2D667261 
+ 1403      6D652D70 
+ 1404 00cc 272D6673 		.ascii	"'-fsingle-precision-constant' '-ffunction-sections'"
+ 1404      696E676C 
+ 1404      652D7072 
+ 1404      65636973 
+ 1404      696F6E2D 
+ 1405 00ff 20272D66 		.ascii	" '-fdata-sections' '-fno-common' '-flto=auto' '-Xas"
+ 1405      64617461 
+ 1405      2D736563 
+ 1405      74696F6E 
+ 1405      73272027 
+ 1406 0132 73656D62 		.ascii	"sembler' '-alms=./build/lst/crt1.lst'\000"
+ 1406      6C657227 
+ 1406      20272D61 
+ 1406      6C6D733D 
+ 1406      2E2F6275 
+ 1407              		.text
+ 1408              		.comm	__gnu_lto_slim,1,1
+ 1409              		.ident	"GCC: (GNU) 13.3.0"
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s 			page 52
+
+
+DEFINED SYMBOLS
+                            *ABS*:00000000 crt1.c
+C:\Users\denes\AppData\Local\Temp\ccGkEPLd.s:21     .gnu.debuglto_.debug_info:00000000 crt1.c.c9773146
+                            *COM*:00000001 __gnu_lto_slim
+
+NO UNDEFINED SYMBOLS

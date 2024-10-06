@@ -1,0 +1,36 @@
+{
+    "configurations": [
+        {
+            "name": "STM32-ChibiOS",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/firmware/ChibiOS/os/license",
+                "${workspaceFolder}/firmware/ChibiOS/os/common/startup/ARMCMx/compilers/GCC",
+                "${workspaceFolder}/firmware/ChibiOS/os/hal/",
+                "${workspaceFolder}/firmware/ChibiOS/os/hal/ports/STM32/STM32F0xx",
+                "${workspaceFolder}/firmware/ChibiOS/os/hal/boards/ST_NUCLEO32_F042K6",
+                "${workspaceFolder}/firmware/ChibiOS/os/hal/osal/rt-nil",
+                "${workspaceFolder}/firmware/ChibiOS/os/rt",
+                "${workspaceFolder}/firmware/ChibiOS/os/common/ports/ARMv6-M/compilers/GCC",
+                "${workspaceFolder}/firmware/cfg"
+            ],
+            "defines": [
+                "USE_OPT='-O0 -g -ggdb -fomit-frame-pointer -falign-functions=16 -fsingle-precision-constant'",
+                "USE_CPPOPT='-fno-rtti -fno-exceptions -ffast-math -funsafe-math-optimizations -fno-threadsafe-statics -fno-use-cxa-atexit -std=c++17'",
+                "MCU=cortex-m0",
+                "USE_FPU=no"
+            ],
+            "intelliSenseMode": "gcc-arm",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "compilerPath": "C:/msys64/mingw64/bin/arm-none-eabi-g++.exe",
+            "compilerArgs": [
+                "-mcpu=cortex-m0",
+                "-mthumb",
+                "-mfpu=none",
+                "-mfloat-abi=soft"
+            ]
+        }
+    ],
+    "version": 4
+}
