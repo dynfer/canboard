@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\denes\AppData\Local\Temp\cccZM3uQ.s 			page 1
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccdPzmte.s 			page 1
 
 
    1              		.cpu cortex-m3
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\cccZM3uQ.s 			page 1
   55 0049 02       		.byte	0x2
   56 004a 05       		.byte	0x5
   57 004b A8010000 		.4byte	.LASF5
-ARM GAS  C:\Users\denes\AppData\Local\Temp\cccZM3uQ.s 			page 2
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccdPzmte.s 			page 2
 
 
   58 004f 01       		.uleb128 0x1
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\cccZM3uQ.s 			page 1
  112 001b 24       		.uleb128 0x24
  113 001c 00       		.byte	0
  114 001d 0B       		.uleb128 0xb
-ARM GAS  C:\Users\denes\AppData\Local\Temp\cccZM3uQ.s 			page 3
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccdPzmte.s 			page 3
 
 
  115 001e 0B       		.uleb128 0xb
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\cccZM3uQ.s 			page 1
  167      6720696E 
  167      7400
  168              	.LASF0:
-ARM GAS  C:\Users\denes\AppData\Local\Temp\cccZM3uQ.s 			page 4
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccdPzmte.s 			page 4
 
 
  169 000e 756E7369 		.ascii	"unsigned int\000"
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\cccZM3uQ.s 			page 1
  189 0133 2E2F4368 		.ascii	"./ChibiOS/os/hal/src/hal_mmcsd.c\000"
  189      6962694F 
  189      532F6F73 
-ARM GAS  C:\Users\denes\AppData\Local\Temp\cccZM3uQ.s 			page 5
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccdPzmte.s 			page 5
 
 
  189      2F68616C 
@@ -281,73 +281,73 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\cccZM3uQ.s 			page 1
  204      2F68616C 
  204      2F737263 
  205              		.text
- 206              		.section	.gnu.lto_.profile.62042e3e,"e",%progbits
+ 206              		.section	.gnu.lto_.profile.63e675f3,"e",%progbits
  207 0000 28B52FFD 		.ascii	"(\265/\375 \0061\000\000\002\000\000\000\000\000"
  207      20063100 
  207      00020000 
  207      000000
  208              		.text
- 209              		.section	.gnu.lto_.icf.62042e3e,"e",%progbits
+ 209              		.section	.gnu.lto_.icf.63e675f3,"e",%progbits
  210 0000 28B52FFD 		.ascii	"(\265/\375 \016E\000\000\020\002\000\001\000\034\300"
  210      200E4500 
  210      00100200 
  210      01001CC0 
  211 0010 02       		.ascii	"\002"
  212              		.text
- 213              		.section	.gnu.lto_.ipa_sra.62042e3e,"e",%progbits
+ 213              		.section	.gnu.lto_.ipa_sra.63e675f3,"e",%progbits
  214 0000 28B52FFD 		.ascii	"(\265/\375 \016E\000\000\020\002\000\001\000\034\300"
  214      200E4500 
  214      00100200 
-ARM GAS  C:\Users\denes\AppData\Local\Temp\cccZM3uQ.s 			page 6
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccdPzmte.s 			page 6
 
 
  214      01001CC0 
  215 0010 02       		.ascii	"\002"
  216              		.text
- 217              		.section	.gnu.lto_.inline.62042e3e,"e",%progbits
+ 217              		.section	.gnu.lto_.inline.63e675f3,"e",%progbits
  218 0000 28B52FFD 		.ascii	"(\265/\375 \016E\000\000\020\002\000\001\000\034\300"
  218      200E4500 
  218      00100200 
  218      01001CC0 
  219 0010 02       		.ascii	"\002"
  220              		.text
- 221              		.section	.gnu.lto_.jmpfuncs.62042e3e,"e",%progbits
+ 221              		.section	.gnu.lto_.jmpfuncs.63e675f3,"e",%progbits
  222 0000 28B52FFD 		.ascii	"(\265/\375 \016E\000\000\020\002\000\001\000\034\300"
  222      200E4500 
  222      00100200 
  222      01001CC0 
  223 0010 02       		.ascii	"\002"
  224              		.text
- 225              		.section	.gnu.lto_.pureconst.62042e3e,"e",%progbits
+ 225              		.section	.gnu.lto_.pureconst.63e675f3,"e",%progbits
  226 0000 28B52FFD 		.ascii	"(\265/\375 \005)\000\000\001\000\000\000\000"
  226      20052900 
  226      00010000 
  226      0000
  227              		.text
- 228              		.section	.gnu.lto_.ipa_modref.62042e3e,"e",%progbits
+ 228              		.section	.gnu.lto_.ipa_modref.63e675f3,"e",%progbits
  229 0000 28B52FFD 		.ascii	"(\265/\375 \016E\000\000\020\002\000\001\000\034\300"
  229      200E4500 
  229      00100200 
  229      01001CC0 
  230 0010 02       		.ascii	"\002"
  231              		.text
- 232              		.section	.gnu.lto_.lto.62042e3e,"e",%progbits
+ 232              		.section	.gnu.lto_.lto.63e675f3,"e",%progbits
  233 0000 0D000100 		.ascii	"\015\000\001\000\001\000\001\000"
  233      01000100 
  234              		.text
- 235              		.section	.gnu.lto_.symbol_nodes.62042e3e,"e",%progbits
+ 235              		.section	.gnu.lto_.symbol_nodes.63e675f3,"e",%progbits
  236 0000 28B52FFD 		.ascii	"(\265/\375 \0061\000\000\002\000\000\000\000\000"
  236      20063100 
  236      00020000 
  236      000000
  237              		.text
- 238              		.section	.gnu.lto_.refs.62042e3e,"e",%progbits
+ 238              		.section	.gnu.lto_.refs.63e675f3,"e",%progbits
  239 0000 28B52FFD 		.ascii	"(\265/\375 \005)\000\000\001\000\000\000\000"
  239      20052900 
  239      00010000 
  239      0000
  240              		.text
- 241              		.section	.gnu.lto_.decls.62042e3e,"e",%progbits
+ 241              		.section	.gnu.lto_.decls.63e675f3,"e",%progbits
  242 0000 28B52FFD 		.ascii	"(\265/\375 \035\351\000\000\000\000\000\000\001\000"
  242      201DE900 
  242      00000000 
@@ -358,14 +358,14 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\cccZM3uQ.s 			page 1
  243      00
  244 001c 00D70000 		.ascii	"\000\327\000\000\000\000\000\000\000\000"
  244      00000000 
-ARM GAS  C:\Users\denes\AppData\Local\Temp\cccZM3uQ.s 			page 7
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccdPzmte.s 			page 7
 
 
  244      0000
  245              		.text
- 246              		.section	.gnu.lto_.symtab.62042e3e,"e",%progbits
+ 246              		.section	.gnu.lto_.symtab.63e675f3,"e",%progbits
  247              		.text
- 248              		.section	.gnu.lto_.ext_symtab.62042e3e,"e",%progbits
+ 248              		.section	.gnu.lto_.ext_symtab.63e675f3,"e",%progbits
  249 0000 01       		.ascii	"\001"
  250              		.text
  251              		.section	.gnu.lto_.opts,"e",%progbits
@@ -407,12 +407,12 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\cccZM3uQ.s 			page 1
  259              		.text
  260              		.comm	__gnu_lto_slim,1,1
  261              		.ident	"GCC: (GNU) 13.3.0"
-ARM GAS  C:\Users\denes\AppData\Local\Temp\cccZM3uQ.s 			page 8
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccdPzmte.s 			page 8
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 hal_mmcsd.c
-C:\Users\denes\AppData\Local\Temp\cccZM3uQ.s:18     .gnu.debuglto_.debug_info:00000000 hal_mmcsd.c.51cff6ca
+C:\Users\denes\AppData\Local\Temp\ccdPzmte.s:18     .gnu.debuglto_.debug_info:00000000 hal_mmcsd.c.51cff6ca
                             *COM*:00000001 __gnu_lto_slim
 
 NO UNDEFINED SYMBOLS

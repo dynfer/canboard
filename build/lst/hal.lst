@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccm06Wo8.s 			page 1
 
 
    1              		.cpu cortex-m3
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
   55 0034 08       		.byte	0x8
   56 0035 04       		.byte	0x4
   57 0036 51020000 		.4byte	.LASF2
-ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 2
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccm06Wo8.s 			page 2
 
 
   58 003a 01       		.uleb128 0x1
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  112 009d 6A       		.byte	0x6a
  113 009e 77000000 		.4byte	0x77
  114 00a2 00       		.byte	0
-ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 3
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccm06Wo8.s 			page 3
 
 
  115 00a3 05       		.uleb128 0x5
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  169 0112 05010000 		.4byte	0x105
  170 0116 0B       		.uleb128 0xb
  171 0117 CD010000 		.4byte	.LASF31
-ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 4
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccm06Wo8.s 			page 4
 
 
  172 011b 03       		.byte	0x3
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  226 0181 00       		.byte	0
  227              		.section	.gnu.debuglto_.debug_abbrev,"e",%progbits
  228              	.Ldebug_abbrev0:
-ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 5
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccm06Wo8.s 			page 5
 
 
  229 0000 01       		.uleb128 0x1
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  283 0036 3B       		.uleb128 0x3b
  284 0037 0B       		.uleb128 0xb
  285 0038 39       		.uleb128 0x39
-ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 6
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccm06Wo8.s 			page 6
 
 
  286 0039 21       		.uleb128 0x21
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  340 006f 03       		.sleb128 3
  341 0070 3B       		.uleb128 0x3b
  342 0071 0B       		.uleb128 0xb
-ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 7
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccm06Wo8.s 			page 7
 
 
  343 0072 39       		.uleb128 0x39
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  397 00a8 19       		.uleb128 0x19
  398 00a9 3C       		.uleb128 0x3c
  399 00aa 19       		.uleb128 0x19
-ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 8
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccm06Wo8.s 			page 8
 
 
  400 00ab 00       		.byte	0
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  454 00e1 00       		.byte	0
  455 00e2 00       		.byte	0
  456 00e3 10       		.uleb128 0x10
-ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 9
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccm06Wo8.s 			page 9
 
 
  457 00e4 2E       		.uleb128 0x2e
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  511 0042 86000000 		.4byte	.LASF43
  512 0046 02       		.byte	0x2
  513 0047 01       		.uleb128 0x1
-ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 10
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccm06Wo8.s 			page 10
 
 
  514 0048 1F       		.uleb128 0x1f
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  553      2D736563 
  553      74696F6E 
  553      73202D66 
-ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 11
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccm06Wo8.s 			page 11
 
 
  554 00d3 00       		.ascii	"\000"
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  578      7400
  579              	.LASF27:
  580 017a 68616C5F 		.ascii	"hal_lld_init\000"
-ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 12
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccm06Wo8.s 			page 12
 
 
  580      6C6C645F 
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  605              	.LASF24:
  606 0227 7364496E 		.ascii	"sdInit\000"
  606      697400
-ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 13
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccm06Wo8.s 			page 13
 
 
  607              	.LASF5:
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  633      342F6D69 
  633      6E677736 
  633      342F6172 
-ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 14
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccm06Wo8.s 			page 14
 
 
  634              	.LASF43:
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  655      6F617264 
  656              	.LASF35:
  657 0149 433A5C55 		.ascii	"C:\\Users\\denes\\Desktop\\canboard\\firmware\000"
-ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 15
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccm06Wo8.s 			page 15
 
 
  657      73657273 
@@ -864,13 +864,13 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  665      6E677736 
  665      342F6172 
  666              		.text
- 667              		.section	.gnu.lto_.profile.620439fd,"e",%progbits
+ 667              		.section	.gnu.lto_.profile.63e66b4e,"e",%progbits
  668 0000 28B52FFD 		.ascii	"(\265/\375 \0061\000\000\002\000\000\000\000\000"
  668      20063100 
  668      00020000 
  668      000000
  669              		.text
- 670              		.section	.gnu.lto_.icf.620439fd,"e",%progbits
+ 670              		.section	.gnu.lto_.icf.63e66b4e,"e",%progbits
  671 0000 28B52FFD 		.ascii	"(\265/\375 \025\215\000\000X\011\000\001\000\325\275"
  671      20158D00 
  671      00580900 
@@ -879,7 +879,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  672      0001001B 
  672      C002
  673              		.text
- 674              		.section	.gnu.lto_.ipa_sra.620439fd,"e",%progbits
+ 674              		.section	.gnu.lto_.ipa_sra.63e66b4e,"e",%progbits
  675 0000 28B52FFD 		.ascii	"(\265/\375 %\275\000\000x\031\000\001\000\000\001\001"
  675      2025BD00 
  675      00781900 
@@ -890,7 +890,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  676      0200394E 
  676      368005
  677              		.text
- 678              		.section	.gnu.lto_.inline.620439fd,"e",%progbits
+ 678              		.section	.gnu.lto_.inline.63e66b4e,"e",%progbits
  679 0000 28B52FFD 		.ascii	"(\265/\375 d\365\001\000\004\003X\000\001\000\000\014"
  679      2064F501 
  679      00040358 
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  679      0C
  680 0011 808080CC 		.ascii	"\200\200\200\314\002i\001\000\000\002\000\000\201\200"
  680      02690100 
-ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 16
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccm06Wo8.s 			page 16
 
 
  680      00020000 
@@ -915,7 +915,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  683      38C5C936 
  683      83DB0016 
  684              		.text
- 685              		.section	.gnu.lto_.jmpfuncs.620439fd,"e",%progbits
+ 685              		.section	.gnu.lto_.jmpfuncs.63e66b4e,"e",%progbits
  686 0000 28B52FFD 		.ascii	"(\265/\375 8}\001\000d\002,\000\001\000\002\003\002"
  686      20387D01 
  686      0064022C 
@@ -933,14 +933,14 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  689      0080E00D 
  689      6001
  690              		.text
- 691              		.section	.gnu.lto_.pureconst.620439fd,"e",%progbits
+ 691              		.section	.gnu.lto_.pureconst.63e66b4e,"e",%progbits
  692 0000 28B52FFD 		.ascii	"(\265/\375 \010A\000\000\004\000\000\000\001\000\230"
  692      20084100 
  692      00040000 
  692      00010098 
  693 0010 04       		.ascii	"\004"
  694              		.text
- 695              		.section	.gnu.lto_.ipa_modref.620439fd,"e",%progbits
+ 695              		.section	.gnu.lto_.ipa_modref.63e66b4e,"e",%progbits
  696 0000 28B52FFD 		.ascii	"(\265/\375 \030e\000\000 \014\000\001\000\002\000`\343"
  696      20186500 
  696      00200C00 
@@ -948,17 +948,17 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  696      60E3
  697 0012 0D6001   		.ascii	"\015`\001"
  698              		.text
- 699              		.section	.gnu.lto_.lto.620439fd,"e",%progbits
+ 699              		.section	.gnu.lto_.lto.63e66b4e,"e",%progbits
  700 0000 0D000100 		.ascii	"\015\000\001\000\001\000\001\000"
  700      01000100 
  701              		.text
- 702              		.section	.gnu.lto_halInit.290.620439fd,"e",%progbits
+ 702              		.section	.gnu.lto_halInit.290.63e66b4e,"e",%progbits
  703 0000 28B52FFD 		.ascii	"(\265/\375`\271\000\365\011\000\026\021A:@\217\322\001"
  703      60B900F5 
  703      09001611 
  703      413A408F 
  703      D201
-ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 17
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccm06Wo8.s 			page 17
 
 
  704 0012 58105C00 		.ascii	"X\020\\\000m8\343+\372\2372\267\006?\340\365\010\367"
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  714      B0521107 
  715 00e7 A215A411 		.ascii	"\242\025\244\021\020\237\347\003u(gc/\344H\025\3417"
  715      109FE703 
-ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 18
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccm06Wo8.s 			page 18
 
 
  715      75286763 
@@ -1048,7 +1048,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  720      E3722CDA 
  720      4906
  721              		.text
- 722              		.section	.gnu.lto_.symbol_nodes.620439fd,"e",%progbits
+ 722              		.section	.gnu.lto_.symbol_nodes.63e66b4e,"e",%progbits
  723 0000 28B52FFD 		.ascii	"(\265/\375`^\000m\004\000rG\030 \240'\351\377`\305\253"
  723      605E006D 
  723      04007247 
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  728      7C883293 
  728      9959ACA1 
  728      BF
-ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 19
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccm06Wo8.s 			page 19
 
 
  729 006c 09021200 		.ascii	"\011\002\022\000`h04\030\032\014\015\206v\031\2725\210"
@@ -1094,14 +1094,14 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  731      472D454A 
  731      3066400F 
  732              		.text
- 733              		.section	.gnu.lto_.refs.620439fd,"e",%progbits
+ 733              		.section	.gnu.lto_.refs.63e66b4e,"e",%progbits
  734 0000 28B52FFD 		.ascii	"(\265/\375 \013Y\000\000\007\000\000\000\001\000\002"
  734      200B5900 
  734      00070000 
  734      00010002 
  735 0010 01050000 		.ascii	"\001\005\000\000"
  736              		.text
- 737              		.section	.gnu.lto_.decls.620439fd,"e",%progbits
+ 737              		.section	.gnu.lto_.decls.63e66b4e,"e",%progbits
  738 0000 28B52FFD 		.ascii	"(\265/\375`g\010}/\000\252S\310\022F`^\326\030\231\330"
  738      6067087D 
  738      2F00AA53 
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  744      81873CE8 
  744      F5
  745 0086 2B433BA9 		.ascii	"+C;\251\220lX\353\266G\201\333\2538\025\367\362j\267"
-ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 20
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccm06Wo8.s 			page 20
 
 
  745      906C58EB 
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  756      EF8351B9 
  756      69F93F4F 
  757 0161 7F2A34AB 		.ascii	"\177*4\253\012\363\322\371\363\377<\231\263\014\364"
-ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 21
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccm06Wo8.s 			page 21
 
 
  757      0AF3D2F9 
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  769      AD9667DD 
  769      A85EFFB3 
  769      16049003 
-ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 22
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccm06Wo8.s 			page 22
 
 
  769      02
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  781      2F66E076 
  781      6B696DCD 
  781      AD2DD8E3 
-ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 23
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccm06Wo8.s 			page 23
 
 
  781      E0696605 
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  793      ED02CA61 
  793      D18918
  794 03e1 0B735A29 		.ascii	"\013sZ)\212A\212\240\022i\374\005\350(\006\021ND!c\270"
-ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 24
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccm06Wo8.s 			page 24
 
 
  794      8A418AA0 
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  805      A8813C85 
  805      18341388 
  806 04ca 8C88888C 		.ascii	"\214\210\210\214$I\016\200\002\2219\263:\021\200\271"
-ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 25
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccm06Wo8.s 			page 25
 
 
  806      24490E80 
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  817      6DE5F03A 
  817      46CC
  818 05a0 E2B414D8 		.ascii	"\342\264\024\330\331\325L\260z#%7j/\223\306\000l4\235"
-ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 26
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccm06Wo8.s 			page 26
 
 
  818      D9D54CB0 
@@ -1525,7 +1525,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  822      7216399D 
  822      9B37D22A 
  823              		.text
- 824              		.section	.gnu.lto_.symtab.620439fd,"e",%progbits
+ 824              		.section	.gnu.lto_.symtab.63e66b4e,"e",%progbits
  825 0000 68616C49 		.ascii	"halInit\000"
  825      6E697400 
  826 0008 00       		.ascii	"\000"
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  843      7400
  844 0059 00       		.ascii	"\000"
  845 005a 02       		.ascii	"\002"
-ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 27
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccm06Wo8.s 			page 27
 
 
  846 005b 00       		.ascii	"\000"
@@ -1618,10 +1618,10 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  883      00000000 
  884 00f8 FC000000 		.ascii	"\374\000\000\000"
  885              		.text
-ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 28
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccm06Wo8.s 			page 28
 
 
- 886              		.section	.gnu.lto_.ext_symtab.620439fd,"e",%progbits
+ 886              		.section	.gnu.lto_.ext_symtab.63e66b4e,"e",%progbits
  887 0000 01       		.ascii	"\001"
  888 0001 01       		.ascii	"\001"
  889 0002 00       		.ascii	"\000"
@@ -1678,7 +1678,7 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  916 0132 73656D62 		.ascii	"sembler' '-alms=./build/lst/hal.lst'\000"
  916      6C657227 
  916      20272D61 
-ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 29
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccm06Wo8.s 			page 29
 
 
  916      6C6D733D 
@@ -1686,12 +1686,12 @@ ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 1
  917              		.text
  918              		.comm	__gnu_lto_slim,1,1
  919              		.ident	"GCC: (GNU) 13.3.0"
-ARM GAS  C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s 			page 30
+ARM GAS  C:\Users\denes\AppData\Local\Temp\ccm06Wo8.s 			page 30
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 hal.c
-C:\Users\denes\AppData\Local\Temp\ccGsnZEI.s:30     .gnu.debuglto_.debug_info:00000000 hal.c.2da73da5
+C:\Users\denes\AppData\Local\Temp\ccm06Wo8.s:30     .gnu.debuglto_.debug_info:00000000 hal.c.2da73da5
                             *COM*:00000001 __gnu_lto_slim
 
 NO UNDEFINED SYMBOLS

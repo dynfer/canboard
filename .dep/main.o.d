@@ -86,7 +86,8 @@ build/obj/main.o: main.cpp ChibiOS/os/rt/include/ch.h cfg/chconf.h \
  C:/msys64/mingw64/arm-none-eabi/include/newlib.h \
  C:/msys64/mingw64/arm-none-eabi/include/sys/config.h \
  C:/msys64/mingw64/arm-none-eabi/include/machine/ieeefp.h \
- C:/msys64/mingw64/arm-none-eabi/include/_ansi.h Adc.h Out.h Digital.h
+ C:/msys64/mingw64/arm-none-eabi/include/_ansi.h Adc.h Out.h spi.h \
+ Digital.h
 ChibiOS/os/rt/include/ch.h:
 cfg/chconf.h:
 ChibiOS/os/rt/include/chchecks.h:
@@ -211,4 +212,5 @@ C:/msys64/mingw64/arm-none-eabi/include/machine/ieeefp.h:
 C:/msys64/mingw64/arm-none-eabi/include/_ansi.h:
 Adc.h:
 Out.h:
+spi.h:
 Digital.h:

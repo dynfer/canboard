@@ -81,12 +81,12 @@ build/obj/out.o: out.cpp ChibiOS/os/rt/include/ch.h cfg/chconf.h \
  ChibiOS/os/hal/include/hal_wspi.h ChibiOS/os/hal/include/hal_st.h \
  ChibiOS/os/hal/ports/STM32/LLD/TIMv1/hal_st_lld.h \
  ChibiOS/os/hal/include/hal_mmc_spi.h \
- ChibiOS/os/hal/include/hal_serial_usb.h adc.h \
+ ChibiOS/os/hal/include/hal_serial_usb.h out.h \
  C:/msys64/mingw64/arm-none-eabi/include/inttypes.h \
  C:/msys64/mingw64/arm-none-eabi/include/newlib.h \
  C:/msys64/mingw64/arm-none-eabi/include/sys/config.h \
  C:/msys64/mingw64/arm-none-eabi/include/machine/ieeefp.h \
- C:/msys64/mingw64/arm-none-eabi/include/_ansi.h
+ C:/msys64/mingw64/arm-none-eabi/include/_ansi.h Can.h
 ChibiOS/os/rt/include/ch.h:
 cfg/chconf.h:
 ChibiOS/os/rt/include/chchecks.h:
@@ -203,9 +203,10 @@ ChibiOS/os/hal/include/hal_st.h:
 ChibiOS/os/hal/ports/STM32/LLD/TIMv1/hal_st_lld.h:
 ChibiOS/os/hal/include/hal_mmc_spi.h:
 ChibiOS/os/hal/include/hal_serial_usb.h:
-adc.h:
+out.h:
 C:/msys64/mingw64/arm-none-eabi/include/inttypes.h:
 C:/msys64/mingw64/arm-none-eabi/include/newlib.h:
 C:/msys64/mingw64/arm-none-eabi/include/sys/config.h:
 C:/msys64/mingw64/arm-none-eabi/include/machine/ieeefp.h:
 C:/msys64/mingw64/arm-none-eabi/include/_ansi.h:
+Can.h:

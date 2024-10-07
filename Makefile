@@ -108,7 +108,8 @@ CPPSRC = $(ALLCPPSRC) \
          can.cpp \
          adc.cpp \
          out.cpp \
-         digital.cpp
+         digital.cpp \
+         spi.cpp
 
 # List ASM source files here.
 ASMSRC = $(ALLASMSRC)

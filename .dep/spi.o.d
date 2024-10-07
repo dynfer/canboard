@@ -1,33 +1,16 @@
-build/obj/hal_usb_lld.o: \
- ChibiOS/os/hal/ports/STM32/LLD/USBv1/hal_usb_lld.c \
- C:/msys64/mingw64/arm-none-eabi/include/string.h \
- C:/msys64/mingw64/arm-none-eabi/include/_ansi.h \
- C:/msys64/mingw64/arm-none-eabi/include/newlib.h \
- C:/msys64/mingw64/arm-none-eabi/include/_newlib_version.h \
- C:/msys64/mingw64/arm-none-eabi/include/sys/config.h \
- C:/msys64/mingw64/arm-none-eabi/include/machine/ieeefp.h \
- C:/msys64/mingw64/arm-none-eabi/include/sys/features.h \
- C:/msys64/mingw64/arm-none-eabi/include/sys/reent.h \
- C:/msys64/mingw64/arm-none-eabi/include/_ansi.h \
+build/obj/spi.o: spi.cpp ChibiOS/os/rt/include/ch.h cfg/chconf.h \
+ ChibiOS/os/rt/include/chchecks.h ChibiOS/os/license/chlicense.h \
+ ChibiOS/os/license/chcustomer.h ChibiOS/os/rt/include/chrestrictions.h \
+ ChibiOS/os/common/ports/ARMCMx/compilers/GCC/chtypes.h \
  C:/msys64/mingw64/lib/gcc/arm-none-eabi/13.3.0/include/stddef.h \
- C:/msys64/mingw64/arm-none-eabi/include/sys/cdefs.h \
- C:/msys64/mingw64/arm-none-eabi/include/machine/_default_types.h \
- C:/msys64/mingw64/arm-none-eabi/include/sys/_types.h \
- C:/msys64/mingw64/arm-none-eabi/include/machine/_types.h \
- C:/msys64/mingw64/arm-none-eabi/include/sys/lock.h \
- C:/msys64/mingw64/arm-none-eabi/include/sys/_locale.h \
- C:/msys64/mingw64/arm-none-eabi/include/strings.h \
- C:/msys64/mingw64/arm-none-eabi/include/sys/string.h \
- ChibiOS/os/hal/include/hal.h ChibiOS/os/hal/osal/rt-nil/osal.h \
  C:/msys64/mingw64/lib/gcc/arm-none-eabi/13.3.0/include/stdint.h \
  C:/msys64/mingw64/arm-none-eabi/include/stdint.h \
+ C:/msys64/mingw64/arm-none-eabi/include/machine/_default_types.h \
+ C:/msys64/mingw64/arm-none-eabi/include/sys/features.h \
+ C:/msys64/mingw64/arm-none-eabi/include/_newlib_version.h \
  C:/msys64/mingw64/arm-none-eabi/include/sys/_intsup.h \
  C:/msys64/mingw64/arm-none-eabi/include/sys/_stdint.h \
  C:/msys64/mingw64/lib/gcc/arm-none-eabi/13.3.0/include/stdbool.h \
- ChibiOS/os/rt/include/ch.h cfg/chconf.h ChibiOS/os/rt/include/chchecks.h \
- ChibiOS/os/license/chlicense.h ChibiOS/os/license/chcustomer.h \
- ChibiOS/os/rt/include/chrestrictions.h \
- ChibiOS/os/common/ports/ARMCMx/compilers/GCC/chtypes.h \
  ChibiOS/os/rt/include/chsystypes.h ChibiOS/os/rt/include/chlists.h \
  ChibiOS/os/rt/include/chdebug.h ChibiOS/os/rt/include/chtime.h \
  ChibiOS/os/rt/include/chalign.h ChibiOS/os/common/ports/ARMCMx/chcore.h \
@@ -59,7 +42,8 @@ build/obj/hal_usb_lld.o: \
  ChibiOS/os/oslib/include/chdelegates.h \
  C:/msys64/mingw64/lib/gcc/arm-none-eabi/13.3.0/include/stdarg.h \
  ChibiOS/os/oslib/include/chjobs.h ChibiOS/os/oslib/include/chfactory.h \
- ChibiOS/os/rt/include/chdynamic.h cfg/halconf.h cfg/mcuconf.h \
+ ChibiOS/os/rt/include/chdynamic.h ChibiOS/os/hal/include/hal.h \
+ ChibiOS/os/hal/osal/rt-nil/osal.h cfg/halconf.h cfg/mcuconf.h \
  ChibiOS/os/hal/ports/STM32/STM32F1xx/hal_lld.h \
  ChibiOS/os/hal/ports/STM32/STM32F1xx/stm32_registry.h \
  ChibiOS/os/hal/ports/STM32/STM32F1xx/hal_lld_f103.h \
@@ -78,49 +62,31 @@ build/obj/hal_usb_lld.o: \
  ChibiOS/os/hal/include/hal_flash.h ChibiOS/os/hal/include/hal_buffers.h \
  ChibiOS/os/hal/include/hal_queues.h ChibiOS/os/hal/include/hal_pal.h \
  ChibiOS/os/hal/ports/STM32/LLD/GPIOv1/hal_pal_lld.h \
- ChibiOS/os/hal/include/hal_adc.h ChibiOS/os/hal/include/hal_can.h \
+ ChibiOS/os/hal/include/hal_adc.h \
+ ChibiOS/os/hal/ports/STM32/STM32F1xx/hal_adc_lld.h \
+ ChibiOS/os/hal/include/hal_can.h \
+ ChibiOS/os/hal/ports/STM32/LLD/CANv1/hal_can_lld.h \
  ChibiOS/os/hal/include/hal_crypto.h ChibiOS/os/hal/include/hal_dac.h \
  ChibiOS/os/hal/include/hal_efl.h ChibiOS/os/hal/include/hal_gpt.h \
  ChibiOS/os/hal/include/hal_i2c.h ChibiOS/os/hal/include/hal_i2s.h \
  ChibiOS/os/hal/include/hal_icu.h ChibiOS/os/hal/include/hal_mac.h \
  ChibiOS/os/hal/include/hal_pwm.h ChibiOS/os/hal/include/hal_rtc.h \
- ChibiOS/os/hal/include/hal_serial.h ChibiOS/os/hal/include/hal_sdc.h \
- ChibiOS/os/hal/include/hal_sio.h ChibiOS/os/hal/include/hal_spi.h \
+ ChibiOS/os/hal/include/hal_serial.h \
+ ChibiOS/os/hal/ports/STM32/LLD/USARTv1/hal_serial_lld.h \
+ ChibiOS/os/hal/include/hal_sdc.h ChibiOS/os/hal/include/hal_sio.h \
+ ChibiOS/os/hal/include/hal_spi.h \
+ ChibiOS/os/hal/ports/STM32/LLD/SPIv1/hal_spi_lld.h \
  ChibiOS/os/hal/include/hal_trng.h ChibiOS/os/hal/include/hal_uart.h \
- ChibiOS/os/hal/include/hal_usb.h \
- ChibiOS/os/hal/ports/STM32/LLD/USBv1/hal_usb_lld.h \
- ChibiOS/os/hal/ports/STM32/LLD/USBv1/stm32_usb.h \
- ChibiOS/os/hal/include/hal_wdg.h ChibiOS/os/hal/include/hal_wspi.h \
- ChibiOS/os/hal/include/hal_st.h \
+ ChibiOS/os/hal/include/hal_usb.h ChibiOS/os/hal/include/hal_wdg.h \
+ ChibiOS/os/hal/include/hal_wspi.h ChibiOS/os/hal/include/hal_st.h \
  ChibiOS/os/hal/ports/STM32/LLD/TIMv1/hal_st_lld.h \
  ChibiOS/os/hal/include/hal_mmc_spi.h \
- ChibiOS/os/hal/include/hal_serial_usb.h \
- ChibiOS/os/hal/include/hal_usb_cdc.h
-C:/msys64/mingw64/arm-none-eabi/include/string.h:
-C:/msys64/mingw64/arm-none-eabi/include/_ansi.h:
-C:/msys64/mingw64/arm-none-eabi/include/newlib.h:
-C:/msys64/mingw64/arm-none-eabi/include/_newlib_version.h:
-C:/msys64/mingw64/arm-none-eabi/include/sys/config.h:
-C:/msys64/mingw64/arm-none-eabi/include/machine/ieeefp.h:
-C:/msys64/mingw64/arm-none-eabi/include/sys/features.h:
-C:/msys64/mingw64/arm-none-eabi/include/sys/reent.h:
-C:/msys64/mingw64/arm-none-eabi/include/_ansi.h:
-C:/msys64/mingw64/lib/gcc/arm-none-eabi/13.3.0/include/stddef.h:
-C:/msys64/mingw64/arm-none-eabi/include/sys/cdefs.h:
-C:/msys64/mingw64/arm-none-eabi/include/machine/_default_types.h:
-C:/msys64/mingw64/arm-none-eabi/include/sys/_types.h:
-C:/msys64/mingw64/arm-none-eabi/include/machine/_types.h:
-C:/msys64/mingw64/arm-none-eabi/include/sys/lock.h:
-C:/msys64/mingw64/arm-none-eabi/include/sys/_locale.h:
-C:/msys64/mingw64/arm-none-eabi/include/strings.h:
-C:/msys64/mingw64/arm-none-eabi/include/sys/string.h:
-ChibiOS/os/hal/include/hal.h:
-ChibiOS/os/hal/osal/rt-nil/osal.h:
-C:/msys64/mingw64/lib/gcc/arm-none-eabi/13.3.0/include/stdint.h:
-C:/msys64/mingw64/arm-none-eabi/include/stdint.h:
-C:/msys64/mingw64/arm-none-eabi/include/sys/_intsup.h:
-C:/msys64/mingw64/arm-none-eabi/include/sys/_stdint.h:
-C:/msys64/mingw64/lib/gcc/arm-none-eabi/13.3.0/include/stdbool.h:
+ ChibiOS/os/hal/include/hal_serial_usb.h spi.h \
+ C:/msys64/mingw64/arm-none-eabi/include/inttypes.h \
+ C:/msys64/mingw64/arm-none-eabi/include/newlib.h \
+ C:/msys64/mingw64/arm-none-eabi/include/sys/config.h \
+ C:/msys64/mingw64/arm-none-eabi/include/machine/ieeefp.h \
+ C:/msys64/mingw64/arm-none-eabi/include/_ansi.h Can.h
 ChibiOS/os/rt/include/ch.h:
 cfg/chconf.h:
 ChibiOS/os/rt/include/chchecks.h:
@@ -128,6 +94,15 @@ ChibiOS/os/license/chlicense.h:
 ChibiOS/os/license/chcustomer.h:
 ChibiOS/os/rt/include/chrestrictions.h:
 ChibiOS/os/common/ports/ARMCMx/compilers/GCC/chtypes.h:
+C:/msys64/mingw64/lib/gcc/arm-none-eabi/13.3.0/include/stddef.h:
+C:/msys64/mingw64/lib/gcc/arm-none-eabi/13.3.0/include/stdint.h:
+C:/msys64/mingw64/arm-none-eabi/include/stdint.h:
+C:/msys64/mingw64/arm-none-eabi/include/machine/_default_types.h:
+C:/msys64/mingw64/arm-none-eabi/include/sys/features.h:
+C:/msys64/mingw64/arm-none-eabi/include/_newlib_version.h:
+C:/msys64/mingw64/arm-none-eabi/include/sys/_intsup.h:
+C:/msys64/mingw64/arm-none-eabi/include/sys/_stdint.h:
+C:/msys64/mingw64/lib/gcc/arm-none-eabi/13.3.0/include/stdbool.h:
 ChibiOS/os/rt/include/chsystypes.h:
 ChibiOS/os/rt/include/chlists.h:
 ChibiOS/os/rt/include/chdebug.h:
@@ -173,6 +148,8 @@ C:/msys64/mingw64/lib/gcc/arm-none-eabi/13.3.0/include/stdarg.h:
 ChibiOS/os/oslib/include/chjobs.h:
 ChibiOS/os/oslib/include/chfactory.h:
 ChibiOS/os/rt/include/chdynamic.h:
+ChibiOS/os/hal/include/hal.h:
+ChibiOS/os/hal/osal/rt-nil/osal.h:
 cfg/halconf.h:
 cfg/mcuconf.h:
 ChibiOS/os/hal/ports/STM32/STM32F1xx/hal_lld.h:
@@ -198,7 +175,9 @@ ChibiOS/os/hal/include/hal_queues.h:
 ChibiOS/os/hal/include/hal_pal.h:
 ChibiOS/os/hal/ports/STM32/LLD/GPIOv1/hal_pal_lld.h:
 ChibiOS/os/hal/include/hal_adc.h:
+ChibiOS/os/hal/ports/STM32/STM32F1xx/hal_adc_lld.h:
 ChibiOS/os/hal/include/hal_can.h:
+ChibiOS/os/hal/ports/STM32/LLD/CANv1/hal_can_lld.h:
 ChibiOS/os/hal/include/hal_crypto.h:
 ChibiOS/os/hal/include/hal_dac.h:
 ChibiOS/os/hal/include/hal_efl.h:
@@ -210,18 +189,24 @@ ChibiOS/os/hal/include/hal_mac.h:
 ChibiOS/os/hal/include/hal_pwm.h:
 ChibiOS/os/hal/include/hal_rtc.h:
 ChibiOS/os/hal/include/hal_serial.h:
+ChibiOS/os/hal/ports/STM32/LLD/USARTv1/hal_serial_lld.h:
 ChibiOS/os/hal/include/hal_sdc.h:
 ChibiOS/os/hal/include/hal_sio.h:
 ChibiOS/os/hal/include/hal_spi.h:
+ChibiOS/os/hal/ports/STM32/LLD/SPIv1/hal_spi_lld.h:
 ChibiOS/os/hal/include/hal_trng.h:
 ChibiOS/os/hal/include/hal_uart.h:
 ChibiOS/os/hal/include/hal_usb.h:
-ChibiOS/os/hal/ports/STM32/LLD/USBv1/hal_usb_lld.h:
-ChibiOS/os/hal/ports/STM32/LLD/USBv1/stm32_usb.h:
 ChibiOS/os/hal/include/hal_wdg.h:
 ChibiOS/os/hal/include/hal_wspi.h:
 ChibiOS/os/hal/include/hal_st.h:
 ChibiOS/os/hal/ports/STM32/LLD/TIMv1/hal_st_lld.h:
 ChibiOS/os/hal/include/hal_mmc_spi.h:
 ChibiOS/os/hal/include/hal_serial_usb.h:
-ChibiOS/os/hal/include/hal_usb_cdc.h:
+spi.h:
+C:/msys64/mingw64/arm-none-eabi/include/inttypes.h:
+C:/msys64/mingw64/arm-none-eabi/include/newlib.h:
+C:/msys64/mingw64/arm-none-eabi/include/sys/config.h:
+C:/msys64/mingw64/arm-none-eabi/include/machine/ieeefp.h:
+C:/msys64/mingw64/arm-none-eabi/include/_ansi.h:
+Can.h:

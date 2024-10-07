@@ -87,7 +87,7 @@ build/obj/can.o: can.cpp Can.h \
  ChibiOS/os/hal/include/hal_wspi.h ChibiOS/os/hal/include/hal_st.h \
  ChibiOS/os/hal/ports/STM32/LLD/TIMv1/hal_st_lld.h \
  ChibiOS/os/hal/include/hal_mmc_spi.h \
- ChibiOS/os/hal/include/hal_serial_usb.h
+ ChibiOS/os/hal/include/hal_serial_usb.h out.h digital.h spi.h adc.h
 Can.h:
 C:/msys64/mingw64/arm-none-eabi/include/inttypes.h:
 C:/msys64/mingw64/arm-none-eabi/include/newlib.h:
@@ -210,3 +210,7 @@ ChibiOS/os/hal/include/hal_st.h:
 ChibiOS/os/hal/ports/STM32/LLD/TIMv1/hal_st_lld.h:
 ChibiOS/os/hal/include/hal_mmc_spi.h:
 ChibiOS/os/hal/include/hal_serial_usb.h:
+out.h:
+digital.h:
+spi.h:
+adc.h:

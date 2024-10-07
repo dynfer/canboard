@@ -9,14 +9,8 @@
 #define CZYSC_BIT(array, index) (array[(index) / 8] &= ~(1 << ((index) % 8)))
 #define ODCZYTAJ_BIT(array, index) ((array[(index) / 8] & (1 << ((index) % 8))) ? 1 : 0)
 
+extern uint8_t digitalOutputs[(4 + 7) / 8]; // Declaration without initialization
 
 void startOutThread(void);
-
-class Out
-{
-    private:
-
-    public:
-};
 
 #endif

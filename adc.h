@@ -5,18 +5,11 @@
 #include "ch.h"
 #include "hal.h"
 
-#define USTAW_BIT(array, index) (array[(index) / 8] |= (1 << ((index) % 8)))
-#define CZYSC_BIT(array, index) (array[(index) / 8] &= ~(1 << ((index) % 8)))
-#define ODCZYTAJ_BIT(array, index) ((array[(index) / 8] & (1 << ((index) % 8))) ? 1 : 0)
+#define ADC1_NUM_CHANNELS   10
+#define ADC1_BUF_DEPTH      1
 
+extern adcsample_t adc1_samples[ADC1_NUM_CHANNELS * ADC1_BUF_DEPTH];
 
 void startAdcThread(void);
-
-class Adc
-{
-    private:
-
-    public:
-};
 
 #endif
