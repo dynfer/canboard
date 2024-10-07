@@ -1,9 +1,9 @@
 Archive member included to satisfy reference by file (symbol)
 
 C:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-memset.o)
-                              C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o (memset)
+                              C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o (memset)
 C:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-memcpy.o)
-                              C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o (memcpy)
+                              C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o (memcpy)
 
 Discarded input sections
 
@@ -13,278 +13,278 @@ Discarded input sections
  .bss           0x00000000        0x0 ./build/obj/vectors.o
  .data          0x00000000        0x0 ./build/obj/chcoreasm_v7m.o
  .bss           0x00000000        0x0 ./build/obj/chcoreasm_v7m.o
- .text          0x00000000        0x0 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
- .data          0x00000000        0x0 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
- .bss           0x00000000        0x0 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccMVXy1m.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccPX1vFg.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccMYciga.debug.temp.o
- .debug_info    0x00000000      0x952 C:\Users\denes\AppData\Local\Temp\ccH42TN3.debug.temp.o
- .debug_abbrev  0x00000000      0x1f4 C:\Users\denes\AppData\Local\Temp\ccH42TN3.debug.temp.o
- .debug_line    0x00000000       0xad C:\Users\denes\AppData\Local\Temp\ccH42TN3.debug.temp.o
- .debug_str     0x00000000      0x5c5 C:\Users\denes\AppData\Local\Temp\ccH42TN3.debug.temp.o
+ .text          0x00000000        0x0 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+ .data          0x00000000        0x0 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccqo5xer.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccIbsDWS.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccyKqiVk.debug.temp.o
+ .debug_info    0x00000000      0x952 C:\Users\denes\AppData\Local\Temp\cckbypPM.debug.temp.o
+ .debug_abbrev  0x00000000      0x1f4 C:\Users\denes\AppData\Local\Temp\cckbypPM.debug.temp.o
+ .debug_line    0x00000000       0xad C:\Users\denes\AppData\Local\Temp\cckbypPM.debug.temp.o
+ .debug_str     0x00000000      0x5c5 C:\Users\denes\AppData\Local\Temp\cckbypPM.debug.temp.o
  .debug_line_str
-                0x00000000      0x28b C:\Users\denes\AppData\Local\Temp\ccH42TN3.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccH42TN3.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cc2RWroW.debug.temp.o
- .debug_info    0x00000000      0x49f C:\Users\denes\AppData\Local\Temp\ccxsxaVO.debug.temp.o
- .debug_abbrev  0x00000000      0x15e C:\Users\denes\AppData\Local\Temp\ccxsxaVO.debug.temp.o
- .debug_line    0x00000000       0x75 C:\Users\denes\AppData\Local\Temp\ccxsxaVO.debug.temp.o
- .debug_str     0x00000000      0x4a4 C:\Users\denes\AppData\Local\Temp\ccxsxaVO.debug.temp.o
+                0x00000000      0x28b C:\Users\denes\AppData\Local\Temp\cckbypPM.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cckbypPM.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccqELLWe.debug.temp.o
+ .debug_info    0x00000000      0x49f C:\Users\denes\AppData\Local\Temp\ccm2Ad1G.debug.temp.o
+ .debug_abbrev  0x00000000      0x15e C:\Users\denes\AppData\Local\Temp\ccm2Ad1G.debug.temp.o
+ .debug_line    0x00000000       0x75 C:\Users\denes\AppData\Local\Temp\ccm2Ad1G.debug.temp.o
+ .debug_str     0x00000000      0x4a4 C:\Users\denes\AppData\Local\Temp\ccm2Ad1G.debug.temp.o
  .debug_line_str
-                0x00000000      0x190 C:\Users\denes\AppData\Local\Temp\ccxsxaVO.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccxsxaVO.debug.temp.o
- .debug_info    0x00000000       0x7a C:\Users\denes\AppData\Local\Temp\cc8RucGH.debug.temp.o
- .debug_abbrev  0x00000000       0x26 C:\Users\denes\AppData\Local\Temp\cc8RucGH.debug.temp.o
- .debug_line    0x00000000       0x31 C:\Users\denes\AppData\Local\Temp\cc8RucGH.debug.temp.o
- .debug_str     0x00000000      0x1b2 C:\Users\denes\AppData\Local\Temp\cc8RucGH.debug.temp.o
+                0x00000000      0x190 C:\Users\denes\AppData\Local\Temp\ccm2Ad1G.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccm2Ad1G.debug.temp.o
+ .debug_info    0x00000000       0x7a C:\Users\denes\AppData\Local\Temp\cckTOI08.debug.temp.o
+ .debug_abbrev  0x00000000       0x26 C:\Users\denes\AppData\Local\Temp\cckTOI08.debug.temp.o
+ .debug_line    0x00000000       0x31 C:\Users\denes\AppData\Local\Temp\cckTOI08.debug.temp.o
+ .debug_str     0x00000000      0x1b2 C:\Users\denes\AppData\Local\Temp\cckTOI08.debug.temp.o
  .debug_line_str
-                0x00000000       0x4a C:\Users\denes\AppData\Local\Temp\cc8RucGH.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cc8RucGH.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccT6bGnA.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccwv4T3s.debug.temp.o
- .debug_info    0x00000000      0x575 C:\Users\denes\AppData\Local\Temp\cct6hKYl.debug.temp.o
- .debug_abbrev  0x00000000      0x20b C:\Users\denes\AppData\Local\Temp\cct6hKYl.debug.temp.o
- .debug_line    0x00000000       0xb6 C:\Users\denes\AppData\Local\Temp\cct6hKYl.debug.temp.o
- .debug_str     0x00000000      0x42b C:\Users\denes\AppData\Local\Temp\cct6hKYl.debug.temp.o
+                0x00000000       0x4a C:\Users\denes\AppData\Local\Temp\cckTOI08.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cckTOI08.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cciYLt4z.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccUVOe30.debug.temp.o
+ .debug_info    0x00000000      0x575 C:\Users\denes\AppData\Local\Temp\ccorpPgs.debug.temp.o
+ .debug_abbrev  0x00000000      0x20b C:\Users\denes\AppData\Local\Temp\ccorpPgs.debug.temp.o
+ .debug_line    0x00000000       0xb6 C:\Users\denes\AppData\Local\Temp\ccorpPgs.debug.temp.o
+ .debug_str     0x00000000      0x42b C:\Users\denes\AppData\Local\Temp\ccorpPgs.debug.temp.o
  .debug_line_str
-                0x00000000      0x2a4 C:\Users\denes\AppData\Local\Temp\cct6hKYl.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cct6hKYl.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccQoVVPe.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccp78YD7.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccSUEJG0.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cch0GfET.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccECsMEL.debug.temp.o
- .debug_info    0x00000000       0x7a C:\Users\denes\AppData\Local\Temp\ccP6yoCD.debug.temp.o
- .debug_abbrev  0x00000000       0x26 C:\Users\denes\AppData\Local\Temp\ccP6yoCD.debug.temp.o
- .debug_line    0x00000000       0x31 C:\Users\denes\AppData\Local\Temp\ccP6yoCD.debug.temp.o
- .debug_str     0x00000000      0x1c6 C:\Users\denes\AppData\Local\Temp\ccP6yoCD.debug.temp.o
+                0x00000000      0x2a4 C:\Users\denes\AppData\Local\Temp\ccorpPgs.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccorpPgs.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cc4IR2pT.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccI96GNk.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccQLEJ6L.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccyWE6md.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccc1SfQE.debug.temp.o
+ .debug_info    0x00000000       0x7a C:\Users\denes\AppData\Local\Temp\ccgzr5h6.debug.temp.o
+ .debug_abbrev  0x00000000       0x26 C:\Users\denes\AppData\Local\Temp\ccgzr5h6.debug.temp.o
+ .debug_line    0x00000000       0x31 C:\Users\denes\AppData\Local\Temp\ccgzr5h6.debug.temp.o
+ .debug_str     0x00000000      0x1c6 C:\Users\denes\AppData\Local\Temp\ccgzr5h6.debug.temp.o
  .debug_line_str
-                0x00000000       0x5e C:\Users\denes\AppData\Local\Temp\ccP6yoCD.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccP6yoCD.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cckhuuOv.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccnRr5Wn.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cciPF51f.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cczMnMn8.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccWWKLF0.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccDflMUS.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccYIujoL.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccrMODMD.debug.temp.o
- .debug_info    0x00000000       0x7a C:\Users\denes\AppData\Local\Temp\ccmQdw9v.debug.temp.o
- .debug_abbrev  0x00000000       0x26 C:\Users\denes\AppData\Local\Temp\ccmQdw9v.debug.temp.o
- .debug_line    0x00000000       0x31 C:\Users\denes\AppData\Local\Temp\ccmQdw9v.debug.temp.o
- .debug_str     0x00000000      0x1b5 C:\Users\denes\AppData\Local\Temp\ccmQdw9v.debug.temp.o
+                0x00000000       0x5e C:\Users\denes\AppData\Local\Temp\ccgzr5h6.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccgzr5h6.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccUXh3Lw.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccWU7wbX.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccqgpEPn.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccUf9JqO.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccqKkaXe.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccUlgKHF.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccqU3en6.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccg1t7fx.debug.temp.o
+ .debug_info    0x00000000       0x7a C:\Users\denes\AppData\Local\Temp\ccUZe55X.debug.temp.o
+ .debug_abbrev  0x00000000       0x26 C:\Users\denes\AppData\Local\Temp\ccUZe55X.debug.temp.o
+ .debug_line    0x00000000       0x31 C:\Users\denes\AppData\Local\Temp\ccUZe55X.debug.temp.o
+ .debug_str     0x00000000      0x1b5 C:\Users\denes\AppData\Local\Temp\ccUZe55X.debug.temp.o
  .debug_line_str
-                0x00000000       0x4d C:\Users\denes\AppData\Local\Temp\ccmQdw9v.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccmQdw9v.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cctimpfs.debug.temp.o
- .debug_info    0x00000000       0x7a C:\Users\denes\AppData\Local\Temp\ccMujEgo.debug.temp.o
- .debug_abbrev  0x00000000       0x26 C:\Users\denes\AppData\Local\Temp\ccMujEgo.debug.temp.o
- .debug_line    0x00000000       0x31 C:\Users\denes\AppData\Local\Temp\ccMujEgo.debug.temp.o
- .debug_str     0x00000000      0x1af C:\Users\denes\AppData\Local\Temp\ccMujEgo.debug.temp.o
+                0x00000000       0x4d C:\Users\denes\AppData\Local\Temp\ccUZe55X.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccUZe55X.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccsRBDYn.debug.temp.o
+ .debug_info    0x00000000       0x7a C:\Users\denes\AppData\Local\Temp\ccgHxENN.debug.temp.o
+ .debug_abbrev  0x00000000       0x26 C:\Users\denes\AppData\Local\Temp\ccgHxENN.debug.temp.o
+ .debug_line    0x00000000       0x31 C:\Users\denes\AppData\Local\Temp\ccgHxENN.debug.temp.o
+ .debug_str     0x00000000      0x1af C:\Users\denes\AppData\Local\Temp\ccgHxENN.debug.temp.o
  .debug_line_str
-                0x00000000       0x47 C:\Users\denes\AppData\Local\Temp\ccMujEgo.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccMujEgo.debug.temp.o
- .debug_info    0x00000000       0x7a C:\Users\denes\AppData\Local\Temp\ccP2HHwk.debug.temp.o
- .debug_abbrev  0x00000000       0x26 C:\Users\denes\AppData\Local\Temp\ccP2HHwk.debug.temp.o
- .debug_line    0x00000000       0x31 C:\Users\denes\AppData\Local\Temp\ccP2HHwk.debug.temp.o
- .debug_str     0x00000000      0x1af C:\Users\denes\AppData\Local\Temp\ccP2HHwk.debug.temp.o
+                0x00000000       0x47 C:\Users\denes\AppData\Local\Temp\ccgHxENN.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccgHxENN.debug.temp.o
+ .debug_info    0x00000000       0x7a C:\Users\denes\AppData\Local\Temp\ccU7QgBd.debug.temp.o
+ .debug_abbrev  0x00000000       0x26 C:\Users\denes\AppData\Local\Temp\ccU7QgBd.debug.temp.o
+ .debug_line    0x00000000       0x31 C:\Users\denes\AppData\Local\Temp\ccU7QgBd.debug.temp.o
+ .debug_str     0x00000000      0x1af C:\Users\denes\AppData\Local\Temp\ccU7QgBd.debug.temp.o
  .debug_line_str
-                0x00000000       0x47 C:\Users\denes\AppData\Local\Temp\ccP2HHwk.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccP2HHwk.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cceg4DJg.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cc7YeMbd.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccUue5y9.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccNdVJ95.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cciwisH2.debug.temp.o
- .debug_info    0x00000000      0xa5e C:\Users\denes\AppData\Local\Temp\cctWkPbZ.debug.temp.o
- .debug_abbrev  0x00000000      0x295 C:\Users\denes\AppData\Local\Temp\cctWkPbZ.debug.temp.o
- .debug_line    0x00000000       0x98 C:\Users\denes\AppData\Local\Temp\cctWkPbZ.debug.temp.o
- .debug_str     0x00000000      0x679 C:\Users\denes\AppData\Local\Temp\cctWkPbZ.debug.temp.o
+                0x00000000       0x47 C:\Users\denes\AppData\Local\Temp\ccU7QgBd.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccU7QgBd.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccQbImDD.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccaobFB3.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccWyIhPt.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccuOrVXT.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccohIR3j.debug.temp.o
+ .debug_info    0x00000000      0xa5e C:\Users\denes\AppData\Local\Temp\cc2dmslK.debug.temp.o
+ .debug_abbrev  0x00000000      0x295 C:\Users\denes\AppData\Local\Temp\cc2dmslK.debug.temp.o
+ .debug_line    0x00000000       0x98 C:\Users\denes\AppData\Local\Temp\cc2dmslK.debug.temp.o
+ .debug_str     0x00000000      0x679 C:\Users\denes\AppData\Local\Temp\cc2dmslK.debug.temp.o
  .debug_line_str
-                0x00000000      0x1d9 C:\Users\denes\AppData\Local\Temp\cctWkPbZ.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cctWkPbZ.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccyTH1JU.debug.temp.o
- .debug_info    0x00000000      0x9fc C:\Users\denes\AppData\Local\Temp\ccbIxjeQ.debug.temp.o
- .debug_abbrev  0x00000000      0x296 C:\Users\denes\AppData\Local\Temp\ccbIxjeQ.debug.temp.o
- .debug_line    0x00000000       0xa2 C:\Users\denes\AppData\Local\Temp\ccbIxjeQ.debug.temp.o
- .debug_str     0x00000000      0x697 C:\Users\denes\AppData\Local\Temp\ccbIxjeQ.debug.temp.o
+                0x00000000      0x1d9 C:\Users\denes\AppData\Local\Temp\cc2dmslK.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cc2dmslK.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccIRVrme.debug.temp.o
+ .debug_info    0x00000000      0x9fc C:\Users\denes\AppData\Local\Temp\ccuOjzkI.debug.temp.o
+ .debug_abbrev  0x00000000      0x296 C:\Users\denes\AppData\Local\Temp\ccuOjzkI.debug.temp.o
+ .debug_line    0x00000000       0xa2 C:\Users\denes\AppData\Local\Temp\ccuOjzkI.debug.temp.o
+ .debug_str     0x00000000      0x697 C:\Users\denes\AppData\Local\Temp\ccuOjzkI.debug.temp.o
  .debug_line_str
-                0x00000000      0x1f0 C:\Users\denes\AppData\Local\Temp\ccbIxjeQ.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccbIxjeQ.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccaoD8GL.debug.temp.o
- .debug_info    0x00000000      0x88d C:\Users\denes\AppData\Local\Temp\ccBUAboH.debug.temp.o
- .debug_abbrev  0x00000000      0x24c C:\Users\denes\AppData\Local\Temp\ccBUAboH.debug.temp.o
- .debug_line    0x00000000       0x9d C:\Users\denes\AppData\Local\Temp\ccBUAboH.debug.temp.o
- .debug_str     0x00000000      0x5d5 C:\Users\denes\AppData\Local\Temp\ccBUAboH.debug.temp.o
+                0x00000000      0x1f0 C:\Users\denes\AppData\Local\Temp\ccuOjzkI.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccuOjzkI.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccs35rec.debug.temp.o
+ .debug_info    0x00000000      0x88d C:\Users\denes\AppData\Local\Temp\cc4srRmG.debug.temp.o
+ .debug_abbrev  0x00000000      0x24c C:\Users\denes\AppData\Local\Temp\cc4srRmG.debug.temp.o
+ .debug_line    0x00000000       0x9d C:\Users\denes\AppData\Local\Temp\cc4srRmG.debug.temp.o
+ .debug_str     0x00000000      0x5d5 C:\Users\denes\AppData\Local\Temp\cc4srRmG.debug.temp.o
  .debug_line_str
-                0x00000000      0x1e1 C:\Users\denes\AppData\Local\Temp\ccBUAboH.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccBUAboH.debug.temp.o
- .debug_info    0x00000000      0x864 C:\Users\denes\AppData\Local\Temp\ccAm7R1C.debug.temp.o
- .debug_abbrev  0x00000000      0x1e0 C:\Users\denes\AppData\Local\Temp\ccAm7R1C.debug.temp.o
- .debug_line    0x00000000       0xaf C:\Users\denes\AppData\Local\Temp\ccAm7R1C.debug.temp.o
- .debug_str     0x00000000      0x53f C:\Users\denes\AppData\Local\Temp\ccAm7R1C.debug.temp.o
+                0x00000000      0x1e1 C:\Users\denes\AppData\Local\Temp\cc4srRmG.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cc4srRmG.debug.temp.o
+ .debug_info    0x00000000      0x864 C:\Users\denes\AppData\Local\Temp\ccWOisra.debug.temp.o
+ .debug_abbrev  0x00000000      0x1e0 C:\Users\denes\AppData\Local\Temp\ccWOisra.debug.temp.o
+ .debug_line    0x00000000       0xaf C:\Users\denes\AppData\Local\Temp\ccWOisra.debug.temp.o
+ .debug_str     0x00000000      0x53f C:\Users\denes\AppData\Local\Temp\ccWOisra.debug.temp.o
  .debug_line_str
-                0x00000000      0x25c C:\Users\denes\AppData\Local\Temp\ccAm7R1C.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccAm7R1C.debug.temp.o
- .debug_info    0x00000000      0x60c C:\Users\denes\AppData\Local\Temp\cc3HKJCy.debug.temp.o
- .debug_abbrev  0x00000000      0x1d6 C:\Users\denes\AppData\Local\Temp\cc3HKJCy.debug.temp.o
- .debug_line    0x00000000       0x9b C:\Users\denes\AppData\Local\Temp\cc3HKJCy.debug.temp.o
- .debug_str     0x00000000      0x40f C:\Users\denes\AppData\Local\Temp\cc3HKJCy.debug.temp.o
+                0x00000000      0x25c C:\Users\denes\AppData\Local\Temp\ccWOisra.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccWOisra.debug.temp.o
+ .debug_info    0x00000000      0x60c C:\Users\denes\AppData\Local\Temp\ccQV1CKE.debug.temp.o
+ .debug_abbrev  0x00000000      0x1d6 C:\Users\denes\AppData\Local\Temp\ccQV1CKE.debug.temp.o
+ .debug_line    0x00000000       0x9b C:\Users\denes\AppData\Local\Temp\ccQV1CKE.debug.temp.o
+ .debug_str     0x00000000      0x40f C:\Users\denes\AppData\Local\Temp\ccQV1CKE.debug.temp.o
  .debug_line_str
-                0x00000000      0x235 C:\Users\denes\AppData\Local\Temp\cc3HKJCy.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cc3HKJCy.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccaIqZru.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cc5XLmdq.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccyRuaXl.debug.temp.o
- .debug_info    0x00000000      0x8b9 C:\Users\denes\AppData\Local\Temp\cc9CRhVh.debug.temp.o
- .debug_abbrev  0x00000000      0x223 C:\Users\denes\AppData\Local\Temp\cc9CRhVh.debug.temp.o
- .debug_line    0x00000000       0xb3 C:\Users\denes\AppData\Local\Temp\cc9CRhVh.debug.temp.o
- .debug_str     0x00000000      0x539 C:\Users\denes\AppData\Local\Temp\cc9CRhVh.debug.temp.o
+                0x00000000      0x235 C:\Users\denes\AppData\Local\Temp\ccQV1CKE.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccQV1CKE.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccUr7V08.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccIFTLdD.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccGUJKF7.debug.temp.o
+ .debug_info    0x00000000      0x8b9 C:\Users\denes\AppData\Local\Temp\cciu6j2B.debug.temp.o
+ .debug_abbrev  0x00000000      0x223 C:\Users\denes\AppData\Local\Temp\cciu6j2B.debug.temp.o
+ .debug_line    0x00000000       0xb3 C:\Users\denes\AppData\Local\Temp\cciu6j2B.debug.temp.o
+ .debug_str     0x00000000      0x539 C:\Users\denes\AppData\Local\Temp\cciu6j2B.debug.temp.o
  .debug_line_str
-                0x00000000      0x27c C:\Users\denes\AppData\Local\Temp\cc9CRhVh.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cc9CRhVh.debug.temp.o
- .debug_info    0x00000000      0x692 C:\Users\denes\AppData\Local\Temp\ccIL4rOd.debug.temp.o
- .debug_abbrev  0x00000000      0x1f2 C:\Users\denes\AppData\Local\Temp\ccIL4rOd.debug.temp.o
- .debug_line    0x00000000       0x8c C:\Users\denes\AppData\Local\Temp\ccIL4rOd.debug.temp.o
- .debug_str     0x00000000      0x49d C:\Users\denes\AppData\Local\Temp\ccIL4rOd.debug.temp.o
+                0x00000000      0x27c C:\Users\denes\AppData\Local\Temp\cciu6j2B.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cciu6j2B.debug.temp.o
+ .debug_info    0x00000000      0x692 C:\Users\denes\AppData\Local\Temp\ccMBCgt5.debug.temp.o
+ .debug_abbrev  0x00000000      0x1f2 C:\Users\denes\AppData\Local\Temp\ccMBCgt5.debug.temp.o
+ .debug_line    0x00000000       0x8c C:\Users\denes\AppData\Local\Temp\ccMBCgt5.debug.temp.o
+ .debug_str     0x00000000      0x49d C:\Users\denes\AppData\Local\Temp\ccMBCgt5.debug.temp.o
  .debug_line_str
-                0x00000000      0x21b C:\Users\denes\AppData\Local\Temp\ccIL4rOd.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccIL4rOd.debug.temp.o
- .debug_info    0x00000000      0x8f0 C:\Users\denes\AppData\Local\Temp\ccNWsdM8.debug.temp.o
- .debug_abbrev  0x00000000      0x23a C:\Users\denes\AppData\Local\Temp\ccNWsdM8.debug.temp.o
- .debug_line    0x00000000       0xaf C:\Users\denes\AppData\Local\Temp\ccNWsdM8.debug.temp.o
- .debug_str     0x00000000      0x5a3 C:\Users\denes\AppData\Local\Temp\ccNWsdM8.debug.temp.o
+                0x00000000      0x21b C:\Users\denes\AppData\Local\Temp\ccMBCgt5.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccMBCgt5.debug.temp.o
+ .debug_info    0x00000000      0x8f0 C:\Users\denes\AppData\Local\Temp\ccAPiXQy.debug.temp.o
+ .debug_abbrev  0x00000000      0x23a C:\Users\denes\AppData\Local\Temp\ccAPiXQy.debug.temp.o
+ .debug_line    0x00000000       0xaf C:\Users\denes\AppData\Local\Temp\ccAPiXQy.debug.temp.o
+ .debug_str     0x00000000      0x5a3 C:\Users\denes\AppData\Local\Temp\ccAPiXQy.debug.temp.o
  .debug_line_str
-                0x00000000      0x25e C:\Users\denes\AppData\Local\Temp\ccNWsdM8.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccNWsdM8.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccgQ5RG3.debug.temp.o
- .debug_info    0x00000000       0x7a C:\Users\denes\AppData\Local\Temp\cc1KyZxY.debug.temp.o
- .debug_abbrev  0x00000000       0x26 C:\Users\denes\AppData\Local\Temp\cc1KyZxY.debug.temp.o
- .debug_line    0x00000000       0x31 C:\Users\denes\AppData\Local\Temp\cc1KyZxY.debug.temp.o
- .debug_str     0x00000000      0x1bb C:\Users\denes\AppData\Local\Temp\cc1KyZxY.debug.temp.o
+                0x00000000      0x25e C:\Users\denes\AppData\Local\Temp\ccAPiXQy.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccAPiXQy.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccsNZCb2.debug.temp.o
+ .debug_info    0x00000000       0x7a C:\Users\denes\AppData\Local\Temp\ccATwbLv.debug.temp.o
+ .debug_abbrev  0x00000000       0x26 C:\Users\denes\AppData\Local\Temp\ccATwbLv.debug.temp.o
+ .debug_line    0x00000000       0x31 C:\Users\denes\AppData\Local\Temp\ccATwbLv.debug.temp.o
+ .debug_str     0x00000000      0x1bb C:\Users\denes\AppData\Local\Temp\ccATwbLv.debug.temp.o
  .debug_line_str
-                0x00000000       0x53 C:\Users\denes\AppData\Local\Temp\cc1KyZxY.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cc1KyZxY.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccsHzZBT.debug.temp.o
- .debug_info    0x00000000      0x515 C:\Users\denes\AppData\Local\Temp\ccD58zEO.debug.temp.o
- .debug_abbrev  0x00000000      0x1ca C:\Users\denes\AppData\Local\Temp\ccD58zEO.debug.temp.o
- .debug_line    0x00000000       0x76 C:\Users\denes\AppData\Local\Temp\ccD58zEO.debug.temp.o
- .debug_str     0x00000000      0x35a C:\Users\denes\AppData\Local\Temp\ccD58zEO.debug.temp.o
+                0x00000000       0x53 C:\Users\denes\AppData\Local\Temp\ccATwbLv.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccATwbLv.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cc2Z4EgZ.debug.temp.o
+ .debug_info    0x00000000      0x515 C:\Users\denes\AppData\Local\Temp\cckbuBKs.debug.temp.o
+ .debug_abbrev  0x00000000      0x1ca C:\Users\denes\AppData\Local\Temp\cckbuBKs.debug.temp.o
+ .debug_line    0x00000000       0x76 C:\Users\denes\AppData\Local\Temp\cckbuBKs.debug.temp.o
+ .debug_str     0x00000000      0x35a C:\Users\denes\AppData\Local\Temp\cckbuBKs.debug.temp.o
  .debug_line_str
-                0x00000000      0x1ab C:\Users\denes\AppData\Local\Temp\ccD58zEO.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccD58zEO.debug.temp.o
- .debug_info    0x00000000      0x314 C:\Users\denes\AppData\Local\Temp\ccOTRgTJ.debug.temp.o
- .debug_abbrev  0x00000000      0x128 C:\Users\denes\AppData\Local\Temp\ccOTRgTJ.debug.temp.o
- .debug_line    0x00000000       0x6c C:\Users\denes\AppData\Local\Temp\ccOTRgTJ.debug.temp.o
- .debug_str     0x00000000      0x261 C:\Users\denes\AppData\Local\Temp\ccOTRgTJ.debug.temp.o
+                0x00000000      0x1ab C:\Users\denes\AppData\Local\Temp\cckbuBKs.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cckbuBKs.debug.temp.o
+ .debug_info    0x00000000      0x314 C:\Users\denes\AppData\Local\Temp\cckXezrW.debug.temp.o
+ .debug_abbrev  0x00000000      0x128 C:\Users\denes\AppData\Local\Temp\cckXezrW.debug.temp.o
+ .debug_line    0x00000000       0x6c C:\Users\denes\AppData\Local\Temp\cckXezrW.debug.temp.o
+ .debug_str     0x00000000      0x261 C:\Users\denes\AppData\Local\Temp\cckXezrW.debug.temp.o
  .debug_line_str
-                0x00000000      0x1a7 C:\Users\denes\AppData\Local\Temp\ccOTRgTJ.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccOTRgTJ.debug.temp.o
- .debug_info    0x00000000      0x268 C:\Users\denes\AppData\Local\Temp\ccbWSa3E.debug.temp.o
- .debug_abbrev  0x00000000      0x110 C:\Users\denes\AppData\Local\Temp\ccbWSa3E.debug.temp.o
- .debug_line    0x00000000       0x63 C:\Users\denes\AppData\Local\Temp\ccbWSa3E.debug.temp.o
- .debug_str     0x00000000      0x23d C:\Users\denes\AppData\Local\Temp\ccbWSa3E.debug.temp.o
+                0x00000000      0x1a7 C:\Users\denes\AppData\Local\Temp\cckXezrW.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cckXezrW.debug.temp.o
+ .debug_info    0x00000000      0x268 C:\Users\denes\AppData\Local\Temp\ccgbLF4p.debug.temp.o
+ .debug_abbrev  0x00000000      0x110 C:\Users\denes\AppData\Local\Temp\ccgbLF4p.debug.temp.o
+ .debug_line    0x00000000       0x63 C:\Users\denes\AppData\Local\Temp\ccgbLF4p.debug.temp.o
+ .debug_str     0x00000000      0x23d C:\Users\denes\AppData\Local\Temp\ccgbLF4p.debug.temp.o
  .debug_line_str
-                0x00000000      0x179 C:\Users\denes\AppData\Local\Temp\ccbWSa3E.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccbWSa3E.debug.temp.o
- .debug_info    0x00000000      0x6d8 C:\Users\denes\AppData\Local\Temp\ccKAODsA.debug.temp.o
- .debug_abbrev  0x00000000      0x23e C:\Users\denes\AppData\Local\Temp\ccKAODsA.debug.temp.o
- .debug_line    0x00000000       0xa9 C:\Users\denes\AppData\Local\Temp\ccKAODsA.debug.temp.o
- .debug_str     0x00000000      0x5b6 C:\Users\denes\AppData\Local\Temp\ccKAODsA.debug.temp.o
+                0x00000000      0x179 C:\Users\denes\AppData\Local\Temp\ccgbLF4p.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccgbLF4p.debug.temp.o
+ .debug_info    0x00000000      0x6d8 C:\Users\denes\AppData\Local\Temp\cccJvgGT.debug.temp.o
+ .debug_abbrev  0x00000000      0x23e C:\Users\denes\AppData\Local\Temp\cccJvgGT.debug.temp.o
+ .debug_line    0x00000000       0xa9 C:\Users\denes\AppData\Local\Temp\cccJvgGT.debug.temp.o
+ .debug_str     0x00000000      0x5b6 C:\Users\denes\AppData\Local\Temp\cccJvgGT.debug.temp.o
  .debug_line_str
-                0x00000000      0x257 C:\Users\denes\AppData\Local\Temp\ccKAODsA.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccKAODsA.debug.temp.o
- .debug_info    0x00000000      0x7d6 C:\Users\denes\AppData\Local\Temp\cczzAkNv.debug.temp.o
- .debug_abbrev  0x00000000      0x263 C:\Users\denes\AppData\Local\Temp\cczzAkNv.debug.temp.o
- .debug_line    0x00000000       0xf9 C:\Users\denes\AppData\Local\Temp\cczzAkNv.debug.temp.o
- .debug_str     0x00000000      0x644 C:\Users\denes\AppData\Local\Temp\cczzAkNv.debug.temp.o
+                0x00000000      0x257 C:\Users\denes\AppData\Local\Temp\cccJvgGT.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cccJvgGT.debug.temp.o
+ .debug_info    0x00000000      0x7d6 C:\Users\denes\AppData\Local\Temp\ccsrycwn.debug.temp.o
+ .debug_abbrev  0x00000000      0x263 C:\Users\denes\AppData\Local\Temp\ccsrycwn.debug.temp.o
+ .debug_line    0x00000000       0xf9 C:\Users\denes\AppData\Local\Temp\ccsrycwn.debug.temp.o
+ .debug_str     0x00000000      0x644 C:\Users\denes\AppData\Local\Temp\ccsrycwn.debug.temp.o
  .debug_line_str
-                0x00000000      0x39d C:\Users\denes\AppData\Local\Temp\cczzAkNv.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cczzAkNv.debug.temp.o
- .debug_info    0x00000000      0x1dd C:\Users\denes\AppData\Local\Temp\ccylHMaq.debug.temp.o
- .debug_abbrev  0x00000000      0x102 C:\Users\denes\AppData\Local\Temp\ccylHMaq.debug.temp.o
- .debug_line    0x00000000       0x63 C:\Users\denes\AppData\Local\Temp\ccylHMaq.debug.temp.o
- .debug_str     0x00000000      0x2f3 C:\Users\denes\AppData\Local\Temp\ccylHMaq.debug.temp.o
+                0x00000000      0x39d C:\Users\denes\AppData\Local\Temp\ccsrycwn.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccsrycwn.debug.temp.o
+ .debug_info    0x00000000      0x1dd C:\Users\denes\AppData\Local\Temp\cc4MvKiR.debug.temp.o
+ .debug_abbrev  0x00000000      0x102 C:\Users\denes\AppData\Local\Temp\cc4MvKiR.debug.temp.o
+ .debug_line    0x00000000       0x63 C:\Users\denes\AppData\Local\Temp\cc4MvKiR.debug.temp.o
+ .debug_str     0x00000000      0x2f3 C:\Users\denes\AppData\Local\Temp\cc4MvKiR.debug.temp.o
  .debug_line_str
-                0x00000000      0x17a C:\Users\denes\AppData\Local\Temp\ccylHMaq.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccylHMaq.debug.temp.o
- .debug_info    0x00000000      0x596 C:\Users\denes\AppData\Local\Temp\ccjOFduk.debug.temp.o
- .debug_abbrev  0x00000000      0x25b C:\Users\denes\AppData\Local\Temp\ccjOFduk.debug.temp.o
- .debug_line    0x00000000       0xa0 C:\Users\denes\AppData\Local\Temp\ccjOFduk.debug.temp.o
- .debug_str     0x00000000      0x574 C:\Users\denes\AppData\Local\Temp\ccjOFduk.debug.temp.o
+                0x00000000      0x17a C:\Users\denes\AppData\Local\Temp\cc4MvKiR.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cc4MvKiR.debug.temp.o
+ .debug_info    0x00000000      0x596 C:\Users\denes\AppData\Local\Temp\ccGSIG9j.debug.temp.o
+ .debug_abbrev  0x00000000      0x25b C:\Users\denes\AppData\Local\Temp\ccGSIG9j.debug.temp.o
+ .debug_line    0x00000000       0xa0 C:\Users\denes\AppData\Local\Temp\ccGSIG9j.debug.temp.o
+ .debug_str     0x00000000      0x574 C:\Users\denes\AppData\Local\Temp\ccGSIG9j.debug.temp.o
  .debug_line_str
-                0x00000000      0x266 C:\Users\denes\AppData\Local\Temp\ccjOFduk.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccjOFduk.debug.temp.o
- .debug_info    0x00000000      0x251 C:\Users\denes\AppData\Local\Temp\ccKABXLe.debug.temp.o
- .debug_abbrev  0x00000000      0x169 C:\Users\denes\AppData\Local\Temp\ccKABXLe.debug.temp.o
- .debug_line    0x00000000       0x83 C:\Users\denes\AppData\Local\Temp\ccKABXLe.debug.temp.o
- .debug_str     0x00000000      0x30e C:\Users\denes\AppData\Local\Temp\ccKABXLe.debug.temp.o
+                0x00000000      0x266 C:\Users\denes\AppData\Local\Temp\ccGSIG9j.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccGSIG9j.debug.temp.o
+ .debug_info    0x00000000      0x251 C:\Users\denes\AppData\Local\Temp\ccW0g0WM.debug.temp.o
+ .debug_abbrev  0x00000000      0x169 C:\Users\denes\AppData\Local\Temp\ccW0g0WM.debug.temp.o
+ .debug_line    0x00000000       0x83 C:\Users\denes\AppData\Local\Temp\ccW0g0WM.debug.temp.o
+ .debug_str     0x00000000      0x30e C:\Users\denes\AppData\Local\Temp\ccW0g0WM.debug.temp.o
  .debug_line_str
-                0x00000000      0x1ee C:\Users\denes\AppData\Local\Temp\ccKABXLe.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccKABXLe.debug.temp.o
- .debug_info    0x00000000      0xa1a C:\Users\denes\AppData\Local\Temp\cc9thRh9.debug.temp.o
- .debug_abbrev  0x00000000      0x2c6 C:\Users\denes\AppData\Local\Temp\cc9thRh9.debug.temp.o
- .debug_line    0x00000000       0xcc C:\Users\denes\AppData\Local\Temp\cc9thRh9.debug.temp.o
- .debug_str     0x00000000      0x774 C:\Users\denes\AppData\Local\Temp\cc9thRh9.debug.temp.o
+                0x00000000      0x1ee C:\Users\denes\AppData\Local\Temp\ccW0g0WM.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccW0g0WM.debug.temp.o
+ .debug_info    0x00000000      0xa1a C:\Users\denes\AppData\Local\Temp\ccMbLvHf.debug.temp.o
+ .debug_abbrev  0x00000000      0x2c6 C:\Users\denes\AppData\Local\Temp\ccMbLvHf.debug.temp.o
+ .debug_line    0x00000000       0xcc C:\Users\denes\AppData\Local\Temp\ccMbLvHf.debug.temp.o
+ .debug_str     0x00000000      0x774 C:\Users\denes\AppData\Local\Temp\ccMbLvHf.debug.temp.o
  .debug_line_str
-                0x00000000      0x2ce C:\Users\denes\AppData\Local\Temp\cc9thRh9.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cc9thRh9.debug.temp.o
- .debug_info    0x00000000      0x9a4 C:\Users\denes\AppData\Local\Temp\ccsWGgL3.debug.temp.o
- .debug_abbrev  0x00000000      0x2a5 C:\Users\denes\AppData\Local\Temp\ccsWGgL3.debug.temp.o
- .debug_line    0x00000000       0xcc C:\Users\denes\AppData\Local\Temp\ccsWGgL3.debug.temp.o
- .debug_str     0x00000000      0x704 C:\Users\denes\AppData\Local\Temp\ccsWGgL3.debug.temp.o
+                0x00000000      0x2ce C:\Users\denes\AppData\Local\Temp\ccMbLvHf.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccMbLvHf.debug.temp.o
+ .debug_info    0x00000000      0x9a4 C:\Users\denes\AppData\Local\Temp\cceOL1EI.debug.temp.o
+ .debug_abbrev  0x00000000      0x2a5 C:\Users\denes\AppData\Local\Temp\cceOL1EI.debug.temp.o
+ .debug_line    0x00000000       0xcc C:\Users\denes\AppData\Local\Temp\cceOL1EI.debug.temp.o
+ .debug_str     0x00000000      0x704 C:\Users\denes\AppData\Local\Temp\cceOL1EI.debug.temp.o
  .debug_line_str
-                0x00000000      0x2ce C:\Users\denes\AppData\Local\Temp\ccsWGgL3.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccsWGgL3.debug.temp.o
- .debug_info    0x00000000      0xcdd C:\Users\denes\AppData\Local\Temp\ccDePIrY.debug.temp.o
- .debug_abbrev  0x00000000      0x300 C:\Users\denes\AppData\Local\Temp\ccDePIrY.debug.temp.o
- .debug_line    0x00000000       0xcb C:\Users\denes\AppData\Local\Temp\ccDePIrY.debug.temp.o
- .debug_str     0x00000000      0x9c0 C:\Users\denes\AppData\Local\Temp\ccDePIrY.debug.temp.o
+                0x00000000      0x2ce C:\Users\denes\AppData\Local\Temp\cceOL1EI.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cceOL1EI.debug.temp.o
+ .debug_info    0x00000000      0xcdd C:\Users\denes\AppData\Local\Temp\ccQJZQyb.debug.temp.o
+ .debug_abbrev  0x00000000      0x300 C:\Users\denes\AppData\Local\Temp\ccQJZQyb.debug.temp.o
+ .debug_line    0x00000000       0xcb C:\Users\denes\AppData\Local\Temp\ccQJZQyb.debug.temp.o
+ .debug_str     0x00000000      0x9c0 C:\Users\denes\AppData\Local\Temp\ccQJZQyb.debug.temp.o
  .debug_line_str
-                0x00000000      0x2dc C:\Users\denes\AppData\Local\Temp\ccDePIrY.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccDePIrY.debug.temp.o
- .debug_info    0x00000000      0xbdd C:\Users\denes\AppData\Local\Temp\ccGiyC3S.debug.temp.o
- .debug_abbrev  0x00000000      0x2aa C:\Users\denes\AppData\Local\Temp\ccGiyC3S.debug.temp.o
- .debug_line    0x00000000       0xbe C:\Users\denes\AppData\Local\Temp\ccGiyC3S.debug.temp.o
- .debug_str     0x00000000      0x8fa C:\Users\denes\AppData\Local\Temp\ccGiyC3S.debug.temp.o
+                0x00000000      0x2dc C:\Users\denes\AppData\Local\Temp\ccQJZQyb.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccQJZQyb.debug.temp.o
+ .debug_info    0x00000000      0xbdd C:\Users\denes\AppData\Local\Temp\cck7BGGE.debug.temp.o
+ .debug_abbrev  0x00000000      0x2aa C:\Users\denes\AppData\Local\Temp\cck7BGGE.debug.temp.o
+ .debug_line    0x00000000       0xbe C:\Users\denes\AppData\Local\Temp\cck7BGGE.debug.temp.o
+ .debug_str     0x00000000      0x8fa C:\Users\denes\AppData\Local\Temp\cck7BGGE.debug.temp.o
  .debug_line_str
-                0x00000000      0x2a1 C:\Users\denes\AppData\Local\Temp\ccGiyC3S.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccGiyC3S.debug.temp.o
- .debug_info    0x00000000      0x95f C:\Users\denes\AppData\Local\Temp\ccZqZNCN.debug.temp.o
- .debug_abbrev  0x00000000      0x284 C:\Users\denes\AppData\Local\Temp\ccZqZNCN.debug.temp.o
- .debug_line    0x00000000       0xbe C:\Users\denes\AppData\Local\Temp\ccZqZNCN.debug.temp.o
- .debug_str     0x00000000      0x683 C:\Users\denes\AppData\Local\Temp\ccZqZNCN.debug.temp.o
+                0x00000000      0x2a1 C:\Users\denes\AppData\Local\Temp\cck7BGGE.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cck7BGGE.debug.temp.o
+ .debug_info    0x00000000      0x95f C:\Users\denes\AppData\Local\Temp\ccaOEnI7.debug.temp.o
+ .debug_abbrev  0x00000000      0x284 C:\Users\denes\AppData\Local\Temp\ccaOEnI7.debug.temp.o
+ .debug_line    0x00000000       0xbe C:\Users\denes\AppData\Local\Temp\ccaOEnI7.debug.temp.o
+ .debug_str     0x00000000      0x683 C:\Users\denes\AppData\Local\Temp\ccaOEnI7.debug.temp.o
  .debug_line_str
-                0x00000000      0x2a0 C:\Users\denes\AppData\Local\Temp\ccZqZNCN.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccZqZNCN.debug.temp.o
- .debug_info    0x00000000      0xdd1 C:\Users\denes\AppData\Local\Temp\ccWfwEqI.debug.temp.o
- .debug_abbrev  0x00000000      0x2eb C:\Users\denes\AppData\Local\Temp\ccWfwEqI.debug.temp.o
- .debug_line    0x00000000       0xc7 C:\Users\denes\AppData\Local\Temp\ccWfwEqI.debug.temp.o
- .debug_str     0x00000000      0x9fe C:\Users\denes\AppData\Local\Temp\ccWfwEqI.debug.temp.o
+                0x00000000      0x2a0 C:\Users\denes\AppData\Local\Temp\ccaOEnI7.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccaOEnI7.debug.temp.o
+ .debug_info    0x00000000      0xdd1 C:\Users\denes\AppData\Local\Temp\cc4oZtZA.debug.temp.o
+ .debug_abbrev  0x00000000      0x2eb C:\Users\denes\AppData\Local\Temp\cc4oZtZA.debug.temp.o
+ .debug_line    0x00000000       0xc7 C:\Users\denes\AppData\Local\Temp\cc4oZtZA.debug.temp.o
+ .debug_str     0x00000000      0x9fe C:\Users\denes\AppData\Local\Temp\cc4oZtZA.debug.temp.o
  .debug_line_str
-                0x00000000      0x2c5 C:\Users\denes\AppData\Local\Temp\ccWfwEqI.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccWfwEqI.debug.temp.o
- .debug_info    0x00000000      0xb9d C:\Users\denes\AppData\Local\Temp\ccfyIJ9C.debug.temp.o
- .debug_abbrev  0x00000000      0x261 C:\Users\denes\AppData\Local\Temp\ccfyIJ9C.debug.temp.o
- .debug_line    0x00000000       0xc3 C:\Users\denes\AppData\Local\Temp\ccfyIJ9C.debug.temp.o
- .debug_str     0x00000000      0x7b5 C:\Users\denes\AppData\Local\Temp\ccfyIJ9C.debug.temp.o
+                0x00000000      0x2c5 C:\Users\denes\AppData\Local\Temp\cc4oZtZA.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cc4oZtZA.debug.temp.o
+ .debug_info    0x00000000      0xb9d C:\Users\denes\AppData\Local\Temp\ccgloxb4.debug.temp.o
+ .debug_abbrev  0x00000000      0x261 C:\Users\denes\AppData\Local\Temp\ccgloxb4.debug.temp.o
+ .debug_line    0x00000000       0xc3 C:\Users\denes\AppData\Local\Temp\ccgloxb4.debug.temp.o
+ .debug_str     0x00000000      0x7b5 C:\Users\denes\AppData\Local\Temp\ccgloxb4.debug.temp.o
  .debug_line_str
-                0x00000000      0x2a2 C:\Users\denes\AppData\Local\Temp\ccfyIJ9C.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccfyIJ9C.debug.temp.o
- .debug_info    0x00000000      0xf7d C:\Users\denes\AppData\Local\Temp\ccwTINBB.debug.temp.o
- .debug_abbrev  0x00000000      0x314 C:\Users\denes\AppData\Local\Temp\ccwTINBB.debug.temp.o
- .debug_line    0x00000000       0xd1 C:\Users\denes\AppData\Local\Temp\ccwTINBB.debug.temp.o
- .debug_str     0x00000000      0xaac C:\Users\denes\AppData\Local\Temp\ccwTINBB.debug.temp.o
+                0x00000000      0x2a2 C:\Users\denes\AppData\Local\Temp\ccgloxb4.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccgloxb4.debug.temp.o
+ .debug_info    0x00000000      0xf7d C:\Users\denes\AppData\Local\Temp\cceMCbmx.debug.temp.o
+ .debug_abbrev  0x00000000      0x314 C:\Users\denes\AppData\Local\Temp\cceMCbmx.debug.temp.o
+ .debug_line    0x00000000       0xd1 C:\Users\denes\AppData\Local\Temp\cceMCbmx.debug.temp.o
+ .debug_str     0x00000000      0xaac C:\Users\denes\AppData\Local\Temp\cceMCbmx.debug.temp.o
  .debug_line_str
-                0x00000000      0x2d6 C:\Users\denes\AppData\Local\Temp\ccwTINBB.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccwTINBB.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccfL4hYz.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccUkCaAy.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccze8g6w.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccK0X3Pv.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccxILFvu.debug.temp.o
- .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccIeZ2pt.debug.temp.o
+                0x00000000      0x2d6 C:\Users\denes\AppData\Local\Temp\cceMCbmx.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cceMCbmx.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccKedTAZ.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccK0h5Lr.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccyyAAaU.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cciWYgum.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\cciYJY2O.debug.temp.o
+ .comment       0x00000000       0x13 C:\Users\denes\AppData\Local\Temp\ccE5PSxh.debug.temp.o
  .data          0x00000000        0x0 C:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-memset.o)
  .bss           0x00000000        0x0 C:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-memset.o)
  .data          0x00000000        0x0 C:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-memcpy.o)
@@ -319,78 +319,78 @@ LOAD ./build/obj/crt0_v7m.o
 LOAD ./build/obj/vectors.o
 LOAD ./build/obj/chcoreasm_v7m.o
 LOAD ./build/obj/crt1.o
-LOAD C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccMVXy1m.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccPX1vFg.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccMYciga.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccH42TN3.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\cc2RWroW.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccxsxaVO.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\cc8RucGH.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccT6bGnA.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccwv4T3s.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\cct6hKYl.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccQoVVPe.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccp78YD7.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccSUEJG0.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\cch0GfET.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccECsMEL.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccP6yoCD.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\cckhuuOv.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccnRr5Wn.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\cciPF51f.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\cczMnMn8.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccWWKLF0.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccDflMUS.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccYIujoL.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccrMODMD.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccmQdw9v.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\cctimpfs.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccMujEgo.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccP2HHwk.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\cceg4DJg.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\cc7YeMbd.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccUue5y9.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccNdVJ95.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\cciwisH2.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\cctWkPbZ.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccyTH1JU.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccbIxjeQ.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccaoD8GL.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccBUAboH.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccAm7R1C.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\cc3HKJCy.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccaIqZru.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\cc5XLmdq.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccyRuaXl.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\cc9CRhVh.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccIL4rOd.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccNWsdM8.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccgQ5RG3.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\cc1KyZxY.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccsHzZBT.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccD58zEO.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccOTRgTJ.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccbWSa3E.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccKAODsA.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\cczzAkNv.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccylHMaq.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccjOFduk.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccKABXLe.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\cc9thRh9.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccsWGgL3.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccDePIrY.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccGiyC3S.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccZqZNCN.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccWfwEqI.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccfyIJ9C.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccwTINBB.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccfL4hYz.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccUkCaAy.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccze8g6w.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccK0X3Pv.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccxILFvu.debug.temp.o
-LOAD C:\Users\denes\AppData\Local\Temp\ccIeZ2pt.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccqo5xer.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccIbsDWS.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccyKqiVk.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\cckbypPM.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccqELLWe.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccm2Ad1G.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\cckTOI08.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\cciYLt4z.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccUVOe30.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccorpPgs.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\cc4IR2pT.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccI96GNk.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccQLEJ6L.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccyWE6md.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccc1SfQE.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccgzr5h6.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccUXh3Lw.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccWU7wbX.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccqgpEPn.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccUf9JqO.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccqKkaXe.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccUlgKHF.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccqU3en6.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccg1t7fx.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccUZe55X.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccsRBDYn.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccgHxENN.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccU7QgBd.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccQbImDD.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccaobFB3.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccWyIhPt.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccuOrVXT.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccohIR3j.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\cc2dmslK.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccIRVrme.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccuOjzkI.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccs35rec.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\cc4srRmG.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccWOisra.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccQV1CKE.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccUr7V08.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccIFTLdD.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccGUJKF7.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\cciu6j2B.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccMBCgt5.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccAPiXQy.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccsNZCb2.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccATwbLv.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\cc2Z4EgZ.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\cckbuBKs.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\cckXezrW.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccgbLF4p.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\cccJvgGT.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccsrycwn.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\cc4MvKiR.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccGSIG9j.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccW0g0WM.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccMbLvHf.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\cceOL1EI.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccQJZQyb.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\cck7BGGE.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccaOEnI7.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\cc4oZtZA.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccgloxb4.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\cceMCbmx.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccKedTAZ.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccK0h5Lr.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccyyAAaU.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\cciWYgum.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\cciYJY2O.debug.temp.o
+LOAD C:\Users\denes\AppData\Local\Temp\ccE5PSxh.debug.temp.o
 LOAD ./build/obj/hal.o
 LOAD ./build/obj/hal_st.o
 LOAD ./build/obj/hal_buffers.o
@@ -489,7 +489,7 @@ LOAD ./build/obj/spi.o
                 0x08000160                        __init_array_base__ = .
  *(SORT_BY_NAME(.init_array.*))
  *(.init_array)
- .init_array    0x08000160        0x4 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+ .init_array    0x08000160        0x4 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                 0x08000164                        __init_array_end__ = .
                 0x08000164                        __fini_array_base__ = .
  *(.fini_array)
@@ -581,228 +581,228 @@ LOAD ./build/obj/spi.o
                 0x0800031c                memcpy
  *(.text.*)
  *fill*         0x08000408        0x8 
- .text._ctl     0x08000410        0x4 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+ .text._ctl     0x08000410        0x4 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x08000414        0xc 
  .text.adc_lld_serve_rx_interrupt
-                0x08000420      0x11c C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08000420      0x11c C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x0800053c        0x4 
  .text._port_irq_epilogue
-                0x08000540       0x4c C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08000540       0x4c C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x0800058c        0x4 
  .text.dmaStreamFreeI
-                0x08000590       0x70 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08000590       0x70 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .text.dmaStreamAllocI.part.0
-                0x08000600       0xb0 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08000600       0xb0 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .text._pal_lld_setgroupmode
-                0x080006b0       0x6c C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x080006b0       0x6c C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x0800071c        0x4 
  .text.spi_lld_serve_rx_interrupt
-                0x08000720       0xd8 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08000720       0xd8 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x080007f8        0x8 
  .text.spi_lld_serve_tx_interrupt
-                0x08000800       0x18 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08000800       0x18 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x08000818        0x8 
- .text.notify1  0x08000820       0x10 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+ .text.notify1  0x08000820       0x10 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .text._idle_thread
-                0x08000830        0x4 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08000830        0x4 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x08000834        0xc 
- .text.wakeup   0x08000840       0x6c C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+ .text.wakeup   0x08000840       0x6c C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x080008ac        0x4 
  .text.chTMStartMeasurementX
-                0x080008b0        0xc C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x080008b0        0xc C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x080008bc        0x4 
  .text.chTMStopMeasurementX
-                0x080008c0       0x44 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x080008c0       0x44 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x08000904        0xc 
  .text.chEvtBroadcastFlagsI
-                0x08000910       0x88 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08000910       0x88 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x08000998        0x8 
  .text.chCoreAllocFromTop
-                0x080009a0       0x3c C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x080009a0       0x3c C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x080009dc        0x4 
  .text.chCoreAllocAlignedI
-                0x080009e0       0x20 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x080009e0       0x20 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .text.spi_lld_start.constprop.0
-                0x08000a00       0xa8 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08000a00       0xa8 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x08000aa8        0x8 
  .text.can_lld_set_filters.constprop.0
-                0x08000ab0       0xf8 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08000ab0       0xf8 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x08000ba8        0x8 
  .text.chSchGoSleepTimeoutS
-                0x08000bb0      0x1f4 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08000bb0      0x1f4 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x08000da4        0xc 
  .text.iqReadTimeout
-                0x08000db0       0xe8 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08000db0       0xe8 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x08000e98        0x8 
- .text._read    0x08000ea0        0xc C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+ .text._read    0x08000ea0        0xc C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x08000eac        0x4 
- .text._readt   0x08000eb0        0x8 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+ .text._readt   0x08000eb0        0x8 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x08000eb8        0x8 
  .text.iqGetTimeout
-                0x08000ec0       0x70 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
- .text._get     0x08000f30        0xc C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08000ec0       0x70 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+ .text._get     0x08000f30        0xc C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x08000f3c        0x4 
- .text._gett    0x08000f40        0x8 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+ .text._gett    0x08000f40        0x8 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x08000f48        0x8 
  .text.oqPutTimeout
-                0x08000f50       0x70 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
- .text._put     0x08000fc0        0xc C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08000f50       0x70 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+ .text._put     0x08000fc0        0xc C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x08000fcc        0x4 
- .text._putt    0x08000fd0        0x8 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+ .text._putt    0x08000fd0        0x8 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x08000fd8        0x8 
  .text.oqWriteTimeout
-                0x08000fe0       0xe4 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08000fe0       0xe4 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x080010c4        0xc 
- .text._write   0x080010d0        0xc C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+ .text._write   0x080010d0        0xc C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x080010dc        0x4 
- .text._writet  0x080010e0        0x8 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+ .text._writet  0x080010e0        0x8 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x080010e8        0x8 
  .text.chMtxLockS
-                0x080010f0       0xe0 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x080010f0       0xe0 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .text.chSchWakeupS.constprop.0
-                0x080011d0       0x58 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x080011d0       0x58 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x08001228        0x8 
  .text.chThdCreateStatic.constprop.0.isra.0
-                0x08001230       0x80 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08001230       0x80 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .text.canTransmitTimeout.constprop.0.isra.0
-                0x080012b0       0xbc C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x080012b0       0xbc C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x0800136c        0x4 
  .text.__core_init
-                0x08001370        0x4 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08001370        0x4 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                 0x08001370                __core_init
  *fill*         0x08001374        0xc 
  .text.__late_init
-                0x08001380        0x4 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08001380        0x4 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                 0x08001380                __late_init
  *fill*         0x08001384        0xc 
  .text.__default_exit
-                0x08001390        0x4 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08001390        0x4 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                 0x08001390                __default_exit
  *fill*         0x08001394        0xc 
  .text.__init_ram_areas
-                0x080013a0       0x54 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x080013a0       0x54 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                 0x080013a0                __init_ram_areas
  *fill*         0x080013f4        0xc 
  .text.Vector58
-                0x08001400       0x70 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08001400       0x70 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                 0x08001400                Vector58
  .text.Vector5C
-                0x08001470       0x74 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08001470       0x74 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                 0x08001470                Vector5C
  *fill*         0x080014e4        0xc 
  .text.Vector60
-                0x080014f0       0x74 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x080014f0       0x74 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                 0x080014f0                Vector60
  *fill*         0x08001564        0xc 
  .text.Vector64
-                0x08001570       0x74 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08001570       0x74 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                 0x08001570                Vector64
  *fill*         0x080015e4        0xc 
  .text.Vector68
-                0x080015f0       0x74 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x080015f0       0x74 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                 0x080015f0                Vector68
  *fill*         0x08001664        0xc 
  .text.Vector9C
-                0x08001670      0x1d4 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08001670      0x1d4 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                 0x08001670                Vector9C
  *fill*         0x08001844        0xc 
  .text.VectorE0
-                0x08001850      0x248 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08001850      0x248 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                 0x08001850                VectorE0
  *fill*         0x08001a98        0x8 
  .text.Vector8C
-                0x08001aa0       0xa4 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08001aa0       0xa4 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                 0x08001aa0                Vector8C
  *fill*         0x08001b44        0xc 
  .text.Vector90
-                0x08001b50       0xa8 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08001b50       0xa8 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                 0x08001b50                Vector90
  *fill*         0x08001bf8        0x8 
  .text.Vector94
-                0x08001c00       0xa8 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08001c00       0xa8 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                 0x08001c00                Vector94
  *fill*         0x08001ca8        0x8 
  .text.Vector98
-                0x08001cb0       0x78 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08001cb0       0x78 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                 0x08001cb0                Vector98
  *fill*         0x08001d28        0x8 
  .text.Vector6C
-                0x08001d30       0x70 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08001d30       0x70 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                 0x08001d30                Vector6C
  .text.Vector70
-                0x08001da0       0x74 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08001da0       0x74 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                 0x08001da0                Vector70
  *fill*         0x08001e14        0xc 
  .text.Vector74
-                0x08001e20       0x74 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08001e20       0x74 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                 0x08001e20                Vector74
  *fill*         0x08001e94        0xc 
  .text.Vector78
-                0x08001ea0       0x74 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08001ea0       0x74 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                 0x08001ea0                Vector78
  *fill*         0x08001f14        0xc 
  .text.Vector7C
-                0x08001f20       0x74 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08001f20       0x74 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                 0x08001f20                Vector7C
  *fill*         0x08001f94        0xc 
  .text.Vector80
-                0x08001fa0       0x74 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08001fa0       0x74 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                 0x08001fa0                Vector80
  *fill*         0x08002014        0xc 
  .text.Vector84
-                0x08002020       0x78 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08002020       0x78 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                 0x08002020                Vector84
  *fill*         0x08002098        0x8 
  .text.VectorB0
-                0x080020a0       0xe8 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x080020a0       0xe8 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                 0x080020a0                VectorB0
  *fill*         0x08002188        0x8 
  .text.VectorD4
-                0x08002190      0x250 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08002190      0x250 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                 0x08002190                VectorD4
  .text.__early_init
-                0x080023e0       0x6c C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x080023e0       0x6c C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                 0x080023e0                __early_init
  *fill*         0x0800244c        0x4 
  .text.chSchDoRescheduleAhead
-                0x08002450       0x44 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08002450       0x44 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                 0x08002450                chSchDoReschedule
  *fill*         0x08002494        0xc 
  .text.chMtxUnlock
-                0x080024a0       0x8c C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x080024a0       0x8c C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x0800252c        0x4 
  .text._ZL11CanRxThreadPv
-                0x08002530      0x1a8 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08002530      0x1a8 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x080026d8        0x8 
  .text._ZL11CanTxThreadPv
-                0x080026e0      0x150 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x080026e0      0x150 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .text._ZL9OutThreadPv
-                0x08002830       0xb0 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08002830       0xb0 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .text._ZL13DigitalThreadPv
-                0x080028e0      0x10c C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x080028e0      0x10c C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x080029ec        0x4 
  .text._ZL9AdcThreadPv
-                0x080029f0       0xf8 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x080029f0       0xf8 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x08002ae8        0x8 
  .text._Z24max6675_read_temperatureh
-                0x08002af0      0x160 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08002af0      0x160 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .text._ZL9SpiThreadPv
-                0x08002c50       0x68 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08002c50       0x68 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x08002cb8        0x8 
  .text.chThdExit
-                0x08002cc0       0x78 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08002cc0       0x78 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                 0x08002cc0                chThdExit
  *fill*         0x08002d38        0x8 
  .text.SVC_Handler
-                0x08002d40       0x14 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08002d40       0x14 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                 0x08002d40                SVC_Handler
  *fill*         0x08002d54        0xc 
  .text.startup.main
-                0x08002d60      0x7a4 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08002d60      0x7a4 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                 0x08002d60                main
  *fill*         0x08003504        0xc 
  .text.startup._GLOBAL__sub_I_canVr
-                0x08003510        0xc C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08003510        0xc C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *(.glue_7t)
  .glue_7t       0x0800351c        0x0 linker stubs
  *(.glue_7)
@@ -824,42 +824,42 @@ LOAD ./build/obj/spi.o
  *(.rodata)
  *(.rodata.*)
  .rodata.spi_lld_serve_rx_interrupt.str1.4
-                0x0800351c       0x6d C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x0800351c       0x6d C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                   0xc (size before relaxing)
  .rodata.chThdCreateStatic.constprop.0.isra.0.str1.4
-                0x08003589        0x7 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08003589        0x7 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .rodata._ZL11CanRxThreadPv.str1.4
-                0x08003589        0xe C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08003589        0xe C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .rodata._ZL11CanTxThreadPv.str1.4
-                0x08003589        0xe C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08003589        0xe C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .rodata._ZL9OutThreadPv.str1.4
-                0x08003589        0xb C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08003589        0xb C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .rodata._ZL13DigitalThreadPv.str1.4
-                0x08003589        0xf C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08003589        0xf C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .rodata._ZL9AdcThreadPv.str1.4
-                0x08003589        0xb C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08003589        0xb C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .rodata._ZL9SpiThreadPv.str1.4
-                0x08003589        0xb C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08003589        0xb C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .rodata.main.str1.4
-                0x08003589        0x5 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08003589        0x5 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x08003589        0x1 
  .rodata.dummytx
-                0x0800358a        0x2 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x0800358a        0x2 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .rodata._ZL8adc1_cfg
-                0x0800358c       0x28 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
- .rodata.vmt    0x080035b4       0x28 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x0800358c       0x28 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+ .rodata.vmt    0x080035b4       0x28 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .rodata.ch_debug
-                0x080035dc       0x16 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x080035dc       0x16 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x080035f2        0x2 
  .rodata._ZL6cancfg
-                0x080035f4        0x8 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x080035f4        0x8 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .rodata.cfgtab.0
-                0x080035fc       0x12 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x080035fc       0x12 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x0800360e        0x2 
  .rodata._stm32_dma_streams
-                0x08003610       0x70 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08003610       0x70 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .rodata.ram_areas
-                0x08003680       0x80 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x08003680       0x80 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                 0x08003700                        . = ALIGN (0x4)
                 0x08003700                        __rodata_end__ = .
 
@@ -891,17 +891,17 @@ LOAD ./build/obj/spi.o
  *(.data)
  *(.data.*)
  .data.adcSampleMutex
-                0x20000800       0x10 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x20000800       0x10 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .data.digitalInputsMutex
-                0x20000810       0x10 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x20000810       0x10 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .data.temperatureMutex
-                0x20000820       0x10 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x20000820       0x10 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .data.digitalOutputsMutex
-                0x20000830       0x10 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x20000830       0x10 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .data._ZL8spi2_cfg
-                0x20000840       0x14 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x20000840       0x14 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .data._ZL7filters
-                0x20000854        0xc C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x20000854        0xc C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *(.ramtext)
                 0x20000860                        . = ALIGN (0x4)
                 [!provide]                        PROVIDE (_edata = .)
@@ -915,58 +915,58 @@ LOAD ./build/obj/spi.o
  *(.bss)
  *(.bss.*)
  .bss.ch_idle_thread_wa
-                0x20000860       0xd8 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x20000860       0xd8 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .bss.adc1_samples
-                0x20000938       0x14 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x20000938       0x14 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .bss.digitalInputs
-                0x2000094c        0x1 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x2000094c        0x1 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x2000094d        0x1 
  .bss.temperature2
-                0x2000094e        0x2 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x2000094e        0x2 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .bss.temperature1
-                0x20000950        0x2 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x20000950        0x2 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x20000952        0x6 
  .bss.canTxMsg4
-                0x20000958       0x10 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x20000958       0x10 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .bss.canTxMsg3
-                0x20000968       0x10 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x20000968       0x10 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .bss.canTxMsg2
-                0x20000978       0x10 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x20000978       0x10 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .bss.canTxMsg1
-                0x20000988       0x10 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x20000988       0x10 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .bss.digitalOutputs
-                0x20000998        0x1 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x20000998        0x1 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x20000999        0x7 
- .bss.canRxMsg  0x200009a0       0x18 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+ .bss.canRxMsg  0x200009a0       0x18 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .bss.default_heap
-                0x200009b8       0x1c C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x200009b8       0x1c C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .bss.ch_factory
-                0x200009d4       0x48 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x200009d4       0x48 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x20000a1c        0x4 
  .bss._ZL11waAdcThread
-                0x20000a20      0x148 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
- .bss.ADCD1     0x20000b68       0x34 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x20000a20      0x148 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+ .bss.ADCD1     0x20000b68       0x34 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x20000b9c        0x4 
  .bss._ZL11waSpiThread
-                0x20000ba0      0x148 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
- .bss.SPID2     0x20000ce8       0x30 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x20000ba0      0x148 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+ .bss.SPID2     0x20000ce8       0x30 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .bss._ZL15waDigitalThread
-                0x20000d18      0x148 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x20000d18      0x148 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .bss._ZL11waOutThread
-                0x20000e60      0x148 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x20000e60      0x148 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .bss._ZL13waCanTxThread
-                0x20000fa8      0x148 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x20000fa8      0x148 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .bss._ZL13waCanRxThread
-                0x200010f0      0x148 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x200010f0      0x148 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .bss.ch_memcore
-                0x20001238        0x8 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
- .bss.SD1       0x20001240       0x7c C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
- .bss.dma       0x200012bc       0x40 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
- .bss.CAND1     0x200012fc       0x28 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x20001238        0x8 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+ .bss.SD1       0x20001240       0x7c C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+ .bss.dma       0x200012bc       0x40 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+ .bss.CAND1     0x200012fc       0x28 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .bss._pal_events
-                0x20001324      0x100 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x20001324      0x100 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *fill*         0x20001424        0x4 
- .bss.ch        0x20001428       0x78 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+ .bss.ch        0x20001428       0x78 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  *(COMMON)
                 0x200014a0                        . = ALIGN (0x4)
                 0x200014a0                        __bss_end__ = .
@@ -1237,14 +1237,14 @@ LOAD linker stubs
  .ARM.attributes
                 0x00000042       0x21 ./build/obj/chcoreasm_v7m.o
  .ARM.attributes
-                0x00000063       0x2b C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x00000063       0x2b C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .ARM.attributes
                 0x0000008e       0x2d C:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-memset.o)
  .ARM.attributes
                 0x000000bb       0x1b C:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-memcpy.o)
 
 .comment        0x00000000       0x24
- .comment       0x00000000       0x24 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+ .comment       0x00000000       0x24 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                  0x13 (size before relaxing)
  .comment       0x00000024       0x13 C:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-memset.o)
 
@@ -1252,45 +1252,45 @@ LOAD linker stubs
  .debug_line    0x00000000       0xa4 ./build/obj/crt0_v7m.o
  .debug_line    0x000000a4       0x4f ./build/obj/vectors.o
  .debug_line    0x000000f3       0x62 ./build/obj/chcoreasm_v7m.o
- .debug_line    0x00000155     0x8c10 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
- .debug_line    0x00008d65       0x4c C:\Users\denes\AppData\Local\Temp\ccMVXy1m.debug.temp.o
- .debug_line    0x00008db1       0x8d C:\Users\denes\AppData\Local\Temp\ccPX1vFg.debug.temp.o
- .debug_line    0x00008e3e       0x63 C:\Users\denes\AppData\Local\Temp\ccMYciga.debug.temp.o
- .debug_line    0x00008ea1       0xad C:\Users\denes\AppData\Local\Temp\cc2RWroW.debug.temp.o
- .debug_line    0x00008f4e       0xce C:\Users\denes\AppData\Local\Temp\ccT6bGnA.debug.temp.o
- .debug_line    0x0000901c       0xc1 C:\Users\denes\AppData\Local\Temp\ccwv4T3s.debug.temp.o
- .debug_line    0x000090dd       0xca C:\Users\denes\AppData\Local\Temp\ccQoVVPe.debug.temp.o
- .debug_line    0x000091a7       0xe0 C:\Users\denes\AppData\Local\Temp\ccp78YD7.debug.temp.o
- .debug_line    0x00009287       0x55 C:\Users\denes\AppData\Local\Temp\ccSUEJG0.debug.temp.o
- .debug_line    0x000092dc       0xb1 C:\Users\denes\AppData\Local\Temp\cch0GfET.debug.temp.o
- .debug_line    0x0000938d       0x68 C:\Users\denes\AppData\Local\Temp\ccECsMEL.debug.temp.o
- .debug_line    0x000093f5       0xc5 C:\Users\denes\AppData\Local\Temp\cckhuuOv.debug.temp.o
- .debug_line    0x000094ba       0xc6 C:\Users\denes\AppData\Local\Temp\ccnRr5Wn.debug.temp.o
- .debug_line    0x00009580       0x87 C:\Users\denes\AppData\Local\Temp\cciPF51f.debug.temp.o
- .debug_line    0x00009607       0x8d C:\Users\denes\AppData\Local\Temp\cczMnMn8.debug.temp.o
- .debug_line    0x00009694       0xdc C:\Users\denes\AppData\Local\Temp\ccWWKLF0.debug.temp.o
- .debug_line    0x00009770       0x87 C:\Users\denes\AppData\Local\Temp\ccDflMUS.debug.temp.o
- .debug_line    0x000097f7       0xcf C:\Users\denes\AppData\Local\Temp\ccYIujoL.debug.temp.o
- .debug_line    0x000098c6       0x5e C:\Users\denes\AppData\Local\Temp\ccrMODMD.debug.temp.o
- .debug_line    0x00009924       0xcd C:\Users\denes\AppData\Local\Temp\cctimpfs.debug.temp.o
- .debug_line    0x000099f1       0xa2 C:\Users\denes\AppData\Local\Temp\cceg4DJg.debug.temp.o
- .debug_line    0x00009a93       0x9d C:\Users\denes\AppData\Local\Temp\cc7YeMbd.debug.temp.o
- .debug_line    0x00009b30       0xc3 C:\Users\denes\AppData\Local\Temp\ccUue5y9.debug.temp.o
- .debug_line    0x00009bf3       0x93 C:\Users\denes\AppData\Local\Temp\ccNdVJ95.debug.temp.o
- .debug_line    0x00009c86       0xb4 C:\Users\denes\AppData\Local\Temp\cciwisH2.debug.temp.o
- .debug_line    0x00009d3a       0x9d C:\Users\denes\AppData\Local\Temp\ccyTH1JU.debug.temp.o
- .debug_line    0x00009dd7       0x9d C:\Users\denes\AppData\Local\Temp\ccaoD8GL.debug.temp.o
- .debug_line    0x00009e74       0x79 C:\Users\denes\AppData\Local\Temp\ccaIqZru.debug.temp.o
- .debug_line    0x00009eed       0x97 C:\Users\denes\AppData\Local\Temp\cc5XLmdq.debug.temp.o
- .debug_line    0x00009f84       0x9b C:\Users\denes\AppData\Local\Temp\ccyRuaXl.debug.temp.o
- .debug_line    0x0000a01f       0xb9 C:\Users\denes\AppData\Local\Temp\ccgQ5RG3.debug.temp.o
- .debug_line    0x0000a0d8       0x71 C:\Users\denes\AppData\Local\Temp\ccsHzZBT.debug.temp.o
- .debug_line    0x0000a149       0xe5 C:\Users\denes\AppData\Local\Temp\ccfL4hYz.debug.temp.o
- .debug_line    0x0000a22e       0xe0 C:\Users\denes\AppData\Local\Temp\ccUkCaAy.debug.temp.o
- .debug_line    0x0000a30e       0xcc C:\Users\denes\AppData\Local\Temp\ccze8g6w.debug.temp.o
- .debug_line    0x0000a3da       0xba C:\Users\denes\AppData\Local\Temp\ccK0X3Pv.debug.temp.o
- .debug_line    0x0000a494       0xba C:\Users\denes\AppData\Local\Temp\ccxILFvu.debug.temp.o
- .debug_line    0x0000a54e       0xde C:\Users\denes\AppData\Local\Temp\ccIeZ2pt.debug.temp.o
+ .debug_line    0x00000155     0x8c10 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+ .debug_line    0x00008d65       0x4c C:\Users\denes\AppData\Local\Temp\ccqo5xer.debug.temp.o
+ .debug_line    0x00008db1       0x8d C:\Users\denes\AppData\Local\Temp\ccIbsDWS.debug.temp.o
+ .debug_line    0x00008e3e       0x63 C:\Users\denes\AppData\Local\Temp\ccyKqiVk.debug.temp.o
+ .debug_line    0x00008ea1       0xad C:\Users\denes\AppData\Local\Temp\ccqELLWe.debug.temp.o
+ .debug_line    0x00008f4e       0xce C:\Users\denes\AppData\Local\Temp\cciYLt4z.debug.temp.o
+ .debug_line    0x0000901c       0xc1 C:\Users\denes\AppData\Local\Temp\ccUVOe30.debug.temp.o
+ .debug_line    0x000090dd       0xca C:\Users\denes\AppData\Local\Temp\cc4IR2pT.debug.temp.o
+ .debug_line    0x000091a7       0xe0 C:\Users\denes\AppData\Local\Temp\ccI96GNk.debug.temp.o
+ .debug_line    0x00009287       0x55 C:\Users\denes\AppData\Local\Temp\ccQLEJ6L.debug.temp.o
+ .debug_line    0x000092dc       0xb1 C:\Users\denes\AppData\Local\Temp\ccyWE6md.debug.temp.o
+ .debug_line    0x0000938d       0x68 C:\Users\denes\AppData\Local\Temp\ccc1SfQE.debug.temp.o
+ .debug_line    0x000093f5       0xc5 C:\Users\denes\AppData\Local\Temp\ccUXh3Lw.debug.temp.o
+ .debug_line    0x000094ba       0xc6 C:\Users\denes\AppData\Local\Temp\ccWU7wbX.debug.temp.o
+ .debug_line    0x00009580       0x87 C:\Users\denes\AppData\Local\Temp\ccqgpEPn.debug.temp.o
+ .debug_line    0x00009607       0x8d C:\Users\denes\AppData\Local\Temp\ccUf9JqO.debug.temp.o
+ .debug_line    0x00009694       0xdc C:\Users\denes\AppData\Local\Temp\ccqKkaXe.debug.temp.o
+ .debug_line    0x00009770       0x87 C:\Users\denes\AppData\Local\Temp\ccUlgKHF.debug.temp.o
+ .debug_line    0x000097f7       0xcf C:\Users\denes\AppData\Local\Temp\ccqU3en6.debug.temp.o
+ .debug_line    0x000098c6       0x5e C:\Users\denes\AppData\Local\Temp\ccg1t7fx.debug.temp.o
+ .debug_line    0x00009924       0xcd C:\Users\denes\AppData\Local\Temp\ccsRBDYn.debug.temp.o
+ .debug_line    0x000099f1       0xa2 C:\Users\denes\AppData\Local\Temp\ccQbImDD.debug.temp.o
+ .debug_line    0x00009a93       0x9d C:\Users\denes\AppData\Local\Temp\ccaobFB3.debug.temp.o
+ .debug_line    0x00009b30       0xc3 C:\Users\denes\AppData\Local\Temp\ccWyIhPt.debug.temp.o
+ .debug_line    0x00009bf3       0x93 C:\Users\denes\AppData\Local\Temp\ccuOrVXT.debug.temp.o
+ .debug_line    0x00009c86       0xb4 C:\Users\denes\AppData\Local\Temp\ccohIR3j.debug.temp.o
+ .debug_line    0x00009d3a       0x9d C:\Users\denes\AppData\Local\Temp\ccIRVrme.debug.temp.o
+ .debug_line    0x00009dd7       0x9d C:\Users\denes\AppData\Local\Temp\ccs35rec.debug.temp.o
+ .debug_line    0x00009e74       0x79 C:\Users\denes\AppData\Local\Temp\ccUr7V08.debug.temp.o
+ .debug_line    0x00009eed       0x97 C:\Users\denes\AppData\Local\Temp\ccIFTLdD.debug.temp.o
+ .debug_line    0x00009f84       0x9b C:\Users\denes\AppData\Local\Temp\ccGUJKF7.debug.temp.o
+ .debug_line    0x0000a01f       0xb9 C:\Users\denes\AppData\Local\Temp\ccsNZCb2.debug.temp.o
+ .debug_line    0x0000a0d8       0x71 C:\Users\denes\AppData\Local\Temp\cc2Z4EgZ.debug.temp.o
+ .debug_line    0x0000a149       0xe5 C:\Users\denes\AppData\Local\Temp\ccKedTAZ.debug.temp.o
+ .debug_line    0x0000a22e       0xe0 C:\Users\denes\AppData\Local\Temp\ccK0h5Lr.debug.temp.o
+ .debug_line    0x0000a30e       0xcc C:\Users\denes\AppData\Local\Temp\ccyyAAaU.debug.temp.o
+ .debug_line    0x0000a3da       0xba C:\Users\denes\AppData\Local\Temp\cciWYgum.debug.temp.o
+ .debug_line    0x0000a494       0xba C:\Users\denes\AppData\Local\Temp\cciYJY2O.debug.temp.o
+ .debug_line    0x0000a54e       0xde C:\Users\denes\AppData\Local\Temp\ccE5PSxh.debug.temp.o
  .debug_line    0x0000a62c      0x1cd C:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-memset.o)
  .debug_line    0x0000a7f9       0xbd C:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-memcpy.o)
 
@@ -1304,81 +1304,81 @@ LOAD linker stubs
  .debug_line_str
                 0x00000bf4       0x68 ./build/obj/chcoreasm_v7m.o
  .debug_line_str
-                0x00000bf4      0x10e C:\Users\denes\AppData\Local\Temp\ccMVXy1m.debug.temp.o
+                0x00000bf4      0x10e C:\Users\denes\AppData\Local\Temp\ccqo5xer.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x1d6 C:\Users\denes\AppData\Local\Temp\ccPX1vFg.debug.temp.o
+                0x00000bf4      0x1d6 C:\Users\denes\AppData\Local\Temp\ccIbsDWS.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x137 C:\Users\denes\AppData\Local\Temp\ccMYciga.debug.temp.o
+                0x00000bf4      0x137 C:\Users\denes\AppData\Local\Temp\ccyKqiVk.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x288 C:\Users\denes\AppData\Local\Temp\cc2RWroW.debug.temp.o
+                0x00000bf4      0x288 C:\Users\denes\AppData\Local\Temp\ccqELLWe.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x2fc C:\Users\denes\AppData\Local\Temp\ccT6bGnA.debug.temp.o
+                0x00000bf4      0x2fc C:\Users\denes\AppData\Local\Temp\cciYLt4z.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x296 C:\Users\denes\AppData\Local\Temp\ccwv4T3s.debug.temp.o
+                0x00000bf4      0x296 C:\Users\denes\AppData\Local\Temp\ccUVOe30.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x2e5 C:\Users\denes\AppData\Local\Temp\ccQoVVPe.debug.temp.o
+                0x00000bf4      0x2e5 C:\Users\denes\AppData\Local\Temp\cc4IR2pT.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x361 C:\Users\denes\AppData\Local\Temp\ccp78YD7.debug.temp.o
+                0x00000bf4      0x361 C:\Users\denes\AppData\Local\Temp\ccI96GNk.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x12e C:\Users\denes\AppData\Local\Temp\ccSUEJG0.debug.temp.o
+                0x00000bf4      0x12e C:\Users\denes\AppData\Local\Temp\ccQLEJ6L.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x2bc C:\Users\denes\AppData\Local\Temp\cch0GfET.debug.temp.o
+                0x00000bf4      0x2bc C:\Users\denes\AppData\Local\Temp\ccyWE6md.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x181 C:\Users\denes\AppData\Local\Temp\ccECsMEL.debug.temp.o
+                0x00000bf4      0x181 C:\Users\denes\AppData\Local\Temp\ccc1SfQE.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x2fa C:\Users\denes\AppData\Local\Temp\cckhuuOv.debug.temp.o
+                0x00000bf4      0x2fa C:\Users\denes\AppData\Local\Temp\ccUXh3Lw.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x2c7 C:\Users\denes\AppData\Local\Temp\ccnRr5Wn.debug.temp.o
+                0x00000bf4      0x2c7 C:\Users\denes\AppData\Local\Temp\ccWU7wbX.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x210 C:\Users\denes\AppData\Local\Temp\cciPF51f.debug.temp.o
+                0x00000bf4      0x210 C:\Users\denes\AppData\Local\Temp\ccqgpEPn.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x205 C:\Users\denes\AppData\Local\Temp\cczMnMn8.debug.temp.o
+                0x00000bf4      0x205 C:\Users\denes\AppData\Local\Temp\ccUf9JqO.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x364 C:\Users\denes\AppData\Local\Temp\ccWWKLF0.debug.temp.o
+                0x00000bf4      0x364 C:\Users\denes\AppData\Local\Temp\ccqKkaXe.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x212 C:\Users\denes\AppData\Local\Temp\ccDflMUS.debug.temp.o
+                0x00000bf4      0x212 C:\Users\denes\AppData\Local\Temp\ccUlgKHF.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x318 C:\Users\denes\AppData\Local\Temp\ccYIujoL.debug.temp.o
+                0x00000bf4      0x318 C:\Users\denes\AppData\Local\Temp\ccqU3en6.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x169 C:\Users\denes\AppData\Local\Temp\ccrMODMD.debug.temp.o
+                0x00000bf4      0x169 C:\Users\denes\AppData\Local\Temp\ccg1t7fx.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x28a C:\Users\denes\AppData\Local\Temp\cctimpfs.debug.temp.o
+                0x00000bf4      0x28a C:\Users\denes\AppData\Local\Temp\ccsRBDYn.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x1ed C:\Users\denes\AppData\Local\Temp\cceg4DJg.debug.temp.o
+                0x00000bf4      0x1ed C:\Users\denes\AppData\Local\Temp\ccQbImDD.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x1e2 C:\Users\denes\AppData\Local\Temp\cc7YeMbd.debug.temp.o
+                0x00000bf4      0x1e2 C:\Users\denes\AppData\Local\Temp\ccaobFB3.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x282 C:\Users\denes\AppData\Local\Temp\ccUue5y9.debug.temp.o
+                0x00000bf4      0x282 C:\Users\denes\AppData\Local\Temp\ccWyIhPt.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x1ce C:\Users\denes\AppData\Local\Temp\ccNdVJ95.debug.temp.o
+                0x00000bf4      0x1ce C:\Users\denes\AppData\Local\Temp\ccuOrVXT.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x26d C:\Users\denes\AppData\Local\Temp\cciwisH2.debug.temp.o
+                0x00000bf4      0x26d C:\Users\denes\AppData\Local\Temp\ccohIR3j.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x1e5 C:\Users\denes\AppData\Local\Temp\ccyTH1JU.debug.temp.o
+                0x00000bf4      0x1e5 C:\Users\denes\AppData\Local\Temp\ccIRVrme.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x1ea C:\Users\denes\AppData\Local\Temp\ccaoD8GL.debug.temp.o
+                0x00000bf4      0x1ea C:\Users\denes\AppData\Local\Temp\ccs35rec.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x1cc C:\Users\denes\AppData\Local\Temp\ccaIqZru.debug.temp.o
+                0x00000bf4      0x1cc C:\Users\denes\AppData\Local\Temp\ccUr7V08.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x20a C:\Users\denes\AppData\Local\Temp\cc5XLmdq.debug.temp.o
+                0x00000bf4      0x20a C:\Users\denes\AppData\Local\Temp\ccIFTLdD.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x236 C:\Users\denes\AppData\Local\Temp\ccyRuaXl.debug.temp.o
+                0x00000bf4      0x236 C:\Users\denes\AppData\Local\Temp\ccGUJKF7.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x274 C:\Users\denes\AppData\Local\Temp\ccgQ5RG3.debug.temp.o
+                0x00000bf4      0x274 C:\Users\denes\AppData\Local\Temp\ccsNZCb2.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x19b C:\Users\denes\AppData\Local\Temp\ccsHzZBT.debug.temp.o
+                0x00000bf4      0x19b C:\Users\denes\AppData\Local\Temp\cc2Z4EgZ.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x2c5 C:\Users\denes\AppData\Local\Temp\ccfL4hYz.debug.temp.o
+                0x00000bf4      0x2c5 C:\Users\denes\AppData\Local\Temp\ccKedTAZ.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x2b4 C:\Users\denes\AppData\Local\Temp\ccUkCaAy.debug.temp.o
+                0x00000bf4      0x2b4 C:\Users\denes\AppData\Local\Temp\ccK0h5Lr.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x291 C:\Users\denes\AppData\Local\Temp\ccze8g6w.debug.temp.o
+                0x00000bf4      0x291 C:\Users\denes\AppData\Local\Temp\ccyyAAaU.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x240 C:\Users\denes\AppData\Local\Temp\ccK0X3Pv.debug.temp.o
+                0x00000bf4      0x240 C:\Users\denes\AppData\Local\Temp\cciWYgum.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x248 C:\Users\denes\AppData\Local\Temp\ccxILFvu.debug.temp.o
+                0x00000bf4      0x248 C:\Users\denes\AppData\Local\Temp\cciYJY2O.debug.temp.o
  .debug_line_str
-                0x00000bf4      0x2f6 C:\Users\denes\AppData\Local\Temp\ccIeZ2pt.debug.temp.o
+                0x00000bf4      0x2f6 C:\Users\denes\AppData\Local\Temp\ccE5PSxh.debug.temp.o
  .debug_line_str
                 0x00000bf4       0x87 C:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-memcpy.o)
 
@@ -1386,82 +1386,82 @@ LOAD linker stubs
  .debug_info    0x00000000       0x25 ./build/obj/crt0_v7m.o
  .debug_info    0x00000025       0x24 ./build/obj/vectors.o
  .debug_info    0x00000049       0x24 ./build/obj/chcoreasm_v7m.o
- .debug_info    0x0000006d     0xc26e C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
- .debug_info    0x0000c2db      0x296 C:\Users\denes\AppData\Local\Temp\ccMVXy1m.debug.temp.o
+ .debug_info    0x0000006d     0xc26e C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+ .debug_info    0x0000c2db      0x296 C:\Users\denes\AppData\Local\Temp\ccqo5xer.debug.temp.o
                 0x0000c2db                crt1.c.c9773146
- .debug_info    0x0000c571      0x182 C:\Users\denes\AppData\Local\Temp\ccPX1vFg.debug.temp.o
+ .debug_info    0x0000c571      0x182 C:\Users\denes\AppData\Local\Temp\ccIbsDWS.debug.temp.o
                 0x0000c571                hal.c.2da73da5
- .debug_info    0x0000c6f3      0x2fa C:\Users\denes\AppData\Local\Temp\ccMYciga.debug.temp.o
+ .debug_info    0x0000c6f3      0x2fa C:\Users\denes\AppData\Local\Temp\ccyKqiVk.debug.temp.o
                 0x0000c6f3                hal_st.c.fef72aa2
- .debug_info    0x0000c9ed      0x837 C:\Users\denes\AppData\Local\Temp\cc2RWroW.debug.temp.o
+ .debug_info    0x0000c9ed      0x837 C:\Users\denes\AppData\Local\Temp\ccqELLWe.debug.temp.o
                 0x0000c9ed                hal_queues.c.577c9409
- .debug_info    0x0000d224      0xd6a C:\Users\denes\AppData\Local\Temp\ccT6bGnA.debug.temp.o
+ .debug_info    0x0000d224      0xd6a C:\Users\denes\AppData\Local\Temp\cciYLt4z.debug.temp.o
                 0x0000d224                hal_adc.c.42dd2104
- .debug_info    0x0000df8e      0xfb7 C:\Users\denes\AppData\Local\Temp\ccwv4T3s.debug.temp.o
+ .debug_info    0x0000df8e      0xfb7 C:\Users\denes\AppData\Local\Temp\ccUVOe30.debug.temp.o
                 0x0000df8e                hal_can.c.0bbd4c38
- .debug_info    0x0000ef45      0xf7c C:\Users\denes\AppData\Local\Temp\ccQoVVPe.debug.temp.o
+ .debug_info    0x0000ef45      0xf7c C:\Users\denes\AppData\Local\Temp\cc4IR2pT.debug.temp.o
                 0x0000ef45                hal_serial.c.7247549b
- .debug_info    0x0000fec1      0xe24 C:\Users\denes\AppData\Local\Temp\ccp78YD7.debug.temp.o
+ .debug_info    0x0000fec1      0xe24 C:\Users\denes\AppData\Local\Temp\ccI96GNk.debug.temp.o
                 0x0000fec1                hal_spi.c.3678c202
- .debug_info    0x00010ce5      0x3e1 C:\Users\denes\AppData\Local\Temp\ccSUEJG0.debug.temp.o
+ .debug_info    0x00010ce5      0x3e1 C:\Users\denes\AppData\Local\Temp\ccQLEJ6L.debug.temp.o
                 0x00010ce5                nvic.c.3932b7ff
- .debug_info    0x000110c6      0x496 C:\Users\denes\AppData\Local\Temp\cch0GfET.debug.temp.o
+ .debug_info    0x000110c6      0x496 C:\Users\denes\AppData\Local\Temp\ccyWE6md.debug.temp.o
                 0x000110c6                stm32_isr.c.fe66df43
- .debug_info    0x0001155c      0x202 C:\Users\denes\AppData\Local\Temp\ccECsMEL.debug.temp.o
+ .debug_info    0x0001155c      0x202 C:\Users\denes\AppData\Local\Temp\ccc1SfQE.debug.temp.o
                 0x0001155c                hal_lld.c.b1a17341
- .debug_info    0x0001175e      0xbaa C:\Users\denes\AppData\Local\Temp\cckhuuOv.debug.temp.o
+ .debug_info    0x0001175e      0xbaa C:\Users\denes\AppData\Local\Temp\ccUXh3Lw.debug.temp.o
                 0x0001175e                hal_adc_lld.c.f7e10bdd
- .debug_info    0x00012308     0x10ac C:\Users\denes\AppData\Local\Temp\ccnRr5Wn.debug.temp.o
+ .debug_info    0x00012308     0x10ac C:\Users\denes\AppData\Local\Temp\ccWU7wbX.debug.temp.o
                 0x00012308                hal_can_lld.c.7ecbeff9
- .debug_info    0x000133b4      0x58d C:\Users\denes\AppData\Local\Temp\cciPF51f.debug.temp.o
+ .debug_info    0x000133b4      0x58d C:\Users\denes\AppData\Local\Temp\ccqgpEPn.debug.temp.o
                 0x000133b4                stm32_dma.c.0faca184
- .debug_info    0x00013941      0x6aa C:\Users\denes\AppData\Local\Temp\cczMnMn8.debug.temp.o
+ .debug_info    0x00013941      0x6aa C:\Users\denes\AppData\Local\Temp\ccUf9JqO.debug.temp.o
                 0x00013941                hal_pal_lld.c.1b785e8c
- .debug_info    0x00013feb      0xc75 C:\Users\denes\AppData\Local\Temp\ccWWKLF0.debug.temp.o
+ .debug_info    0x00013feb      0xc75 C:\Users\denes\AppData\Local\Temp\ccqKkaXe.debug.temp.o
                 0x00013feb                hal_spi_lld.c.b5b98e25
- .debug_info    0x00014c60      0x38e C:\Users\denes\AppData\Local\Temp\ccDflMUS.debug.temp.o
+ .debug_info    0x00014c60      0x38e C:\Users\denes\AppData\Local\Temp\ccUlgKHF.debug.temp.o
                 0x00014c60                hal_st_lld.c.101e31f9
- .debug_info    0x00014fee      0xca4 C:\Users\denes\AppData\Local\Temp\ccYIujoL.debug.temp.o
+ .debug_info    0x00014fee      0xca4 C:\Users\denes\AppData\Local\Temp\ccqU3en6.debug.temp.o
                 0x00014fee                hal_serial_lld.c.b01ed5e2
- .debug_info    0x00015c92      0x140 C:\Users\denes\AppData\Local\Temp\ccrMODMD.debug.temp.o
+ .debug_info    0x00015c92      0x140 C:\Users\denes\AppData\Local\Temp\ccg1t7fx.debug.temp.o
                 0x00015c92                board.c.aa89af55
- .debug_info    0x00015dd2      0xcf2 C:\Users\denes\AppData\Local\Temp\cctimpfs.debug.temp.o
+ .debug_info    0x00015dd2      0xcf2 C:\Users\denes\AppData\Local\Temp\ccsRBDYn.debug.temp.o
                 0x00015dd2                chsys.c.261e479d
- .debug_info    0x00016ac4      0xc18 C:\Users\denes\AppData\Local\Temp\cceg4DJg.debug.temp.o
+ .debug_info    0x00016ac4      0xc18 C:\Users\denes\AppData\Local\Temp\ccQbImDD.debug.temp.o
                 0x00016ac4                chvt.c.6c00777c
- .debug_info    0x000176dc      0xa32 C:\Users\denes\AppData\Local\Temp\cc7YeMbd.debug.temp.o
+ .debug_info    0x000176dc      0xa32 C:\Users\denes\AppData\Local\Temp\ccaobFB3.debug.temp.o
                 0x000176dc                chschd.c.117f22de
- .debug_info    0x0001810e     0x100d C:\Users\denes\AppData\Local\Temp\ccUue5y9.debug.temp.o
+ .debug_info    0x0001810e     0x100d C:\Users\denes\AppData\Local\Temp\ccWyIhPt.debug.temp.o
                 0x0001810e                chthreads.c.52ad3637
- .debug_info    0x0001911b      0x91a C:\Users\denes\AppData\Local\Temp\ccNdVJ95.debug.temp.o
+ .debug_info    0x0001911b      0x91a C:\Users\denes\AppData\Local\Temp\ccuOrVXT.debug.temp.o
                 0x0001911b                chtm.c.404dcdc5
- .debug_info    0x00019a35      0x923 C:\Users\denes\AppData\Local\Temp\cciwisH2.debug.temp.o
+ .debug_info    0x00019a35      0x923 C:\Users\denes\AppData\Local\Temp\ccohIR3j.debug.temp.o
                 0x00019a35                chregistry.c.e2d9c795
- .debug_info    0x0001a358      0x9cc C:\Users\denes\AppData\Local\Temp\ccyTH1JU.debug.temp.o
+ .debug_info    0x0001a358      0x9cc C:\Users\denes\AppData\Local\Temp\ccIRVrme.debug.temp.o
                 0x0001a358                chmtx.c.01aa9b8f
- .debug_info    0x0001ad24      0xbca C:\Users\denes\AppData\Local\Temp\ccaoD8GL.debug.temp.o
+ .debug_info    0x0001ad24      0xbca C:\Users\denes\AppData\Local\Temp\ccs35rec.debug.temp.o
                 0x0001ad24                chevents.c.64f45715
- .debug_info    0x0001b8ee      0x2ce C:\Users\denes\AppData\Local\Temp\ccaIqZru.debug.temp.o
+ .debug_info    0x0001b8ee      0x2ce C:\Users\denes\AppData\Local\Temp\ccUr7V08.debug.temp.o
                 0x0001b8ee                chmemcore.c.ee208866
- .debug_info    0x0001bbbc      0x7b4 C:\Users\denes\AppData\Local\Temp\cc5XLmdq.debug.temp.o
+ .debug_info    0x0001bbbc      0x7b4 C:\Users\denes\AppData\Local\Temp\ccIFTLdD.debug.temp.o
                 0x0001bbbc                chmemheaps.c.a46b5b0a
- .debug_info    0x0001c370      0x5ad C:\Users\denes\AppData\Local\Temp\ccyRuaXl.debug.temp.o
+ .debug_info    0x0001c370      0x5ad C:\Users\denes\AppData\Local\Temp\ccGUJKF7.debug.temp.o
                 0x0001c370                chmempools.c.0f9a52fc
- .debug_info    0x0001c91d     0x1254 C:\Users\denes\AppData\Local\Temp\ccgQ5RG3.debug.temp.o
+ .debug_info    0x0001c91d     0x1254 C:\Users\denes\AppData\Local\Temp\ccsNZCb2.debug.temp.o
                 0x0001c91d                chfactory.c.45ae353d
- .debug_info    0x0001db71      0x868 C:\Users\denes\AppData\Local\Temp\ccsHzZBT.debug.temp.o
+ .debug_info    0x0001db71      0x868 C:\Users\denes\AppData\Local\Temp\cc2Z4EgZ.debug.temp.o
                 0x0001db71                chcore_v7m.c.59c0e302
- .debug_info    0x0001e3d9      0xbcb C:\Users\denes\AppData\Local\Temp\ccfL4hYz.debug.temp.o
+ .debug_info    0x0001e3d9      0xbcb C:\Users\denes\AppData\Local\Temp\ccKedTAZ.debug.temp.o
                 0x0001e3d9                main.cpp.8faaef7b
- .debug_info    0x0001efa4     0x1136 C:\Users\denes\AppData\Local\Temp\ccUkCaAy.debug.temp.o
+ .debug_info    0x0001efa4     0x1136 C:\Users\denes\AppData\Local\Temp\ccK0h5Lr.debug.temp.o
                 0x0001efa4                can.cpp.d8eb058d
- .debug_info    0x000200da      0xce5 C:\Users\denes\AppData\Local\Temp\ccze8g6w.debug.temp.o
+ .debug_info    0x000200da      0xce5 C:\Users\denes\AppData\Local\Temp\ccyyAAaU.debug.temp.o
                 0x000200da                adc.cpp.69c01578
- .debug_info    0x00020dbf      0x8d6 C:\Users\denes\AppData\Local\Temp\ccK0X3Pv.debug.temp.o
+ .debug_info    0x00020dbf      0x8d6 C:\Users\denes\AppData\Local\Temp\cciWYgum.debug.temp.o
                 0x00020dbf                out.cpp.1fcbfa20
- .debug_info    0x00021695      0x8d6 C:\Users\denes\AppData\Local\Temp\ccxILFvu.debug.temp.o
+ .debug_info    0x00021695      0x8d6 C:\Users\denes\AppData\Local\Temp\cciYJY2O.debug.temp.o
                 0x00021695                digital.cpp.9469349b
- .debug_info    0x00021f6b      0xc9f C:\Users\denes\AppData\Local\Temp\ccIeZ2pt.debug.temp.o
+ .debug_info    0x00021f6b      0xc9f C:\Users\denes\AppData\Local\Temp\ccE5PSxh.debug.temp.o
                 0x00021f6b                spi.cpp.d890e806
  .debug_info    0x00022c0a      0x135 C:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-memset.o)
  .debug_info    0x00022d3f       0x33 C:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-memcpy.o)
@@ -1470,45 +1470,45 @@ LOAD linker stubs
  .debug_abbrev  0x00000000       0x14 ./build/obj/crt0_v7m.o
  .debug_abbrev  0x00000014       0x14 ./build/obj/vectors.o
  .debug_abbrev  0x00000028       0x14 ./build/obj/chcoreasm_v7m.o
- .debug_abbrev  0x0000003c      0x33a C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
- .debug_abbrev  0x00000376       0xec C:\Users\denes\AppData\Local\Temp\ccMVXy1m.debug.temp.o
- .debug_abbrev  0x00000462       0xf3 C:\Users\denes\AppData\Local\Temp\ccPX1vFg.debug.temp.o
- .debug_abbrev  0x00000555      0x15c C:\Users\denes\AppData\Local\Temp\ccMYciga.debug.temp.o
- .debug_abbrev  0x000006b1      0x1f7 C:\Users\denes\AppData\Local\Temp\cc2RWroW.debug.temp.o
- .debug_abbrev  0x000008a8      0x280 C:\Users\denes\AppData\Local\Temp\ccT6bGnA.debug.temp.o
- .debug_abbrev  0x00000b28      0x33f C:\Users\denes\AppData\Local\Temp\ccwv4T3s.debug.temp.o
- .debug_abbrev  0x00000e67      0x296 C:\Users\denes\AppData\Local\Temp\ccQoVVPe.debug.temp.o
- .debug_abbrev  0x000010fd      0x25f C:\Users\denes\AppData\Local\Temp\ccp78YD7.debug.temp.o
- .debug_abbrev  0x0000135c      0x127 C:\Users\denes\AppData\Local\Temp\ccSUEJG0.debug.temp.o
- .debug_abbrev  0x00001483      0x1e2 C:\Users\denes\AppData\Local\Temp\cch0GfET.debug.temp.o
- .debug_abbrev  0x00001665       0xda C:\Users\denes\AppData\Local\Temp\ccECsMEL.debug.temp.o
- .debug_abbrev  0x0000173f      0x26f C:\Users\denes\AppData\Local\Temp\cckhuuOv.debug.temp.o
- .debug_abbrev  0x000019ae      0x34d C:\Users\denes\AppData\Local\Temp\ccnRr5Wn.debug.temp.o
- .debug_abbrev  0x00001cfb      0x1bd C:\Users\denes\AppData\Local\Temp\cciPF51f.debug.temp.o
- .debug_abbrev  0x00001eb8      0x1fd C:\Users\denes\AppData\Local\Temp\cczMnMn8.debug.temp.o
- .debug_abbrev  0x000020b5      0x26a C:\Users\denes\AppData\Local\Temp\ccWWKLF0.debug.temp.o
- .debug_abbrev  0x0000231f      0x138 C:\Users\denes\AppData\Local\Temp\ccDflMUS.debug.temp.o
- .debug_abbrev  0x00002457      0x28e C:\Users\denes\AppData\Local\Temp\ccYIujoL.debug.temp.o
- .debug_abbrev  0x000026e5       0xb9 C:\Users\denes\AppData\Local\Temp\ccrMODMD.debug.temp.o
- .debug_abbrev  0x0000279e      0x328 C:\Users\denes\AppData\Local\Temp\cctimpfs.debug.temp.o
- .debug_abbrev  0x00002ac6      0x2c2 C:\Users\denes\AppData\Local\Temp\cceg4DJg.debug.temp.o
- .debug_abbrev  0x00002d88      0x2c7 C:\Users\denes\AppData\Local\Temp\cc7YeMbd.debug.temp.o
- .debug_abbrev  0x0000304f      0x304 C:\Users\denes\AppData\Local\Temp\ccUue5y9.debug.temp.o
- .debug_abbrev  0x00003353      0x196 C:\Users\denes\AppData\Local\Temp\ccNdVJ95.debug.temp.o
- .debug_abbrev  0x000034e9      0x238 C:\Users\denes\AppData\Local\Temp\cciwisH2.debug.temp.o
- .debug_abbrev  0x00003721      0x29b C:\Users\denes\AppData\Local\Temp\ccyTH1JU.debug.temp.o
- .debug_abbrev  0x000039bc      0x293 C:\Users\denes\AppData\Local\Temp\ccaoD8GL.debug.temp.o
- .debug_abbrev  0x00003c4f      0x15d C:\Users\denes\AppData\Local\Temp\ccaIqZru.debug.temp.o
- .debug_abbrev  0x00003dac      0x244 C:\Users\denes\AppData\Local\Temp\cc5XLmdq.debug.temp.o
- .debug_abbrev  0x00003ff0      0x206 C:\Users\denes\AppData\Local\Temp\ccyRuaXl.debug.temp.o
- .debug_abbrev  0x000041f6      0x275 C:\Users\denes\AppData\Local\Temp\ccgQ5RG3.debug.temp.o
- .debug_abbrev  0x0000446b      0x1f9 C:\Users\denes\AppData\Local\Temp\ccsHzZBT.debug.temp.o
- .debug_abbrev  0x00004664      0x1e6 C:\Users\denes\AppData\Local\Temp\ccfL4hYz.debug.temp.o
- .debug_abbrev  0x0000484a      0x352 C:\Users\denes\AppData\Local\Temp\ccUkCaAy.debug.temp.o
- .debug_abbrev  0x00004b9c      0x24a C:\Users\denes\AppData\Local\Temp\ccze8g6w.debug.temp.o
- .debug_abbrev  0x00004de6      0x238 C:\Users\denes\AppData\Local\Temp\ccK0X3Pv.debug.temp.o
- .debug_abbrev  0x0000501e      0x238 C:\Users\denes\AppData\Local\Temp\ccxILFvu.debug.temp.o
- .debug_abbrev  0x00005256      0x24c C:\Users\denes\AppData\Local\Temp\ccIeZ2pt.debug.temp.o
+ .debug_abbrev  0x0000003c      0x33a C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+ .debug_abbrev  0x00000376       0xec C:\Users\denes\AppData\Local\Temp\ccqo5xer.debug.temp.o
+ .debug_abbrev  0x00000462       0xf3 C:\Users\denes\AppData\Local\Temp\ccIbsDWS.debug.temp.o
+ .debug_abbrev  0x00000555      0x15c C:\Users\denes\AppData\Local\Temp\ccyKqiVk.debug.temp.o
+ .debug_abbrev  0x000006b1      0x1f7 C:\Users\denes\AppData\Local\Temp\ccqELLWe.debug.temp.o
+ .debug_abbrev  0x000008a8      0x280 C:\Users\denes\AppData\Local\Temp\cciYLt4z.debug.temp.o
+ .debug_abbrev  0x00000b28      0x33f C:\Users\denes\AppData\Local\Temp\ccUVOe30.debug.temp.o
+ .debug_abbrev  0x00000e67      0x296 C:\Users\denes\AppData\Local\Temp\cc4IR2pT.debug.temp.o
+ .debug_abbrev  0x000010fd      0x25f C:\Users\denes\AppData\Local\Temp\ccI96GNk.debug.temp.o
+ .debug_abbrev  0x0000135c      0x127 C:\Users\denes\AppData\Local\Temp\ccQLEJ6L.debug.temp.o
+ .debug_abbrev  0x00001483      0x1e2 C:\Users\denes\AppData\Local\Temp\ccyWE6md.debug.temp.o
+ .debug_abbrev  0x00001665       0xda C:\Users\denes\AppData\Local\Temp\ccc1SfQE.debug.temp.o
+ .debug_abbrev  0x0000173f      0x26f C:\Users\denes\AppData\Local\Temp\ccUXh3Lw.debug.temp.o
+ .debug_abbrev  0x000019ae      0x34d C:\Users\denes\AppData\Local\Temp\ccWU7wbX.debug.temp.o
+ .debug_abbrev  0x00001cfb      0x1bd C:\Users\denes\AppData\Local\Temp\ccqgpEPn.debug.temp.o
+ .debug_abbrev  0x00001eb8      0x1fd C:\Users\denes\AppData\Local\Temp\ccUf9JqO.debug.temp.o
+ .debug_abbrev  0x000020b5      0x26a C:\Users\denes\AppData\Local\Temp\ccqKkaXe.debug.temp.o
+ .debug_abbrev  0x0000231f      0x138 C:\Users\denes\AppData\Local\Temp\ccUlgKHF.debug.temp.o
+ .debug_abbrev  0x00002457      0x28e C:\Users\denes\AppData\Local\Temp\ccqU3en6.debug.temp.o
+ .debug_abbrev  0x000026e5       0xb9 C:\Users\denes\AppData\Local\Temp\ccg1t7fx.debug.temp.o
+ .debug_abbrev  0x0000279e      0x328 C:\Users\denes\AppData\Local\Temp\ccsRBDYn.debug.temp.o
+ .debug_abbrev  0x00002ac6      0x2c2 C:\Users\denes\AppData\Local\Temp\ccQbImDD.debug.temp.o
+ .debug_abbrev  0x00002d88      0x2c7 C:\Users\denes\AppData\Local\Temp\ccaobFB3.debug.temp.o
+ .debug_abbrev  0x0000304f      0x304 C:\Users\denes\AppData\Local\Temp\ccWyIhPt.debug.temp.o
+ .debug_abbrev  0x00003353      0x196 C:\Users\denes\AppData\Local\Temp\ccuOrVXT.debug.temp.o
+ .debug_abbrev  0x000034e9      0x238 C:\Users\denes\AppData\Local\Temp\ccohIR3j.debug.temp.o
+ .debug_abbrev  0x00003721      0x29b C:\Users\denes\AppData\Local\Temp\ccIRVrme.debug.temp.o
+ .debug_abbrev  0x000039bc      0x293 C:\Users\denes\AppData\Local\Temp\ccs35rec.debug.temp.o
+ .debug_abbrev  0x00003c4f      0x15d C:\Users\denes\AppData\Local\Temp\ccUr7V08.debug.temp.o
+ .debug_abbrev  0x00003dac      0x244 C:\Users\denes\AppData\Local\Temp\ccIFTLdD.debug.temp.o
+ .debug_abbrev  0x00003ff0      0x206 C:\Users\denes\AppData\Local\Temp\ccGUJKF7.debug.temp.o
+ .debug_abbrev  0x000041f6      0x275 C:\Users\denes\AppData\Local\Temp\ccsNZCb2.debug.temp.o
+ .debug_abbrev  0x0000446b      0x1f9 C:\Users\denes\AppData\Local\Temp\cc2Z4EgZ.debug.temp.o
+ .debug_abbrev  0x00004664      0x1e6 C:\Users\denes\AppData\Local\Temp\ccKedTAZ.debug.temp.o
+ .debug_abbrev  0x0000484a      0x352 C:\Users\denes\AppData\Local\Temp\ccK0h5Lr.debug.temp.o
+ .debug_abbrev  0x00004b9c      0x24a C:\Users\denes\AppData\Local\Temp\ccyyAAaU.debug.temp.o
+ .debug_abbrev  0x00004de6      0x238 C:\Users\denes\AppData\Local\Temp\cciWYgum.debug.temp.o
+ .debug_abbrev  0x0000501e      0x238 C:\Users\denes\AppData\Local\Temp\cciYJY2O.debug.temp.o
+ .debug_abbrev  0x00005256      0x24c C:\Users\denes\AppData\Local\Temp\ccE5PSxh.debug.temp.o
  .debug_abbrev  0x000054a2       0xb7 C:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-memset.o)
  .debug_abbrev  0x00005559       0x28 C:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-memcpy.o)
 
@@ -1520,7 +1520,7 @@ LOAD linker stubs
  .debug_aranges
                 0x00000040       0x20 ./build/obj/chcoreasm_v7m.o
  .debug_aranges
-                0x00000060      0x260 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x00000060      0x260 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .debug_aranges
                 0x000002c0       0x20 C:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-memset.o)
  .debug_aranges
@@ -1531,62 +1531,62 @@ LOAD linker stubs
                                  0x71 (size before relaxing)
  .debug_str     0x0000400e       0x70 ./build/obj/vectors.o
  .debug_str     0x0000400e       0x74 ./build/obj/chcoreasm_v7m.o
- .debug_str     0x0000400e      0x1ba C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
- .debug_str     0x0000400e      0x456 C:\Users\denes\AppData\Local\Temp\ccMVXy1m.debug.temp.o
- .debug_str     0x0000400e      0x26f C:\Users\denes\AppData\Local\Temp\ccPX1vFg.debug.temp.o
- .debug_str     0x0000400e      0x2fe C:\Users\denes\AppData\Local\Temp\ccMYciga.debug.temp.o
- .debug_str     0x0000400e      0x4b3 C:\Users\denes\AppData\Local\Temp\cc2RWroW.debug.temp.o
- .debug_str     0x0000400e      0x834 C:\Users\denes\AppData\Local\Temp\ccT6bGnA.debug.temp.o
- .debug_str     0x0000400e      0x873 C:\Users\denes\AppData\Local\Temp\ccwv4T3s.debug.temp.o
- .debug_str     0x0000400e      0x7c6 C:\Users\denes\AppData\Local\Temp\ccQoVVPe.debug.temp.o
- .debug_str     0x0000400e      0x7f3 C:\Users\denes\AppData\Local\Temp\ccp78YD7.debug.temp.o
- .debug_str     0x0000400e      0x301 C:\Users\denes\AppData\Local\Temp\ccSUEJG0.debug.temp.o
- .debug_str     0x0000400e      0x6a2 C:\Users\denes\AppData\Local\Temp\cch0GfET.debug.temp.o
- .debug_str     0x0000400e      0x2a3 C:\Users\denes\AppData\Local\Temp\ccECsMEL.debug.temp.o
- .debug_str     0x0000400e      0x7e8 C:\Users\denes\AppData\Local\Temp\cckhuuOv.debug.temp.o
- .debug_str     0x0000400e      0x973 C:\Users\denes\AppData\Local\Temp\ccnRr5Wn.debug.temp.o
- .debug_str     0x0000400e      0x442 C:\Users\denes\AppData\Local\Temp\cciPF51f.debug.temp.o
- .debug_str     0x0000400e      0x4a6 C:\Users\denes\AppData\Local\Temp\cczMnMn8.debug.temp.o
- .debug_str     0x0000400e      0x7bf C:\Users\denes\AppData\Local\Temp\ccWWKLF0.debug.temp.o
- .debug_str     0x0000400e      0x386 C:\Users\denes\AppData\Local\Temp\ccDflMUS.debug.temp.o
- .debug_str     0x0000400e      0x787 C:\Users\denes\AppData\Local\Temp\ccYIujoL.debug.temp.o
- .debug_str     0x0000400e      0x254 C:\Users\denes\AppData\Local\Temp\ccrMODMD.debug.temp.o
- .debug_str     0x0000400e      0x93f C:\Users\denes\AppData\Local\Temp\cctimpfs.debug.temp.o
- .debug_str     0x0000400e      0x74b C:\Users\denes\AppData\Local\Temp\cceg4DJg.debug.temp.o
- .debug_str     0x0000400e      0x722 C:\Users\denes\AppData\Local\Temp\cc7YeMbd.debug.temp.o
- .debug_str     0x0000400e      0x921 C:\Users\denes\AppData\Local\Temp\ccUue5y9.debug.temp.o
- .debug_str     0x0000400e      0x63e C:\Users\denes\AppData\Local\Temp\ccNdVJ95.debug.temp.o
- .debug_str     0x0000400e      0x67e C:\Users\denes\AppData\Local\Temp\cciwisH2.debug.temp.o
- .debug_str     0x0000400e      0x63c C:\Users\denes\AppData\Local\Temp\ccyTH1JU.debug.temp.o
- .debug_str     0x0000400e      0x739 C:\Users\denes\AppData\Local\Temp\ccaoD8GL.debug.temp.o
- .debug_str     0x0000400e      0x2f3 C:\Users\denes\AppData\Local\Temp\ccaIqZru.debug.temp.o
- .debug_str     0x0000400e      0x4e3 C:\Users\denes\AppData\Local\Temp\cc5XLmdq.debug.temp.o
- .debug_str     0x0000400e      0x448 C:\Users\denes\AppData\Local\Temp\ccyRuaXl.debug.temp.o
- .debug_str     0x0000400e      0xa6a C:\Users\denes\AppData\Local\Temp\ccgQ5RG3.debug.temp.o
- .debug_str     0x0000400e      0x7e4 C:\Users\denes\AppData\Local\Temp\ccsHzZBT.debug.temp.o
- .debug_str     0x0000400e      0x7fa C:\Users\denes\AppData\Local\Temp\ccfL4hYz.debug.temp.o
- .debug_str     0x0000400e      0xb1b C:\Users\denes\AppData\Local\Temp\ccUkCaAy.debug.temp.o
- .debug_str     0x0000400e      0x93a C:\Users\denes\AppData\Local\Temp\ccze8g6w.debug.temp.o
- .debug_str     0x0000400e      0x6ce C:\Users\denes\AppData\Local\Temp\ccK0X3Pv.debug.temp.o
- .debug_str     0x0000400e      0x6e0 C:\Users\denes\AppData\Local\Temp\ccxILFvu.debug.temp.o
- .debug_str     0x0000400e      0x91f C:\Users\denes\AppData\Local\Temp\ccIeZ2pt.debug.temp.o
+ .debug_str     0x0000400e      0x1ba C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+ .debug_str     0x0000400e      0x456 C:\Users\denes\AppData\Local\Temp\ccqo5xer.debug.temp.o
+ .debug_str     0x0000400e      0x26f C:\Users\denes\AppData\Local\Temp\ccIbsDWS.debug.temp.o
+ .debug_str     0x0000400e      0x2fe C:\Users\denes\AppData\Local\Temp\ccyKqiVk.debug.temp.o
+ .debug_str     0x0000400e      0x4b3 C:\Users\denes\AppData\Local\Temp\ccqELLWe.debug.temp.o
+ .debug_str     0x0000400e      0x834 C:\Users\denes\AppData\Local\Temp\cciYLt4z.debug.temp.o
+ .debug_str     0x0000400e      0x873 C:\Users\denes\AppData\Local\Temp\ccUVOe30.debug.temp.o
+ .debug_str     0x0000400e      0x7c6 C:\Users\denes\AppData\Local\Temp\cc4IR2pT.debug.temp.o
+ .debug_str     0x0000400e      0x7f3 C:\Users\denes\AppData\Local\Temp\ccI96GNk.debug.temp.o
+ .debug_str     0x0000400e      0x301 C:\Users\denes\AppData\Local\Temp\ccQLEJ6L.debug.temp.o
+ .debug_str     0x0000400e      0x6a2 C:\Users\denes\AppData\Local\Temp\ccyWE6md.debug.temp.o
+ .debug_str     0x0000400e      0x2a3 C:\Users\denes\AppData\Local\Temp\ccc1SfQE.debug.temp.o
+ .debug_str     0x0000400e      0x7e8 C:\Users\denes\AppData\Local\Temp\ccUXh3Lw.debug.temp.o
+ .debug_str     0x0000400e      0x973 C:\Users\denes\AppData\Local\Temp\ccWU7wbX.debug.temp.o
+ .debug_str     0x0000400e      0x442 C:\Users\denes\AppData\Local\Temp\ccqgpEPn.debug.temp.o
+ .debug_str     0x0000400e      0x4a6 C:\Users\denes\AppData\Local\Temp\ccUf9JqO.debug.temp.o
+ .debug_str     0x0000400e      0x7bf C:\Users\denes\AppData\Local\Temp\ccqKkaXe.debug.temp.o
+ .debug_str     0x0000400e      0x386 C:\Users\denes\AppData\Local\Temp\ccUlgKHF.debug.temp.o
+ .debug_str     0x0000400e      0x787 C:\Users\denes\AppData\Local\Temp\ccqU3en6.debug.temp.o
+ .debug_str     0x0000400e      0x254 C:\Users\denes\AppData\Local\Temp\ccg1t7fx.debug.temp.o
+ .debug_str     0x0000400e      0x93f C:\Users\denes\AppData\Local\Temp\ccsRBDYn.debug.temp.o
+ .debug_str     0x0000400e      0x74b C:\Users\denes\AppData\Local\Temp\ccQbImDD.debug.temp.o
+ .debug_str     0x0000400e      0x722 C:\Users\denes\AppData\Local\Temp\ccaobFB3.debug.temp.o
+ .debug_str     0x0000400e      0x921 C:\Users\denes\AppData\Local\Temp\ccWyIhPt.debug.temp.o
+ .debug_str     0x0000400e      0x63e C:\Users\denes\AppData\Local\Temp\ccuOrVXT.debug.temp.o
+ .debug_str     0x0000400e      0x67e C:\Users\denes\AppData\Local\Temp\ccohIR3j.debug.temp.o
+ .debug_str     0x0000400e      0x63c C:\Users\denes\AppData\Local\Temp\ccIRVrme.debug.temp.o
+ .debug_str     0x0000400e      0x739 C:\Users\denes\AppData\Local\Temp\ccs35rec.debug.temp.o
+ .debug_str     0x0000400e      0x2f3 C:\Users\denes\AppData\Local\Temp\ccUr7V08.debug.temp.o
+ .debug_str     0x0000400e      0x4e3 C:\Users\denes\AppData\Local\Temp\ccIFTLdD.debug.temp.o
+ .debug_str     0x0000400e      0x448 C:\Users\denes\AppData\Local\Temp\ccGUJKF7.debug.temp.o
+ .debug_str     0x0000400e      0xa6a C:\Users\denes\AppData\Local\Temp\ccsNZCb2.debug.temp.o
+ .debug_str     0x0000400e      0x7e4 C:\Users\denes\AppData\Local\Temp\cc2Z4EgZ.debug.temp.o
+ .debug_str     0x0000400e      0x7fa C:\Users\denes\AppData\Local\Temp\ccKedTAZ.debug.temp.o
+ .debug_str     0x0000400e      0xb1b C:\Users\denes\AppData\Local\Temp\ccK0h5Lr.debug.temp.o
+ .debug_str     0x0000400e      0x93a C:\Users\denes\AppData\Local\Temp\ccyyAAaU.debug.temp.o
+ .debug_str     0x0000400e      0x6ce C:\Users\denes\AppData\Local\Temp\cciWYgum.debug.temp.o
+ .debug_str     0x0000400e      0x6e0 C:\Users\denes\AppData\Local\Temp\cciYJY2O.debug.temp.o
+ .debug_str     0x0000400e      0x91f C:\Users\denes\AppData\Local\Temp\ccE5PSxh.debug.temp.o
  .debug_str     0x0000400e      0x18e C:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-memset.o)
  .debug_str     0x0000400e       0x9a C:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-memcpy.o)
 
 .debug_loclists
                 0x00000000     0x5bf2
  .debug_loclists
-                0x00000000     0x5a27 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x00000000     0x5a27 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .debug_loclists
                 0x00005a27      0x1cb C:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-memset.o)
 
 .debug_rnglists
                 0x00000000     0x18ac
  .debug_rnglists
-                0x00000000     0x18ac C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                0x00000000     0x18ac C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
 
 .debug_frame    0x00000000      0x8a0
- .debug_frame   0x00000000      0x874 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+ .debug_frame   0x00000000      0x874 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
  .debug_frame   0x00000874       0x2c C:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-memset.o)
 
 Cross Reference Table
@@ -1607,7 +1607,7 @@ SD1                                               ./build/obj/hal_serial_lld.o (
                                                   ./build/obj/main.o (symbol from plugin)
 SPID2                                             ./build/obj/hal_spi_lld.o (symbol from plugin)
                                                   ./build/obj/spi.o (symbol from plugin)
-SVC_Handler                                       C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+SVC_Handler                                       C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/chcore_v7m.o (symbol from plugin)
                                                   ./build/obj/vectors.o
 SysTick_Handler                                   ./build/obj/vectors.o
@@ -1648,63 +1648,63 @@ Vector48                                          ./build/obj/vectors.o
 Vector4C                                          ./build/obj/vectors.o
 Vector50                                          ./build/obj/vectors.o
 Vector54                                          ./build/obj/vectors.o
-Vector58                                          C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+Vector58                                          C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/stm32_isr.o (symbol from plugin)
                                                   ./build/obj/vectors.o
-Vector5C                                          C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+Vector5C                                          C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/stm32_isr.o (symbol from plugin)
                                                   ./build/obj/vectors.o
-Vector60                                          C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+Vector60                                          C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/stm32_isr.o (symbol from plugin)
                                                   ./build/obj/vectors.o
-Vector64                                          C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+Vector64                                          C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/stm32_isr.o (symbol from plugin)
                                                   ./build/obj/vectors.o
-Vector68                                          C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+Vector68                                          C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/stm32_isr.o (symbol from plugin)
                                                   ./build/obj/vectors.o
-Vector6C                                          C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+Vector6C                                          C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/stm32_dma.o (symbol from plugin)
                                                   ./build/obj/vectors.o
-Vector70                                          C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+Vector70                                          C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/stm32_dma.o (symbol from plugin)
                                                   ./build/obj/vectors.o
-Vector74                                          C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+Vector74                                          C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/stm32_dma.o (symbol from plugin)
                                                   ./build/obj/vectors.o
-Vector78                                          C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+Vector78                                          C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/stm32_dma.o (symbol from plugin)
                                                   ./build/obj/vectors.o
-Vector7C                                          C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+Vector7C                                          C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/stm32_dma.o (symbol from plugin)
                                                   ./build/obj/vectors.o
-Vector80                                          C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+Vector80                                          C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/stm32_dma.o (symbol from plugin)
                                                   ./build/obj/vectors.o
-Vector84                                          C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+Vector84                                          C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/stm32_dma.o (symbol from plugin)
                                                   ./build/obj/vectors.o
 Vector88                                          ./build/obj/vectors.o
-Vector8C                                          C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+Vector8C                                          C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/hal_can_lld.o (symbol from plugin)
                                                   ./build/obj/vectors.o
-Vector90                                          C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+Vector90                                          C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/hal_can_lld.o (symbol from plugin)
                                                   ./build/obj/vectors.o
-Vector94                                          C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+Vector94                                          C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/hal_can_lld.o (symbol from plugin)
                                                   ./build/obj/vectors.o
-Vector98                                          C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+Vector98                                          C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/hal_can_lld.o (symbol from plugin)
                                                   ./build/obj/vectors.o
-Vector9C                                          C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+Vector9C                                          C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/stm32_isr.o (symbol from plugin)
                                                   ./build/obj/vectors.o
 VectorA0                                          ./build/obj/vectors.o
 VectorA4                                          ./build/obj/vectors.o
 VectorA8                                          ./build/obj/vectors.o
 VectorAC                                          ./build/obj/vectors.o
-VectorB0                                          C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+VectorB0                                          C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/hal_st_lld.o (symbol from plugin)
                                                   ./build/obj/vectors.o
 VectorB4                                          ./build/obj/vectors.o
@@ -1715,12 +1715,12 @@ VectorC4                                          ./build/obj/vectors.o
 VectorC8                                          ./build/obj/vectors.o
 VectorCC                                          ./build/obj/vectors.o
 VectorD0                                          ./build/obj/vectors.o
-VectorD4                                          C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+VectorD4                                          C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/hal_serial_lld.o (symbol from plugin)
                                                   ./build/obj/vectors.o
 VectorD8                                          ./build/obj/vectors.o
 VectorDC                                          ./build/obj/vectors.o
-VectorE0                                          C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+VectorE0                                          C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/stm32_isr.o (symbol from plugin)
                                                   ./build/obj/vectors.o
 VectorE4                                          ./build/obj/vectors.o
@@ -1739,32 +1739,32 @@ __ch_delegate_fn1                                 ./build/obj/chdelegates.o (sym
 __ch_delegate_fn2                                 ./build/obj/chdelegates.o (symbol from plugin)
 __ch_delegate_fn3                                 ./build/obj/chdelegates.o (symbol from plugin)
 __ch_delegate_fn4                                 ./build/obj/chdelegates.o (symbol from plugin)
-__core_init                                       C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__core_init                                       C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
                                                   ./build/obj/crt0_v7m.o
 __data_base__                                     ./build/obj/ch_test.o (symbol from plugin)
                                                   ./build/obj/crt0_v7m.o
 __data_end__                                      ./build/obj/ch_test.o (symbol from plugin)
                                                   ./build/obj/crt0_v7m.o
-__default_exit                                    C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__default_exit                                    C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
                                                   ./build/obj/crt0_v7m.o
-__early_init                                      C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__early_init                                      C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/board.o (symbol from plugin)
                                                   ./build/obj/crt1.o (symbol from plugin)
                                                   ./build/obj/crt0_v7m.o
 __fini_array_base__                               ./build/obj/crt0_v7m.o
 __fini_array_end__                                ./build/obj/crt0_v7m.o
-__heap_base__                                     C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__heap_base__                                     C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/chmemcore.o (symbol from plugin)
-__heap_end__                                      C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__heap_end__                                      C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/chmemcore.o (symbol from plugin)
 __init_array_base__                               ./build/obj/crt0_v7m.o
 __init_array_end__                                ./build/obj/crt0_v7m.o
-__init_ram_areas                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__init_ram_areas                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
                                                   ./build/obj/crt0_v7m.o
-__late_init                                       C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__late_init                                       C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
                                                   ./build/obj/crt0_v7m.o
 __main_stack_base__                               ./build/obj/crt0_v7m.o
@@ -1772,69 +1772,69 @@ __main_stack_end__                                ./build/obj/vectors.o
                                                   ./build/obj/crt0_v7m.o
 __process_stack_base__                            ./build/obj/crt0_v7m.o
 __process_stack_end__                             ./build/obj/crt0_v7m.o
-__ram0_clear__                                    C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram0_clear__                                    C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
-__ram0_init__                                     C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram0_init__                                     C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
-__ram0_init_text__                                C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram0_init_text__                                C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
-__ram0_noinit__                                   C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram0_noinit__                                   C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
-__ram1_clear__                                    C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram1_clear__                                    C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
-__ram1_init__                                     C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram1_init__                                     C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
-__ram1_init_text__                                C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram1_init_text__                                C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
-__ram1_noinit__                                   C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram1_noinit__                                   C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
-__ram2_clear__                                    C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram2_clear__                                    C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
-__ram2_init__                                     C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram2_init__                                     C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
-__ram2_init_text__                                C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram2_init_text__                                C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
-__ram2_noinit__                                   C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram2_noinit__                                   C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
-__ram3_clear__                                    C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram3_clear__                                    C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
-__ram3_init__                                     C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram3_init__                                     C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
-__ram3_init_text__                                C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram3_init_text__                                C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
-__ram3_noinit__                                   C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram3_noinit__                                   C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
-__ram4_clear__                                    C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram4_clear__                                    C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
-__ram4_init__                                     C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram4_init__                                     C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
-__ram4_init_text__                                C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram4_init_text__                                C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
-__ram4_noinit__                                   C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram4_noinit__                                   C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
-__ram5_clear__                                    C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram5_clear__                                    C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
-__ram5_init__                                     C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram5_init__                                     C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
-__ram5_init_text__                                C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram5_init_text__                                C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
-__ram5_noinit__                                   C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram5_noinit__                                   C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
-__ram6_clear__                                    C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram6_clear__                                    C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
-__ram6_init__                                     C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram6_init__                                     C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
-__ram6_init_text__                                C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram6_init_text__                                C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
-__ram6_noinit__                                   C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram6_noinit__                                   C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
-__ram7_clear__                                    C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram7_clear__                                    C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
-__ram7_init__                                     C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram7_init__                                     C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
-__ram7_init_text__                                C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram7_init_text__                                C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
-__ram7_noinit__                                   C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+__ram7_noinit__                                   C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/crt1.o (symbol from plugin)
 __rodata_base__                                   ./build/obj/ch_test.o (symbol from plugin)
 __rodata_end__                                    ./build/obj/ch_test.o (symbol from plugin)
@@ -1862,7 +1862,7 @@ _pal_lld_setgroupmode                             ./build/obj/hal_pal_lld.o (sym
                                                   ./build/obj/main.o (symbol from plugin)
                                                   ./build/obj/hal_pal.o (symbol from plugin)
 _port_exit_from_isr                               ./build/obj/chcoreasm_v7m.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/chcore_v7m.o (symbol from plugin)
 _port_irq_epilogue                                ./build/obj/chcore_v7m.o (symbol from plugin)
                                                   ./build/obj/hal_serial_lld.o (symbol from plugin)
@@ -1871,13 +1871,13 @@ _port_irq_epilogue                                ./build/obj/chcore_v7m.o (symb
                                                   ./build/obj/hal_can_lld.o (symbol from plugin)
                                                   ./build/obj/stm32_isr.o (symbol from plugin)
 _port_switch                                      ./build/obj/chcoreasm_v7m.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/chschd.o (symbol from plugin)
 _port_switch_from_isr                             ./build/obj/chcoreasm_v7m.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/chcore_v7m.o (symbol from plugin)
 _port_thread_start                                ./build/obj/chcoreasm_v7m.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/chthreads.o (symbol from plugin)
 _scheduler_init                                   ./build/obj/chschd.o (symbol from plugin)
                                                   ./build/obj/chsys.o (symbol from plugin)
@@ -1913,8 +1913,8 @@ _vectors                                          ./build/obj/vectors.o
                                                   ./build/obj/crt0_v7m.o
 _vt_init                                          ./build/obj/chvt.o (symbol from plugin)
                                                   ./build/obj/chsys.o (symbol from plugin)
-adc.cpp.69c01578                                  C:\Users\denes\AppData\Local\Temp\ccze8g6w.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+adc.cpp.69c01578                                  C:\Users\denes\AppData\Local\Temp\ccyyAAaU.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
 adc1_samples                                      ./build/obj/adc.o (symbol from plugin)
                                                   ./build/obj/can.o (symbol from plugin)
 adcAcquireBus                                     ./build/obj/hal_adc.o (symbol from plugin)
@@ -1944,12 +1944,12 @@ adc_lld_stop                                      ./build/obj/hal_adc_lld.o (sym
                                                   ./build/obj/hal_adc.o (symbol from plugin)
 adc_lld_stop_conversion                           ./build/obj/hal_adc_lld.o (symbol from plugin)
                                                   ./build/obj/hal_adc.o (symbol from plugin)
-board.c.aa89af55                                  C:\Users\denes\AppData\Local\Temp\ccrMODMD.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+board.c.aa89af55                                  C:\Users\denes\AppData\Local\Temp\ccg1t7fx.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
 boardInit                                         ./build/obj/board.o (symbol from plugin)
                                                   ./build/obj/hal.o (symbol from plugin)
-can.cpp.d8eb058d                                  C:\Users\denes\AppData\Local\Temp\ccUkCaAy.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+can.cpp.d8eb058d                                  C:\Users\denes\AppData\Local\Temp\ccK0h5Lr.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
 canInit                                           ./build/obj/hal_can.o (symbol from plugin)
                                                   ./build/obj/hal.o (symbol from plugin)
 canObjectInit                                     ./build/obj/hal_can.o (symbol from plugin)
@@ -2211,7 +2211,7 @@ chRegFindThreadByPointer                          ./build/obj/chregistry.o (symb
 chRegFindThreadByWorkingArea                      ./build/obj/chregistry.o (symbol from plugin)
 chRegFirstThread                                  ./build/obj/chregistry.o (symbol from plugin)
 chRegNextThread                                   ./build/obj/chregistry.o (symbol from plugin)
-chSchDoReschedule                                 C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+chSchDoReschedule                                 C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/chschd.o (symbol from plugin)
                                                   ./build/obj/chcoreasm_v7m.o
 chSchDoRescheduleAhead                            ./build/obj/chschd.o (symbol from plugin)
@@ -2355,7 +2355,7 @@ chThdEnqueueTimeoutS                              ./build/obj/chthreads.o (symbo
                                                   ./build/obj/hal_can.o (symbol from plugin)
                                                   ./build/obj/hal_queues.o (symbol from plugin)
                                                   ./build/obj/hal_buffers.o (symbol from plugin)
-chThdExit                                         C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+chThdExit                                         C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/chthreads.o (symbol from plugin)
                                                   ./build/obj/rt_test_sequence_011.o (symbol from plugin)
                                                   ./build/obj/chcoreasm_v7m.o
@@ -2425,53 +2425,53 @@ ch_debug                                          ./build/obj/chregistry.o (symb
 ch_factory                                        ./build/obj/chfactory.o (symbol from plugin)
 ch_idle_thread_wa                                 ./build/obj/chsys.o (symbol from plugin)
 ch_memcore                                        ./build/obj/chmemcore.o (symbol from plugin)
-ch_test.c.c8492b69                                C:\Users\denes\AppData\Local\Temp\ccKAODsA.debug.temp.o
-chcond.c.7b73e2d7                                 C:\Users\denes\AppData\Local\Temp\ccbIxjeQ.debug.temp.o
-chcore.c.2c3d6a64                                 C:\Users\denes\AppData\Local\Temp\cc1KyZxY.debug.temp.o
-chcore_v7m.c.59c0e302                             C:\Users\denes\AppData\Local\Temp\ccsHzZBT.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
-chdebug.c.8c74524c                                C:\Users\denes\AppData\Local\Temp\ccMujEgo.debug.temp.o
-chdelegates.c.053eb910                            C:\Users\denes\AppData\Local\Temp\ccNWsdM8.debug.temp.o
-chdynamic.c.a40d2ddf                              C:\Users\denes\AppData\Local\Temp\ccAm7R1C.debug.temp.o
-chevents.c.64f45715                               C:\Users\denes\AppData\Local\Temp\ccaoD8GL.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
-chfactory.c.45ae353d                              C:\Users\denes\AppData\Local\Temp\ccgQ5RG3.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
-chmboxes.c.9ff24c19                               C:\Users\denes\AppData\Local\Temp\cc3HKJCy.debug.temp.o
-chmemcore.c.ee208866                              C:\Users\denes\AppData\Local\Temp\ccaIqZru.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
-chmemheaps.c.a46b5b0a                             C:\Users\denes\AppData\Local\Temp\cc5XLmdq.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
-chmempools.c.0f9a52fc                             C:\Users\denes\AppData\Local\Temp\ccyRuaXl.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
-chmsg.c.1274c143                                  C:\Users\denes\AppData\Local\Temp\ccBUAboH.debug.temp.o
-chmtx.c.01aa9b8f                                  C:\Users\denes\AppData\Local\Temp\ccyTH1JU.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
-chobjcaches.c.20f9eed0                            C:\Users\denes\AppData\Local\Temp\ccIL4rOd.debug.temp.o
-chpipes.c.d2543de5                                C:\Users\denes\AppData\Local\Temp\cc9CRhVh.debug.temp.o
+ch_test.c.c8492b69                                C:\Users\denes\AppData\Local\Temp\cccJvgGT.debug.temp.o
+chcond.c.7b73e2d7                                 C:\Users\denes\AppData\Local\Temp\ccuOjzkI.debug.temp.o
+chcore.c.2c3d6a64                                 C:\Users\denes\AppData\Local\Temp\ccATwbLv.debug.temp.o
+chcore_v7m.c.59c0e302                             C:\Users\denes\AppData\Local\Temp\cc2Z4EgZ.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+chdebug.c.8c74524c                                C:\Users\denes\AppData\Local\Temp\ccgHxENN.debug.temp.o
+chdelegates.c.053eb910                            C:\Users\denes\AppData\Local\Temp\ccAPiXQy.debug.temp.o
+chdynamic.c.a40d2ddf                              C:\Users\denes\AppData\Local\Temp\ccWOisra.debug.temp.o
+chevents.c.64f45715                               C:\Users\denes\AppData\Local\Temp\ccs35rec.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+chfactory.c.45ae353d                              C:\Users\denes\AppData\Local\Temp\ccsNZCb2.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+chmboxes.c.9ff24c19                               C:\Users\denes\AppData\Local\Temp\ccQV1CKE.debug.temp.o
+chmemcore.c.ee208866                              C:\Users\denes\AppData\Local\Temp\ccUr7V08.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+chmemheaps.c.a46b5b0a                             C:\Users\denes\AppData\Local\Temp\ccIFTLdD.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+chmempools.c.0f9a52fc                             C:\Users\denes\AppData\Local\Temp\ccGUJKF7.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+chmsg.c.1274c143                                  C:\Users\denes\AppData\Local\Temp\cc4srRmG.debug.temp.o
+chmtx.c.01aa9b8f                                  C:\Users\denes\AppData\Local\Temp\ccIRVrme.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+chobjcaches.c.20f9eed0                            C:\Users\denes\AppData\Local\Temp\ccMBCgt5.debug.temp.o
+chpipes.c.d2543de5                                C:\Users\denes\AppData\Local\Temp\cciu6j2B.debug.temp.o
 chprintf                                          ./build/obj/chprintf.o (symbol from plugin)
-chprintf.c.bc1e6605                               C:\Users\denes\AppData\Local\Temp\ccD58zEO.debug.temp.o
-chregistry.c.e2d9c795                             C:\Users\denes\AppData\Local\Temp\cciwisH2.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
-chschd.c.117f22de                                 C:\Users\denes\AppData\Local\Temp\cc7YeMbd.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
-chsem.c.9c75b29f                                  C:\Users\denes\AppData\Local\Temp\cctWkPbZ.debug.temp.o
+chprintf.c.bc1e6605                               C:\Users\denes\AppData\Local\Temp\cckbuBKs.debug.temp.o
+chregistry.c.e2d9c795                             C:\Users\denes\AppData\Local\Temp\ccohIR3j.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+chschd.c.117f22de                                 C:\Users\denes\AppData\Local\Temp\ccaobFB3.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+chsem.c.9c75b29f                                  C:\Users\denes\AppData\Local\Temp\cc2dmslK.debug.temp.o
 chsnprintf                                        ./build/obj/chprintf.o (symbol from plugin)
-chsys.c.261e479d                                  C:\Users\denes\AppData\Local\Temp\cctimpfs.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
-chthreads.c.52ad3637                              C:\Users\denes\AppData\Local\Temp\ccUue5y9.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
-chtm.c.404dcdc5                                   C:\Users\denes\AppData\Local\Temp\ccNdVJ95.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
-chtrace.c.a855de75                                C:\Users\denes\AppData\Local\Temp\ccP2HHwk.debug.temp.o
+chsys.c.261e479d                                  C:\Users\denes\AppData\Local\Temp\ccsRBDYn.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+chthreads.c.52ad3637                              C:\Users\denes\AppData\Local\Temp\ccWyIhPt.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+chtm.c.404dcdc5                                   C:\Users\denes\AppData\Local\Temp\ccuOrVXT.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+chtrace.c.a855de75                                C:\Users\denes\AppData\Local\Temp\ccU7QgBd.debug.temp.o
 chvprintf                                         ./build/obj/chprintf.o (symbol from plugin)
 chvsnprintf                                       ./build/obj/chprintf.o (symbol from plugin)
-chvt.c.6c00777c                                   C:\Users\denes\AppData\Local\Temp\cceg4DJg.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
-crt1.c.c9773146                                   C:\Users\denes\AppData\Local\Temp\ccMVXy1m.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
-digital.cpp.9469349b                              C:\Users\denes\AppData\Local\Temp\ccxILFvu.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+chvt.c.6c00777c                                   C:\Users\denes\AppData\Local\Temp\ccQbImDD.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+crt1.c.c9773146                                   C:\Users\denes\AppData\Local\Temp\ccqo5xer.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+digital.cpp.9469349b                              C:\Users\denes\AppData\Local\Temp\cciYJY2O.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
 digitalInputs                                     ./build/obj/digital.o (symbol from plugin)
                                                   ./build/obj/can.o (symbol from plugin)
 digitalInputsMutex                                ./build/obj/can.o (symbol from plugin)
@@ -2494,43 +2494,43 @@ dmaStreamFreeI                                    ./build/obj/stm32_dma.o (symbo
 flashGetSectorOffset                              ./build/obj/hal_flash.o (symbol from plugin)
 flashGetSectorSize                                ./build/obj/hal_flash.o (symbol from plugin)
 flashWaitErase                                    ./build/obj/hal_flash.o (symbol from plugin)
-hal.c.2da73da5                                    C:\Users\denes\AppData\Local\Temp\ccPX1vFg.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+hal.c.2da73da5                                    C:\Users\denes\AppData\Local\Temp\ccIbsDWS.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
 halInit                                           ./build/obj/hal.o (symbol from plugin)
                                                   ./build/obj/main.o (symbol from plugin)
-hal_adc.c.42dd2104                                C:\Users\denes\AppData\Local\Temp\ccT6bGnA.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
-hal_adc_lld.c.f7e10bdd                            C:\Users\denes\AppData\Local\Temp\cckhuuOv.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
-hal_buffers.c.0d4b61ff                            C:\Users\denes\AppData\Local\Temp\ccH42TN3.debug.temp.o
-hal_can.c.0bbd4c38                                C:\Users\denes\AppData\Local\Temp\ccwv4T3s.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
-hal_can_lld.c.7ecbeff9                            C:\Users\denes\AppData\Local\Temp\ccnRr5Wn.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
-hal_efl_lld.c.54bf10e5                            C:\Users\denes\AppData\Local\Temp\ccP6yoCD.debug.temp.o
-hal_flash.c.0286f634                              C:\Users\denes\AppData\Local\Temp\ccxsxaVO.debug.temp.o
-hal_lld.c.b1a17341                                C:\Users\denes\AppData\Local\Temp\ccECsMEL.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+hal_adc.c.42dd2104                                C:\Users\denes\AppData\Local\Temp\cciYLt4z.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+hal_adc_lld.c.f7e10bdd                            C:\Users\denes\AppData\Local\Temp\ccUXh3Lw.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+hal_buffers.c.0d4b61ff                            C:\Users\denes\AppData\Local\Temp\cckbypPM.debug.temp.o
+hal_can.c.0bbd4c38                                C:\Users\denes\AppData\Local\Temp\ccUVOe30.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+hal_can_lld.c.7ecbeff9                            C:\Users\denes\AppData\Local\Temp\ccWU7wbX.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+hal_efl_lld.c.54bf10e5                            C:\Users\denes\AppData\Local\Temp\ccgzr5h6.debug.temp.o
+hal_flash.c.0286f634                              C:\Users\denes\AppData\Local\Temp\ccm2Ad1G.debug.temp.o
+hal_lld.c.b1a17341                                C:\Users\denes\AppData\Local\Temp\ccc1SfQE.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
 hal_lld_init                                      ./build/obj/hal_lld.o (symbol from plugin)
                                                   ./build/obj/hal.o (symbol from plugin)
-hal_mmcsd.c.51cff6ca                              C:\Users\denes\AppData\Local\Temp\cc8RucGH.debug.temp.o
-hal_pal.c.3fd53f27                                C:\Users\denes\AppData\Local\Temp\cct6hKYl.debug.temp.o
-hal_pal_lld.c.1b785e8c                            C:\Users\denes\AppData\Local\Temp\cczMnMn8.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
-hal_queues.c.577c9409                             C:\Users\denes\AppData\Local\Temp\cc2RWroW.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
-hal_serial.c.7247549b                             C:\Users\denes\AppData\Local\Temp\ccQoVVPe.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
-hal_serial_lld.c.b01ed5e2                         C:\Users\denes\AppData\Local\Temp\ccYIujoL.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
-hal_spi.c.3678c202                                C:\Users\denes\AppData\Local\Temp\ccp78YD7.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
-hal_spi_lld.c.b5b98e25                            C:\Users\denes\AppData\Local\Temp\ccWWKLF0.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
-hal_st.c.fef72aa2                                 C:\Users\denes\AppData\Local\Temp\ccMYciga.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
-hal_st_lld.c.101e31f9                             C:\Users\denes\AppData\Local\Temp\ccDflMUS.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+hal_mmcsd.c.51cff6ca                              C:\Users\denes\AppData\Local\Temp\cckTOI08.debug.temp.o
+hal_pal.c.3fd53f27                                C:\Users\denes\AppData\Local\Temp\ccorpPgs.debug.temp.o
+hal_pal_lld.c.1b785e8c                            C:\Users\denes\AppData\Local\Temp\ccUf9JqO.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+hal_queues.c.577c9409                             C:\Users\denes\AppData\Local\Temp\ccqELLWe.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+hal_serial.c.7247549b                             C:\Users\denes\AppData\Local\Temp\cc4IR2pT.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+hal_serial_lld.c.b01ed5e2                         C:\Users\denes\AppData\Local\Temp\ccqU3en6.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+hal_spi.c.3678c202                                C:\Users\denes\AppData\Local\Temp\ccI96GNk.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+hal_spi_lld.c.b5b98e25                            C:\Users\denes\AppData\Local\Temp\ccqKkaXe.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+hal_st.c.fef72aa2                                 C:\Users\denes\AppData\Local\Temp\ccyKqiVk.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+hal_st_lld.c.101e31f9                             C:\Users\denes\AppData\Local\Temp\ccUlgKHF.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
 ibqGetEmptyBufferI                                ./build/obj/hal_buffers.o (symbol from plugin)
 ibqGetFullBufferTimeout                           ./build/obj/hal_buffers.o (symbol from plugin)
 ibqGetFullBufferTimeoutS                          ./build/obj/hal_buffers.o (symbol from plugin)
@@ -2556,23 +2556,23 @@ iqResetI                                          ./build/obj/hal_queues.o (symb
 irqDeinit                                         ./build/obj/stm32_isr.o (symbol from plugin)
 irqInit                                           ./build/obj/stm32_isr.o (symbol from plugin)
                                                   ./build/obj/hal_lld.o (symbol from plugin)
-main                                              C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+main                                              C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
                                                   ./build/obj/main.o (symbol from plugin)
                                                   ./build/obj/crt0_v7m.o
-main.cpp.8faaef7b                                 C:\Users\denes\AppData\Local\Temp\ccfL4hYz.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+main.cpp.8faaef7b                                 C:\Users\denes\AppData\Local\Temp\ccKedTAZ.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
 max6675_read_temperature(unsigned char)           ./build/obj/spi.o (symbol from plugin)
 memcpy                                            C:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-memcpy.o)
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
 memset                                            C:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-memset.o)
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
-memstreams.c.0a66ccbb                             C:\Users\denes\AppData\Local\Temp\ccOTRgTJ.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+memstreams.c.0a66ccbb                             C:\Users\denes\AppData\Local\Temp\cckXezrW.debug.temp.o
 msObjectInit                                      ./build/obj/memstreams.o (symbol from plugin)
                                                   ./build/obj/chprintf.o (symbol from plugin)
 nullObjectInit                                    ./build/obj/nullstreams.o (symbol from plugin)
-nullstreams.c.eb93bd9c                            C:\Users\denes\AppData\Local\Temp\ccbWSa3E.debug.temp.o
-nvic.c.3932b7ff                                   C:\Users\denes\AppData\Local\Temp\ccSUEJG0.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+nullstreams.c.eb93bd9c                            C:\Users\denes\AppData\Local\Temp\ccgbLF4p.debug.temp.o
+nvic.c.3932b7ff                                   C:\Users\denes\AppData\Local\Temp\ccQLEJ6L.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
 nvicClearPending                                  ./build/obj/nvic.o (symbol from plugin)
 nvicDisableVector                                 ./build/obj/nvic.o (symbol from plugin)
                                                   ./build/obj/hal_serial_lld.o (symbol from plugin)
@@ -2610,9 +2610,9 @@ oqResetI                                          ./build/obj/hal_queues.o (symb
 oqWriteI                                          ./build/obj/hal_queues.o (symbol from plugin)
 oqWriteTimeout                                    ./build/obj/hal_queues.o (symbol from plugin)
                                                   ./build/obj/hal_serial.o (symbol from plugin)
-osal.c.1fb66a64                                   C:\Users\denes\AppData\Local\Temp\ccmQdw9v.debug.temp.o
-out.cpp.1fcbfa20                                  C:\Users\denes\AppData\Local\Temp\ccK0X3Pv.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+osal.c.1fb66a64                                   C:\Users\denes\AppData\Local\Temp\ccUZe55X.debug.temp.o
+out.cpp.1fcbfa20                                  C:\Users\denes\AppData\Local\Temp\cciWYgum.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
 palReadBus                                        ./build/obj/hal_pal.o (symbol from plugin)
 palSetBusMode                                     ./build/obj/hal_pal.o (symbol from plugin)
 palSetLineCallbackI                               ./build/obj/hal_pal.o (symbol from plugin)
@@ -2626,50 +2626,50 @@ pal_default_config                                ./build/obj/board.o (symbol fr
                                                   ./build/obj/hal.o (symbol from plugin)
 port_init                                         ./build/obj/chcore_v7m.o (symbol from plugin)
                                                   ./build/obj/chsys.o (symbol from plugin)
-rt_test_root.c.f62a16ef                           C:\Users\denes\AppData\Local\Temp\cczzAkNv.debug.temp.o
+rt_test_root.c.f62a16ef                           C:\Users\denes\AppData\Local\Temp\ccsrycwn.debug.temp.o
 rt_test_sequence_001                              ./build/obj/rt_test_sequence_001.o (symbol from plugin)
                                                   ./build/obj/rt_test_root.o (symbol from plugin)
-rt_test_sequence_001.c.d790525b                   C:\Users\denes\AppData\Local\Temp\ccylHMaq.debug.temp.o
+rt_test_sequence_001.c.d790525b                   C:\Users\denes\AppData\Local\Temp\cc4MvKiR.debug.temp.o
 rt_test_sequence_001_array                        ./build/obj/rt_test_sequence_001.o (symbol from plugin)
 rt_test_sequence_002                              ./build/obj/rt_test_sequence_002.o (symbol from plugin)
                                                   ./build/obj/rt_test_root.o (symbol from plugin)
-rt_test_sequence_002.c.c1205097                   C:\Users\denes\AppData\Local\Temp\ccjOFduk.debug.temp.o
+rt_test_sequence_002.c.c1205097                   C:\Users\denes\AppData\Local\Temp\ccGSIG9j.debug.temp.o
 rt_test_sequence_002_array                        ./build/obj/rt_test_sequence_002.o (symbol from plugin)
 rt_test_sequence_003                              ./build/obj/rt_test_sequence_003.o (symbol from plugin)
                                                   ./build/obj/rt_test_root.o (symbol from plugin)
-rt_test_sequence_003.c.10dd99f7                   C:\Users\denes\AppData\Local\Temp\ccKABXLe.debug.temp.o
+rt_test_sequence_003.c.10dd99f7                   C:\Users\denes\AppData\Local\Temp\ccW0g0WM.debug.temp.o
 rt_test_sequence_003_array                        ./build/obj/rt_test_sequence_003.o (symbol from plugin)
 rt_test_sequence_004                              ./build/obj/rt_test_sequence_004.o (symbol from plugin)
                                                   ./build/obj/rt_test_root.o (symbol from plugin)
-rt_test_sequence_004.c.adc5e26a                   C:\Users\denes\AppData\Local\Temp\cc9thRh9.debug.temp.o
+rt_test_sequence_004.c.adc5e26a                   C:\Users\denes\AppData\Local\Temp\ccMbLvHf.debug.temp.o
 rt_test_sequence_004_array                        ./build/obj/rt_test_sequence_004.o (symbol from plugin)
 rt_test_sequence_005                              ./build/obj/rt_test_sequence_005.o (symbol from plugin)
                                                   ./build/obj/rt_test_root.o (symbol from plugin)
-rt_test_sequence_005.c.6a5af4f4                   C:\Users\denes\AppData\Local\Temp\ccsWGgL3.debug.temp.o
+rt_test_sequence_005.c.6a5af4f4                   C:\Users\denes\AppData\Local\Temp\cceOL1EI.debug.temp.o
 rt_test_sequence_005_array                        ./build/obj/rt_test_sequence_005.o (symbol from plugin)
 rt_test_sequence_006                              ./build/obj/rt_test_sequence_006.o (symbol from plugin)
                                                   ./build/obj/rt_test_root.o (symbol from plugin)
-rt_test_sequence_006.c.94a370ac                   C:\Users\denes\AppData\Local\Temp\ccDePIrY.debug.temp.o
+rt_test_sequence_006.c.94a370ac                   C:\Users\denes\AppData\Local\Temp\ccQJZQyb.debug.temp.o
 rt_test_sequence_006_array                        ./build/obj/rt_test_sequence_006.o (symbol from plugin)
 rt_test_sequence_007                              ./build/obj/rt_test_sequence_007.o (symbol from plugin)
                                                   ./build/obj/rt_test_root.o (symbol from plugin)
-rt_test_sequence_007.c.f127faec                   C:\Users\denes\AppData\Local\Temp\ccGiyC3S.debug.temp.o
+rt_test_sequence_007.c.f127faec                   C:\Users\denes\AppData\Local\Temp\cck7BGGE.debug.temp.o
 rt_test_sequence_007_array                        ./build/obj/rt_test_sequence_007.o (symbol from plugin)
 rt_test_sequence_008                              ./build/obj/rt_test_sequence_008.o (symbol from plugin)
                                                   ./build/obj/rt_test_root.o (symbol from plugin)
-rt_test_sequence_008.c.0a9b96dd                   C:\Users\denes\AppData\Local\Temp\ccZqZNCN.debug.temp.o
+rt_test_sequence_008.c.0a9b96dd                   C:\Users\denes\AppData\Local\Temp\ccaOEnI7.debug.temp.o
 rt_test_sequence_008_array                        ./build/obj/rt_test_sequence_008.o (symbol from plugin)
 rt_test_sequence_009                              ./build/obj/rt_test_sequence_009.o (symbol from plugin)
                                                   ./build/obj/rt_test_root.o (symbol from plugin)
-rt_test_sequence_009.c.286362b7                   C:\Users\denes\AppData\Local\Temp\ccWfwEqI.debug.temp.o
+rt_test_sequence_009.c.286362b7                   C:\Users\denes\AppData\Local\Temp\cc4oZtZA.debug.temp.o
 rt_test_sequence_009_array                        ./build/obj/rt_test_sequence_009.o (symbol from plugin)
 rt_test_sequence_010                              ./build/obj/rt_test_sequence_010.o (symbol from plugin)
                                                   ./build/obj/rt_test_root.o (symbol from plugin)
-rt_test_sequence_010.c.b08f64bd                   C:\Users\denes\AppData\Local\Temp\ccfyIJ9C.debug.temp.o
+rt_test_sequence_010.c.b08f64bd                   C:\Users\denes\AppData\Local\Temp\ccgloxb4.debug.temp.o
 rt_test_sequence_010_array                        ./build/obj/rt_test_sequence_010.o (symbol from plugin)
 rt_test_sequence_011                              ./build/obj/rt_test_sequence_011.o (symbol from plugin)
                                                   ./build/obj/rt_test_root.o (symbol from plugin)
-rt_test_sequence_011.c.26873b51                   C:\Users\denes\AppData\Local\Temp\ccwTINBB.debug.temp.o
+rt_test_sequence_011.c.26873b51                   C:\Users\denes\AppData\Local\Temp\cceMCbmx.debug.temp.o
 rt_test_sequence_011_array                        ./build/obj/rt_test_sequence_011.o (symbol from plugin)
 rt_test_suite                                     ./build/obj/rt_test_root.o (symbol from plugin)
 rt_test_suite_array                               ./build/obj/rt_test_root.o (symbol from plugin)
@@ -2692,8 +2692,8 @@ sd_lld_start                                      ./build/obj/hal_serial_lld.o (
                                                   ./build/obj/hal_serial.o (symbol from plugin)
 sd_lld_stop                                       ./build/obj/hal_serial_lld.o (symbol from plugin)
                                                   ./build/obj/hal_serial.o (symbol from plugin)
-spi.cpp.d890e806                                  C:\Users\denes\AppData\Local\Temp\ccIeZ2pt.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+spi.cpp.d890e806                                  C:\Users\denes\AppData\Local\Temp\ccE5PSxh.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
 spiAbort                                          ./build/obj/hal_spi.o (symbol from plugin)
 spiAbortI                                         ./build/obj/hal_spi.o (symbol from plugin)
 spiAcquireBus                                     ./build/obj/hal_spi.o (symbol from plugin)
@@ -2772,10 +2772,10 @@ startSpiThread()                                  ./build/obj/spi.o (symbol from
                                                   ./build/obj/main.o (symbol from plugin)
 stm32_clock_init                                  ./build/obj/hal_lld.o (symbol from plugin)
                                                   ./build/obj/board.o (symbol from plugin)
-stm32_dma.c.0faca184                              C:\Users\denes\AppData\Local\Temp\cciPF51f.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
-stm32_isr.c.fe66df43                              C:\Users\denes\AppData\Local\Temp\cch0GfET.debug.temp.o
-                                                  C:\Users\denes\AppData\Local\Temp\cce7aKsG.ltrans0.ltrans.o
+stm32_dma.c.0faca184                              C:\Users\denes\AppData\Local\Temp\ccqgpEPn.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
+stm32_isr.c.fe66df43                              C:\Users\denes\AppData\Local\Temp\ccyWE6md.debug.temp.o
+                                                  C:\Users\denes\AppData\Local\Temp\ccUVYlKI.ltrans0.ltrans.o
 temperature1                                      ./build/obj/spi.o (symbol from plugin)
                                                   ./build/obj/can.o (symbol from plugin)
 temperature2                                      ./build/obj/spi.o (symbol from plugin)

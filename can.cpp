@@ -112,12 +112,12 @@ static THD_FUNCTION(CanTxThread, p)
         canTxMsg2.data16[1] = adc1_samples[1];
         canTxMsg2.data16[2] = adc1_samples[2];
         canTxMsg2.data16[3] = adc1_samples[3];
-        canTxMsg3.data16[4] = adc1_samples[4];
-        canTxMsg3.data16[5] = adc1_samples[5];
-        canTxMsg3.data16[6] = adc1_samples[6];
-        canTxMsg3.data16[7] = adc1_samples[7];
-        canTxMsg4.data16[8] = adc1_samples[8];
-        canTxMsg4.data16[9] = adc1_samples[9];
+        canTxMsg3.data16[0] = adc1_samples[4];
+        canTxMsg3.data16[1] = adc1_samples[5];
+        canTxMsg3.data16[2] = adc1_samples[6];
+        canTxMsg3.data16[3] = adc1_samples[7];
+        canTxMsg4.data16[0] = adc1_samples[8];
+        canTxMsg4.data16[1] = adc1_samples[9];
         chMtxUnlock(&adcSampleMutex);
 
         canTransmit(&CAND1, CAN_ANY_MAILBOX, &canTxMsg1, TIME_INFINITE);

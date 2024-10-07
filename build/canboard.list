@@ -6610,28 +6610,28 @@ static THD_FUNCTION(CanTxThread, p)
         canTxMsg2.data16[0] = adc1_samples[0];
  80027a6:	f8d9 3004 	ldr.w	r3, [r9, #4]
         canTxMsg2.data16[3] = adc1_samples[3];
-        canTxMsg3.data16[4] = adc1_samples[4];
-        canTxMsg3.data16[5] = adc1_samples[5];
-        canTxMsg3.data16[6] = adc1_samples[6];
-        canTxMsg3.data16[7] = adc1_samples[7];
-        canTxMsg4.data16[8] = adc1_samples[8];
+        canTxMsg3.data16[0] = adc1_samples[4];
+        canTxMsg3.data16[1] = adc1_samples[5];
+        canTxMsg3.data16[2] = adc1_samples[6];
+        canTxMsg3.data16[3] = adc1_samples[7];
+        canTxMsg4.data16[0] = adc1_samples[8];
  80027aa:	4a17      	ldr	r2, [pc, #92]	@ (8002808 <_ZL11CanTxThreadPv+0x128>)
         canTxMsg2.data16[0] = adc1_samples[0];
  80027ac:	f8c8 300c 	str.w	r3, [r8, #12]
  80027b0:	f8d9 3000 	ldr.w	r3, [r9]
-        canTxMsg4.data16[9] = adc1_samples[9];
+        canTxMsg4.data16[1] = adc1_samples[9];
         chMtxUnlock(&adcSampleMutex);
  80027b4:	481d      	ldr	r0, [pc, #116]	@ (800282c <_ZL11CanTxThreadPv+0x14c>)
         canTxMsg2.data16[0] = adc1_samples[0];
  80027b6:	f8c8 3008 	str.w	r3, [r8, #8]
-        canTxMsg3.data16[4] = adc1_samples[4];
+        canTxMsg3.data16[0] = adc1_samples[4];
  80027ba:	f8d9 300c 	ldr.w	r3, [r9, #12]
- 80027be:	617b      	str	r3, [r7, #20]
+ 80027be:	60fb      	str	r3, [r7, #12]
  80027c0:	f8d9 3008 	ldr.w	r3, [r9, #8]
- 80027c4:	613b      	str	r3, [r7, #16]
-        canTxMsg4.data16[8] = adc1_samples[8];
+ 80027c4:	60bb      	str	r3, [r7, #8]
+        canTxMsg4.data16[0] = adc1_samples[8];
  80027c6:	f8d9 3010 	ldr.w	r3, [r9, #16]
- 80027ca:	6193      	str	r3, [r2, #24]
+ 80027ca:	6093      	str	r3, [r2, #8]
         chMtxUnlock(&adcSampleMutex);
  80027cc:	f7ff fe68 	bl	80024a0 <chMtxUnlock>
 
